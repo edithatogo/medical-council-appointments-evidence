@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" id="Definitions_appointments" targetNamespace="https://research.local/nzmj2026202" exporter="Case-local descriptive process exporter" exporterVersion="1">
   <bpmn:process id="appointments" name="Documented appointment sequence" isExecutable="false">
-    <bpmn:documentation>Sequence reconstructed from released records. The reason for APH non-progression and the authoritative lodged version remain unlocated. Formal appointment is a ministerial statutory act; Council leadership election is separate.</bpmn:documentation>
+    <bpmn:documentation>Sequence reconstructed from released records. The released APH paper is present; independent confirmation of its final lodged version, the actual minute and the reason for non-progression remain unresolved. Formal appointment is a ministerial statutory act; Council leadership election is separate.</bpmn:documentation>
     <bpmn:startEvent id="appointments_start"/>
     <bpmn:subProcess id="appointments_assessment" name="Ministry assessment and ministerial selection">
       <bpmn:startEvent id="assessment_start"/>
@@ -48,7 +48,7 @@
     <bpmn:sequenceFlow id="appointments_flow2" sourceRef="appointments_consideration" targetRef="appointments_notification"/>
     <bpmn:sequenceFlow id="appointments_flow3" sourceRef="appointments_notification" targetRef="appointments_end"/>
     <bpmn:textAnnotation id="appointments_limit">
-      <bpmn:text>Sequence reconstructed from released records. The reason for APH non-progression and the authoritative lodged version remain unlocated. Formal appointment is a ministerial statutory act; Council leadership election is separate.</bpmn:text>
+      <bpmn:text>Sequence reconstructed from released records. The released APH paper is present; independent confirmation of its final lodged version, the actual minute and the reason for non-progression remain unresolved. Formal appointment is a ministerial statutory act; Council leadership election is separate.</bpmn:text>
     </bpmn:textAnnotation>
   </bpmn:process>
 </bpmn:definitions>

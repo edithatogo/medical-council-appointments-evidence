@@ -1,0 +1,54 @@
+[
+  {
+    "id": "APH-OIA-35120",
+    "title": "SBOIA26-1206 response to appointment documents request",
+    "issuer": "Office of the Minister of Health",
+    "communicated_date": "2026-08-24",
+    "document_date": "undated PDF",
+    "url": "https://fyi.org.nz/request/35120/response/151106/attach/5/SBOIA26%201206%20Response%20Letter.pdf",
+    "sha256": "b7349073cb89e4527afbae32c9a4c591746b536fc8e5626d34dc8050732e7dbe",
+    "review": "Full response text examined; relevant page1 checked; advertisement contextual.",
+    "adds": "Identifies paper considered by APH12May for planned Septemberrelease; section18(d) plus partial substantive answer.",
+    "limits": "Does not independently bind releasedDoc9 to finalCabNet version; refers to an AppendixTwo not included in this downloaded responsePDF.",
+    "access": "original retained in private research collection; official source linked",
+    "public_redistribution": "metadata/link; no new licence over original inferred"
+  },
+  {
+    "id": "APH-OIA-35149",
+    "title": "SBOIA26-1216 response to Cabinet paper request",
+    "issuer": "Office of the Minister of Health",
+    "communicated_date": "2026-08-24",
+    "document_date": "undated PDF",
+    "url": "https://fyi.org.nz/request/35149/response/151107/attach/5/SBOIA26%201216%20Response%20Letter.pdf",
+    "sha256": "e16941330e13ac3ea1adfd1715b23287da7f6a5f7a828c8c341591b91d7601c4",
+    "review": "Full response text examined.",
+    "adds": "Routes duplicate request toSBOIA26-1206.",
+    "limits": "Not a separate finding of nonexistence or wrongdoing.",
+    "access": "original retained in private research collection; official source linked",
+    "public_redistribution": "metadata/link; no new licence over original inferred"
+  },
+  {
+    "id": "APH-LAW-Q22",
+    "title": "Te Pouarahi: Q22 What record is appropriate?",
+    "issuer": "Crown Law",
+    "url": "https://joys.crownlaw.govt.nz/q22-record/",
+    "sha256": "bc52a33fe9b030854aec1f311db2985fe7381e7ea8c00cc6413539608b5e5593",
+    "review": "Full substantive web guidance examined.",
+    "adds": "Guidance supports recording reasons and new/different matters when a recommendation is not accepted.",
+    "limits": "Official guidance, not adjudication of these appointments; no concealment finding.",
+    "access": "original retained in private research collection; official source linked",
+    "public_redistribution": "metadata/link; no new licence over original inferred"
+  },
+  {
+    "id": "APH-LAW-PRA",
+    "title": "Public Records Act2005, version25October2025",
+    "issuer": "New Zealand legislation",
+    "url": "https://legislation.govt.nz/act/public/2005/40/en/2025-10-25.pdf",
+    "sha256": "7018561098f0f13e4a2ca7febeab7f534fc7b88495d54f5d6e8d2dafee8e1edc",
+    "review": "Section17 and relevant definitions examined.",
+    "adds": "Statutory recordkeeping context.",
+    "limits": "No appointment-specific breach established.",
+    "access": "original retained in private research collection; official source linked",
+    "public_redistribution": "metadata/link; no new licence over original inferred"
+  }
+]
