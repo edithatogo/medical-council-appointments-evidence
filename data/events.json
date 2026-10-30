@@ -111,10 +111,10 @@
     "event_id": "APPT-10",
     "event_date": "",
     "record_date": "2026-04/05",
-    "actor": "Minister office draft/proposed paper",
+    "actor": "Office of the Minister of Health, released APH paper",
     "action": "Propose Love term1June2026–31May2029",
     "source_id": "appointments",
-    "locator": "Doc9 pp59–63",
+    "locator": "G045 BLACKBOX, Document 9, PDF pages 61–65",
     "observed_state": "Proposal explicitly includes Love",
     "evidence_limit": "Released APH paper; OIA responses identify considered paper for release. Final lodged-version identity not independently authenticated.",
     "causal_inference": false
