@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "base": "data/catalogue.json",
+  "extensions": [
+    {
+      "path": "research-updates/2026-10-30/source-register.json",
+      "scope": "Initial discovery and capture register"
+    },
+    {
+      "path": "research-updates/2026-10-30-resource-assessment/document-assessments.json",
+      "scope": "Reconciled resource assessment; aliases are not independent evidence"
+    }
+  ]
+}

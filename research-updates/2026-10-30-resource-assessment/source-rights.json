@@ -1,0 +1,22 @@
+[
+  {
+    "id": "G014",
+    "raw_sha256": "ced7ab1c2a70bd209e084836784acb07c522aa3cb0f465f96e2860c406fcbc1f",
+    "raw_status": "retain_private_not_cleared",
+    "derivative_sha256": "b397665751e4235ed3457b3d7b636e3fa676acb744d2b7d43a434f48c72a42ba",
+    "derivative_status": "cleared_text_only",
+    "basis_url": "https://www.health.govt.nz/about-this-site/copyright",
+    "basis_sha256": "08cee3dc47f81814c982a18b841dc88c13f41b765f7608ba62529f8dc827cc32",
+    "scope": "Ministry-authored briefing paragraphs on PDFpages3–5 only; no separately attributed third-party text found. Discussion of Pharmacy Council work is Ministry narrative, not reproduction of a third-party document.",
+    "exclusions": [
+      "logos",
+      "graphics",
+      "cover/contact block",
+      "signatures",
+      "third-party supplied originals"
+    ],
+    "limitations": "No permission asserted over full rawPDF or mixed BLACKBOXbundle. Proactive release status retained; IN CONFIDENCE is original classification, not evidence of continuing secrecy after official release.",
+    "attribution": "Ministry of Health – Manatū Hauora; title,date,reference,source URL,CC BY4.0 link and changes embedded.",
+    "derivative_file": "G014-government-text-excerpt.txt"
+  }
+]

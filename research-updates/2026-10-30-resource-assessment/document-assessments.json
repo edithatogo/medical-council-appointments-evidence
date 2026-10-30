@@ -1,0 +1,1223 @@
+[
+  {
+    "id": "G008",
+    "title": "releases",
+    "document_date": "not applicable or unestablished",
+    "url": "https://github.com/edithatogo/closer-to-whom/releases",
+    "identity_classification": "infrastructure_or_discovery_link",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "Archive/code infrastructure is useful for provenance and retrieval, not appointment evidence.",
+    "disposition": "no_change",
+    "reason": "Infrastructure not substantive evidence; existing qualified archives used directly.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "not_a_substantive_document",
+    "identity_category": "non_substantive_discovery_link"
+  },
+  {
+    "id": "G012",
+    "title": "edithatogo",
+    "document_date": "not applicable or unestablished",
+    "url": "https://github.com/edithatogo",
+    "identity_classification": "infrastructure_or_discovery_link",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "Archive/code infrastructure is useful for provenance and retrieval, not appointment evidence.",
+    "disposition": "no_change",
+    "reason": "Infrastructure not substantive evidence; existing qualified archives used directly.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "not_a_substantive_document",
+    "identity_category": "non_substantive_discovery_link"
+  },
+  {
+    "id": "G023",
+    "title": "GitHub profile",
+    "document_date": "not applicable or unestablished",
+    "url": "https://www.reddit.com/r/newzealand/comments/1v8fmxq/doctor_at_centre_of_free_speech_row_appointed_to/",
+    "identity_classification": "located_incomplete",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "No verified new documentary evidence established.",
+    "disposition": "no_change",
+    "reason": "Placeholder URL or discussion aggregator supplies no independently verified material.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "not_retrieved",
+    "identity_category": "identity_scope_described_in_record"
+  },
+  {
+    "id": "G035",
+    "title": "watch?v=EWUzBPnvxo0",
+    "document_date": "not applicable or unestablished",
+    "url": "https://www.youtube.com/watch?v=EWUzBPnvxo0",
+    "identity_classification": "located_incomplete",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "No verified new documentary evidence established.",
+    "disposition": "pending",
+    "reason": "Unresolved video content is a discovery lead only; underlying primaryrecords take priority.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "not_retrieved",
+    "identity_category": "located_incomplete"
+  },
+  {
+    "id": "G037",
+    "title": "release-please.yml",
+    "document_date": "not applicable or unestablished",
+    "url": "https://github.com/edithatogo/fyi-cli/actions/workflows/release-please.yml",
+    "identity_classification": "infrastructure_or_discovery_link",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "Archive/code infrastructure is useful for provenance and retrieval, not appointment evidence.",
+    "disposition": "no_change",
+    "reason": "Infrastructure not substantive evidence; existing qualified archives used directly.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "not_a_substantive_document",
+    "identity_category": "non_substantive_discovery_link"
+  },
+  {
+    "id": "G039",
+    "title": "corpus-legislation-nz",
+    "document_date": "not applicable or unestablished",
+    "url": "https://huggingface.co/datasets/edithatogo/corpus-legislation-nz",
+    "identity_classification": "infrastructure_or_discovery_link",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "Archive/code infrastructure is useful for provenance and retrieval, not appointment evidence.",
+    "disposition": "no_change",
+    "reason": "Infrastructure not substantive evidence; existing qualified archives used directly.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "not_a_substantive_document",
+    "identity_category": "non_substantive_discovery_link"
+  },
+  {
+    "id": "G041",
+    "title": "v1.0.0",
+    "document_date": "not applicable or unestablished",
+    "url": "https://github.com/edithatogo/medical-council-appointments-evidence/releases/tag/v1.0.0",
+    "identity_classification": "infrastructure_or_discovery_link",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "Archive/code infrastructure is useful for provenance and retrieval, not appointment evidence.",
+    "disposition": "no_change",
+    "reason": "Infrastructure not substantive evidence; existing qualified archives used directly.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "repository_verified",
+    "identity_category": "non_substantive_discovery_link"
+  },
+  {
+    "id": "G043",
+    "title": "unknown_url",
+    "document_date": "not applicable or unestablished",
+    "url": "http://docs.google.com/unknown_url",
+    "identity_classification": "located_incomplete",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "No verified new documentary evidence established.",
+    "disposition": "no_change",
+    "reason": "Placeholder URL or discussion aggregator supplies no independently verified material.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "not_retrieved",
+    "identity_category": "identity_scope_described_in_record"
+  },
+  {
+    "id": "G046",
+    "title": "medical-council-appointments-evidence",
+    "document_date": "not applicable or unestablished",
+    "url": "https://github.com/edithatogo/medical-council-appointments-evidence",
+    "identity_classification": "infrastructure_or_discovery_link",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "Archive/code infrastructure is useful for provenance and retrieval, not appointment evidence.",
+    "disposition": "no_change",
+    "reason": "Infrastructure not substantive evidence; existing qualified archives used directly.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "repository_verified",
+    "identity_category": "non_substantive_discovery_link"
+  },
+  {
+    "id": "G049",
+    "title": "osf-cli-go",
+    "document_date": "not applicable or unestablished",
+    "url": "https://pkg.go.dev/github.com/edithatogo/osf-cli-go",
+    "identity_classification": "infrastructure_or_discovery_link",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "Archive/code infrastructure is useful for provenance and retrieval, not appointment evidence.",
+    "disposition": "no_change",
+    "reason": "Infrastructure not substantive evidence; existing qualified archives used directly.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "not_a_substantive_document",
+    "identity_category": "non_substantive_discovery_link"
+  },
+  {
+    "id": "G050",
+    "title": "watch?v=Tze4fBBt5Pk",
+    "document_date": "not applicable or unestablished",
+    "url": "https://www.youtube.com/watch?v=Tze4fBBt5Pk",
+    "identity_classification": "located_incomplete",
+    "prior_ids": [],
+    "review_extent": "Link purpose and relevance assessed; no content claim from unviewed video or Reddit",
+    "locators": [],
+    "new_information": "No verified new documentary evidence established.",
+    "disposition": "pending",
+    "reason": "Unresolved video content is a discovery lead only; underlying primaryrecords take priority.",
+    "rights": "No external content reproduced",
+    "retrieval_status": "not_retrieved",
+    "identity_category": "located_incomplete"
+  },
+  {
+    "id": "G003",
+    "title": "FSU submissions index at alternate host",
+    "url": "https://fsu.frb.io/news?category=Submissions+%26+Reports",
+    "identity_classification": "navigation_or_discovery_index",
+    "prior_ids": [],
+    "review_extent": "No substantive content verified at this URL; purpose assessed",
+    "locators": [],
+    "new_information": "No independent appointment evidence; identified underlying documents assessed separately.",
+    "disposition": "no_change",
+    "reason": "Index itself not needed; direct sources independently assessed.",
+    "rights": "No source republication",
+    "retrieval_status": "failed_or_challenge_capture",
+    "identity_category": "non_substantive_discovery_link"
+  },
+  {
+    "id": "G016",
+    "title": "Ministerial profile and releases pagination",
+    "url": "https://www.beehive.govt.nz/minister/hon-simeon-brown?page=2",
+    "identity_classification": "navigation_or_discovery_index",
+    "prior_ids": [],
+    "review_extent": "No substantive content verified at this URL; purpose assessed",
+    "locators": [],
+    "new_information": "No independent appointment evidence; identified underlying documents assessed separately.",
+    "disposition": "no_change",
+    "reason": "Index itself not needed; direct sources independently assessed.",
+    "rights": "No source republication",
+    "retrieval_status": "failed_or_challenge_capture",
+    "identity_category": "non_substantive_discovery_link"
+  },
+  {
+    "id": "G014",
+    "title": "Meeting with the Pharmacy Council, H2025067760",
+    "date": "4 June 2025; meeting 5 June",
+    "sha256": "ced7ab1c2a70bd209e084836784acb07c522aa3cb0f465f96e2860c406fcbc1f",
+    "identity_classification": "additional_document",
+    "prior_ids": [],
+    "review_extent": "Entire five-page extracted text, including cover; source-specific rights assessment.",
+    "locators": [
+      "PDF pp2–5, paras1–23"
+    ],
+    "new_information": [
+      "Efficient overseas registration was paired with thorough assessment; prescribing review maintained requirements with experienced-practitioner exemptions. Workforce barriers include employment and funding. Wu already held multiple regulatory roles."
+    ],
+    "disposition": "archive_only",
+    "reason": "Useful comparative context, but does not establish bargain, alignment, or motive behind later Medical Council leadership.",
+    "rights": "Government-authored text-only derivative cleared under MoH CC BY4.0; raw not cleared because logos/graphics excluded. See rights-G014.json.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G028",
+    "title": "Appointments to the Medical Council, Gazette 2026-go4055",
+    "date": "Unverified direct notice",
+    "sha256": "615351a28f459a94893452f750344eb014edcf752a82c4046d77c4e0df9e86dc",
+    "identity_classification": "failed_capture",
+    "prior_ids": [],
+    "review_extent": "Existing Incapsula response and new web403 only.",
+    "locators": [
+      "URL notice/id/2026-go4055"
+    ],
+    "new_information": [
+      "No notice contents obtained. G045 p112 contains a separately identified draft notice dated21July; p127 emails say Gazette issued23July."
+    ],
+    "disposition": "pending",
+    "reason": "Do not equate draft or email with final Gazette. No documentary hash identity established from error page.",
+    "rights": "Raw retained privately; no redistribution clearance inferred.",
+    "retrieval_status": "not_retrieved_or_only_challenge",
+    "identity_category": "located_incomplete"
+  },
+  {
+    "id": "G029",
+    "title": "Medical Council to regulate the Physician Associate profession",
+    "date": "29 April 2025",
+    "sha256": "12f20d2ee50c85f2bbd34ce36fe1cf4ba149dd81ccba816391719822bd0493eb",
+    "identity_classification": "additional_document",
+    "prior_ids": [],
+    "review_extent": "All substantive article text; dynamic banner distinguished.",
+    "locators": [
+      "Article dated29April2025"
+    ],
+    "new_information": [
+      "Minister announced Council responsibility for PAs, initial HealthNZ funding and future consultation. Love welcomed safety regulation. Current1October2026 banner is separate from article date."
+    ],
+    "disposition": "archive_only",
+    "reason": "Explains PA membership context without proving appointment motive.",
+    "rights": "Raw retained privately; no redistribution clearance inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G030",
+    "title": "Medical Council Charities Register CC35628",
+    "date": "Capture30October2026; registration30June2008",
+    "sha256": "4ff14ab300a0e56f468ced3de8562a66184528155a6f06dbabdb1e8f21228067",
+    "identity_classification": "additional_dynamic_record",
+    "prior_ids": [],
+    "review_extent": "Substantive current register and visible page1 officer records; pagination not exhausted.",
+    "locators": [
+      "Officer rows; NOC028/029/030"
+    ],
+    "new_information": [
+      "Registers new members effective1June,27July,28September; Love/Watt past since1June. These administrative dates do not prove statutory cessation or Gazette publication. Paterson remains listed."
+    ],
+    "disposition": "archive_only",
+    "reason": "Retain as reported registry dates with qualifications; not a statutory appointment instrument.",
+    "rights": "Raw retained privately; no redistribution clearance inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G031",
+    "title": "Medical Council: Our people",
+    "date": "Undated current page captured30October2026",
+    "sha256": "6d948a45bc61610f0d39d88ae4a4e059c027f1c47a8d0c0f670f63119b06e016",
+    "identity_classification": "additional_dynamic_record",
+    "prior_ids": [],
+    "review_extent": "All substantive member and executive biographies.",
+    "locators": [
+      "Mulgan, Wu, Hart, Paterson profiles"
+    ],
+    "new_information": [
+      "Mulgan profile acknowledges current FSU directorship/former chair role; Wu deputy chair; Paterson still listed. Profile affiliations alone prove neither conflict misconduct nor coordinated governmental intention."
+    ],
+    "disposition": "archive_only",
+    "reason": "Public biographies useful provenance; adding individual merits would drift from reversal argument.",
+    "rights": "Raw retained privately; no redistribution clearance inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G032",
+    "title": "Appointments made to Medical Council",
+    "date": "2026-07-27",
+    "sha256": "dfe5cda7a8af4a170c6c408c49b88026bf933f9d11ccefb38744844feda2c1f9",
+    "identity_classification": "official_announcement_embedded_in_existing_bundle",
+    "prior_ids": [
+      "S075",
+      "M0147",
+      "M0184"
+    ],
+    "review_extent": "OCR followed by independent visual confirmation of full announcement on BLACKBOX PDFpage140",
+    "locators": [
+      "G045 PDFpage140"
+    ],
+    "new_information": "Embedded Beehive release dated27July2026 confirms four new appointments,two reappointments and elected June chair; distinct from earlier draft.",
+    "disposition": "archive_only",
+    "reason": "Resolves announcement content/date without relying on failed live capture. Does not establish Love-specific completed reappointment.",
+    "rights": "Raw retained privately; no redistribution clearance inferred.",
+    "retrieval_status": "official_webpage_reproduced_in_released_bundle; live_capture_failed",
+    "identity_category": "existing_document_additional_examination",
+    "evidence_object_sha256": "dfe5cda7a8af4a170c6c408c49b88026bf933f9d11ccefb38744844feda2c1f9",
+    "evidence_object": "G045 official released bundle, PDFpage140",
+    "failed_live_capture_sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "id": "G042",
+    "title": "Medical Council appointments and reappointments",
+    "date": "8 July 2024",
+    "sha256": "a71c83ff8a7d301dfa11e3cd3c95b15216520403f93884ea52dd568dfa1baeb8",
+    "identity_classification": "additional_historical_document",
+    "prior_ids": [],
+    "review_extent": "Entire substantive article.",
+    "locators": [
+      "Effective1July2024 announcement; outgoing/new member lists"
+    ],
+    "new_information": [
+      "Bismark/Muthu new; Child/Goodman reappointed after election; Associate MinisterDoocey made appointments. Love was then chair."
+    ],
+    "disposition": "archive_only",
+    "reason": "Historical roster cannot establish2026 membership.",
+    "rights": "Raw retained privately; no redistribution clearance inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G045",
+    "title": "BLACKBOX Medical Council Documents version6 22.09",
+    "date": "Release September2026; records2025–2026",
+    "sha256": "dfe5cda7a8af4a170c6c408c49b88026bf933f9d11ccefb38744844feda2c1f9",
+    "identity_classification": "exact_raw_duplicate_deeper_analysis",
+    "prior_ids": [
+      "S081",
+      "M0164"
+    ],
+    "review_extent": "All143PDFpages text-layer relevance screened plus full reading of45supplementary localOCRpages; materialnewpp28,125,140visuallyconfirmed. Seeocr-screening-assessment.json. OCRerrors/redactions remain; not certified fulltranscription. Supplemented by all45 image-page OCR outputs; material new content visually checked pp28,125,140. Root visually checked pp68–69: redacted talking points, not blank pages.",
+    "locators": [
+      "Doc3pp24–26",
+      "Doc5pp35–38",
+      "Doc15p79",
+      "Doc20pp89–91",
+      "Doc23p103",
+      "Doc26pp110–112",
+      "Doc31p127",
+      "Doc32pp128–133",
+      "p141"
+    ],
+    "new_information": [
+      "16March Wyatt names Kalupahana;18March reply says already interview-listed; April candidate report also lists her under5March instruction. Contrary to irregular late insertion inference.",
+      "9July briefing states12May APH authorised one additional appointment after due diligence without further Cabinet referral. Mulgan assessed appointable but significant conflict identified; management language in21July appointment letter. Does not prove unlawful appointment.",
+      "Cook25June says accepted1June term but could not attend June meeting pending announcement. Useful concrete process consequence, not independently adjudicated legal invalidity.",
+      "July23 draft notice and later press-release delays are distinct events. Paterson expressly continuing despite nonreappointment.",
+      "p141 media questions are questions, not substantiated findings; response favours candidate regulatory competence."
+    ],
+    "disposition": "archive_only",
+    "reason": "Prioritise archive/supplement evidence. No demonstrated contradiction with current main text requiring immediate revision. Any concise later addition needs prospective contract and source-specific checks; preserve due diligence and conflict-management mitigations.",
+    "rights": "Mixed bundle includes third-party emails, CV material, names/contact details and images. No blanket raw or complete derivative clearance.",
+    "integrator_disposition": "archive_only",
+    "integrator_reason": "Important source/event clarification retained in supplement/archive; no need to add appointee-specific detail to the main reversal argument.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "existing_document_additional_examination"
+  },
+  {
+    "id": "G051",
+    "title": "Advice to the Minister of Health: February2026",
+    "date": "February2026 log",
+    "sha256": "08cee3dc47f81814c982a18b841dc88c13f41b765f7608ba62529f8dc827cc32",
+    "identity_classification": "newly_retrieved_web_representation",
+    "prior_ids": [],
+    "review_extent": "Full relevant monthly table via web; directCLI403.",
+    "locators": [
+      "web-retrieval.json; official page lines222–287, especially236,251"
+    ],
+    "new_information": [
+      "10February H2026077470 title withheld under9(2)(f)(iv); now identifiable through BLACKBOX. 16February H2025077198 Pharmacy Council meeting is DIFFERENT from June2025 G014."
+    ],
+    "disposition": "archive_only",
+    "reason": "A log entry proves advice record/date, not meeting occurrence or contents. New February Pharmacy paper is a bounded lead, not reviewed evidence.",
+    "rights": "Official government table text falls under MoH policy, but stored web representation contains navigation; publish selected table derivative only.",
+    "retrieval_status": "publisher_web_extraction; native_original_file_capture_limited",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "F001",
+    "title": "SBOIA26-1155 response and attached reform briefings",
+    "date": "Response date not legible in extracted cover; briefings16May2025",
+    "sha256": "147c11cc6a64f29e3917f74d9c49128a84e84f4e767dbcac583f08cfd283d14e",
+    "identity_classification": "exact_raw_duplicate_deeper_analysis",
+    "prior_ids": [
+      "M0046"
+    ],
+    "review_extent": "Response/schedule and all extractable substantive briefing pages relevance-screened; focused full paragraphs quoted in findings; image-only pages pending if relied on.",
+    "locators": [
+      "PDF11–15: H2025065492paras7–49",
+      "PDF17paras55–63",
+      "PDF19paras69–76",
+      "PDF32:H2025066829paras13–18",
+      "PDF37–39 emailed-submission themes"
+    ],
+    "new_information": [
+      "Officials explicitly balanced system responsiveness and independent certification; preferred direction powers except individual practitioner decisions, acknowledged public confidence risk. Alternative lighter oversight was considered.",
+      "Proposed ministerial approval of standards/scopes was ruled out as inefficient; preferred existing RRC/court review for rules while recommending registration-review committee. These are2025 options, not law or necessarily finalBill.",
+      "Consultation summary reports about53% supporting additional cultural considerations and41% prioritising qualifications, alongside leading-question concerns; cannot treat as representative public prevalence.",
+      "Para17 expressly says accountability/responsiveness options could influence cultural safety; paired with recognised statutory cultural competence function and intended further advice."
+    ],
+    "disposition": "archive_only",
+    "reason": "Prioritise archive/supplement evidence. No demonstrated contradiction with current main text requiring immediate revision. Any concise later addition needs prospective contract and source-specific checks; preserve due diligence and conflict-management mitigations.",
+    "rights": "Raw retained privately; no redistribution clearance inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "existing_document_additional_examination"
+  },
+  {
+    "id": "F002",
+    "title": "H2026084428 OIA response",
+    "date": "7August2026",
+    "sha256": "54472fe127400849ecac28b8d3b7b32deaa8470426e4a2b22cd42a1d1ef421db",
+    "identity_classification": "exact_raw_duplicate",
+    "prior_ids": [
+      "M0048"
+    ],
+    "review_extent": "All five pages read.",
+    "locators": [
+      "pp3–5"
+    ],
+    "new_information": [
+      "Two reform briefings referred to Minister response; broader requests refused under18(f) after unanswered refinement contacts. Refusal is not evidence records never existed."
+    ],
+    "disposition": "no_change",
+    "reason": "Already used in main; preserve interpretation and source identity.",
+    "rights": "Raw retained privately; no redistribution clearance inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G051-A1",
+    "title": "Meeting with Pharmacy Council, H2025077198",
+    "date": "16February2026 log entry",
+    "sha256": null,
+    "identity_classification": "identified_unretrieved_distinct_document",
+    "prior_ids": [
+      "G051"
+    ],
+    "review_extent": "Log metadata only; briefing itself not obtained/read.",
+    "locators": [
+      "G051officialmonthlytableline251; official/web-retrieval.json"
+    ],
+    "new_information": [
+      "Distinct reference/date from G014H2025067760June2025; do not merge them."
+    ],
+    "disposition": "pending",
+    "reason": "Retrieve actual briefing before interpreting meeting or advice; no manuscript assertion supported by title alone.",
+    "rights": "Unretrieved original not cleared; log government text separately qualified.",
+    "retrieval_status": "limited_to_described_evidence",
+    "identity_category": "located_incomplete"
+  },
+  {
+    "id": "G001",
+    "title": "FSU submission on draft cultural competence, cultural safety and hauora Māori statements",
+    "date": "18 March2026 stated in document; filename20March",
+    "url": "https://fsu.nz/documents/publications/260320-Free-Speech-Union-Submission-Medical-Council-Cultural-Competence-Statements.pdf",
+    "sha256": "269d1a8e06f04deca9dfbcad8549ce8cd51282403554bbde1df986960b19151d",
+    "identity_classification": "No identical earlier source established",
+    "prior_ids": "not established",
+    "review_extent": "Full five-page extracted submission reviewed",
+    "locators": "Introduction; paragraphs1–11; recommendations",
+    "new_information": "Supports respectful nondiscriminatory care but alleges mandate overreach, compelled belief/expression and unclear enforceability; requests withdrawal/redrafting and NZBORA review. These are advocate legal arguments, not judicial findings.",
+    "disposition": "revise",
+    "reason": "Add a short attributed account of statutory/free-expression objection to ensure strongest opposition is fairly represented. Do not endorse claim cultural safety necessarily outside s118.",
+    "rights": "Source-specific copyright; archive metadata/link and private evidence only, no new raw redistribution clearance.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "identity_scope_described_in_record"
+  },
+  {
+    "id": "G004",
+    "title": "The Post objects to being criticised in public",
+    "date": "28 July2026",
+    "url": "https://fsu.nz/publications/the-post-objects-to-being-criticised-in-public/",
+    "sha256": "aa3fb76217f6f36bb8872ba838e5b8ad1c4eb5633341f17097df13b5f54266b6",
+    "identity_classification": "Not same as earlier media report about appointments",
+    "prior_ids": "not established",
+    "review_extent": "Full relevant release reviewed; site navigation ignored",
+    "locators": "Franks statement concerning lobbying and appointment",
+    "new_information": "FSU chair denies lobbying Minister over Kalupahana appointment and says appointment was a welcome surprise; also supports free-speech representation. Denial is bounded to that assertion/person, not all political contact.",
+    "disposition": "archive_only",
+    "reason": "Preserve contrary denial in claim-source record; no established FSU lobbying claim exists in v4 that needs correction.",
+    "rights": "Source-specific copyright; archive metadata/link and private evidence only, no new raw redistribution clearance.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G026",
+    "title": "Professional Regulation & Employment Speech hub",
+    "date": "Current capture30October2026",
+    "url": "https://fsu.nz/pillars/professional-regulation/",
+    "sha256": "738b88401986a4c8fc73f47439134797e1f157bbcb6c717c312bb6efa734936f",
+    "identity_classification": "Discovery hub, not single primary letter",
+    "prior_ids": "not established",
+    "review_extent": "Relevant linked entries reviewed",
+    "locators": "20October entries; campaign link",
+    "new_information": "Links letters to ACT, National, Labour, NZFirst and Greens; report narrowing to coalition recipients misses cross-party advocacy.",
+    "disposition": "archive_only",
+    "reason": "Index underlying letters separately; do not cite hub as proof parties agreed or law changed.",
+    "rights": "Source-specific copyright; archive metadata/link and private evidence only, no new raw redistribution clearance.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "identity_scope_described_in_record"
+  },
+  {
+    "id": "G027",
+    "title": "ACT welcomes Medical Council reset",
+    "date": "16 June2026",
+    "url": "https://www.act.org.nz/news/todd-stephenson-welcomes-medical-council-reset",
+    "sha256": "ce1060eecd2e4ea0a7554851c7442815f0ba9570d6e1224e122ad0f46da5d3d6",
+    "identity_classification": "Matches earlier S046 ACT release syndication by title/date/substantive text; primary party-hosted version",
+    "prior_ids": "not established",
+    "review_extent": "Full release reviewed, encoding artefacts noted",
+    "locators": "Paragraphs beginning ACT listened and New leadership",
+    "new_information": "Stephenson says he wrote to Minister in February, welcomes non-reappointment and urges new leadership to withdraw draft guidance. Demonstrates declared political expectation, not decision-maker reasons or causal effect.",
+    "disposition": "revise",
+    "reason": "A concise attributed sentence would strengthen why the risk is not merely hypothetical; explicitly retain lack of proof of decision motive and continuing Council work.",
+    "rights": "Source-specific copyright; archive metadata/link and private evidence only, no new raw redistribution clearance.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G019",
+    "title": "Rights Aotearoa letter supporting MCNZ draft statements",
+    "date": "26February2026 letter;2March2026 webpage",
+    "url": "https://www.rightsaotearoa.nz/letter-to-the-medical-council-in-support-of-the-draft-statement-on-hauora-maori-and-statement-on-cultural-competence-and-cultural-safety/",
+    "sha256": "71af59ee1f35a9e6bd6a49646e0783f34468a7a654d823f735eee5015d426d53",
+    "identity_classification": "New primary advocacy letter, not court authority",
+    "prior_ids": "not established",
+    "review_extent": "Full letter body reviewed",
+    "locators": "Statutory independence; substantive case; conclusion",
+    "new_information": "Rebuts Stephenson consultation intervention, supports standards and merits-based consideration. Claims of independence and legal effect are advocacy; its assertion Parliament has no role must not replace statutory analysis.",
+    "disposition": "archive_only",
+    "reason": "Useful opposing consultation position, but v4 already states statutory functions and evidence-based scrutiny. Avoid duplicate broad cultural-safety argument or adoption of categorical constitutional assertions.",
+    "rights": "Source-specific copyright; archive metadata/link and private evidence only, no new raw redistribution clearance.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G013",
+    "title": "Hansard daily proceedings 2026-06-30",
+    "date": "2026-06-30",
+    "url": "https://hansard.parliament.nz/hansard-transcript/2026-06-30",
+    "sha256": "554bdf8ffacec42a678f02e86604dec8eb9429c4d061cd1e8b2ae7e68aa4920e",
+    "identity_classification": "G020 matches S099 date/topic but old HTML shell was not transcript; other dates new",
+    "prior_ids": "not established",
+    "review_extent": "Relevant sections and surrounding speaker exchanges reviewed; not all unrelated proceedings",
+    "locators": "PDFpp194,278; searched20:22/20:48 contexts;Draft PDF status retained",
+    "new_information": "Medical Council criticism occurs in health debate and Willie Jackson oral question; ministerial discretion answer retained. Todd20:22 is road-use legislation, not cultural-safety speech.",
+    "disposition": "pending",
+    "reason": "Final authorised passage not yet captured. Official full-day HTML route gave shells; web indexed Aug6 deep link yields published transcript header but targeted passage retrieval timed out. Daily PDFs still stamped not for quotation/distribution. Preserve provisional analysis and do not promote to final manuscript evidence.",
+    "rights": "Daily PDF explicitly Subject to Revision—Not to be Quoted or Distributed; private assessment only.",
+    "retrieval_status": "provisional_PDF_obtained_final_passage_not_verified",
+    "identity_category": "located_incomplete"
+  },
+  {
+    "id": "G018",
+    "title": "Hansard daily proceedings 2026-07-29",
+    "date": "2026-07-29",
+    "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-07-29/2026-07-29-daily.pdf",
+    "sha256": "fcf7170862dc8612204b0f279bb67aa33fea43d987820da910d6e56ac3cff0d9",
+    "identity_classification": "G020 matches S099 date/topic but old HTML shell was not transcript; other dates new",
+    "prior_ids": "not established",
+    "review_extent": "Relevant sections and surrounding speaker exchanges reviewed; not all unrelated proceedings",
+    "locators": "PDFpp15,18;Draft PDF status retained",
+    "new_information": "14:53 is hospital beds question. Verrall15:08 general debate criticises MCNZ appointments/independence; political criticism, not finding or Brown answer.",
+    "disposition": "pending",
+    "reason": "Final authorised passage not yet captured. Official full-day HTML route gave shells; web indexed Aug6 deep link yields published transcript header but targeted passage retrieval timed out. Daily PDFs still stamped not for quotation/distribution. Preserve provisional analysis and do not promote to final manuscript evidence.",
+    "rights": "Daily PDF explicitly Subject to Revision—Not to be Quoted or Distributed; private assessment only.",
+    "retrieval_status": "provisional_PDF_obtained_final_passage_not_verified",
+    "identity_category": "located_incomplete"
+  },
+  {
+    "id": "G020",
+    "title": "Hansard daily proceedings 2026-08-06",
+    "date": "2026-08-06",
+    "url": "https://hansard.parliament.nz/hansard-transcript/2026-08-06",
+    "sha256": "f5af794810b452e7f406290d4b7172c7eac761002a8aea6a42275690a93f370f",
+    "identity_classification": "G020 matches S099 date/topic but old HTML shell was not transcript; other dates new",
+    "prior_ids": "not established",
+    "review_extent": "Relevant sections and surrounding speaker exchanges reviewed; not all unrelated proceedings",
+    "locators": "PDFpp12–13,Question10;Draft PDF status retained",
+    "new_information": "Questions challenge appointment due diligence and commercial-product issues. Minister describes Ministry process and says advice found appointee appointable. Speaker permits scrutiny of statutory appointee, separately disallows medical-opinion formulation.",
+    "disposition": "pending",
+    "reason": "Final authorised passage not yet captured. Official full-day HTML route gave shells; web indexed Aug6 deep link yields published transcript header but targeted passage retrieval timed out. Daily PDFs still stamped not for quotation/distribution. Preserve provisional analysis and do not promote to final manuscript evidence.",
+    "rights": "Daily PDF explicitly Subject to Revision—Not to be Quoted or Distributed; private assessment only.",
+    "retrieval_status": "provisional_PDF_obtained_final_passage_not_verified",
+    "identity_category": "located_incomplete"
+  },
+  {
+    "id": "G026-A1",
+    "title": "FSU letter to ACT: Cath Simpson dismissal and regulator neutrality",
+    "date": "20October2026",
+    "url": "https://fsu.nz/documents/publications/261020-letter-to-act-re-cath-simpson.pdf",
+    "sha256": "65582362e2bfd3f8feb9960a3d7afd31451a75ef5c262c45898dd526f7ef307f",
+    "identity_classification": "New underlying primary letter; not enacted law",
+    "prior_ids": "not established",
+    "review_extent": "Full ACT letter web-extracted PDF text reviewed; original bytes CLI403",
+    "locators": "Paragraphs10–17; original PDF3pages",
+    "new_information": "Requests future coalition commitment, legislation and extension to public employers; says20regulators declined neutrality statement. These are FSU claims/requests, not governmental agreement.",
+    "disposition": "archive_only",
+    "reason": "Supports temporal distinction and future advocacy, but nurse dispute would expand paper scope. Link in archive with precise source type.",
+    "rights": "Source-specific copyright; archive metadata/link and private evidence only, no new raw redistribution clearance.",
+    "retrieval_status": "publisher_web_extraction; native_original_file_capture_limited",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G026-A2",
+    "title": "FSU letter to New Zealand First: Cath Simpson dismissal and regulator neutrality",
+    "date": "20October2026",
+    "url": "https://fsu.nz/documents/publications/261020-letter-to-nz-first-re-cath-simpson.pdf",
+    "sha256": "65582362e2bfd3f8feb9960a3d7afd31451a75ef5c262c45898dd526f7ef307f",
+    "identity_classification": "New underlying primary letter",
+    "prior_ids": "not established",
+    "review_extent": "Primary webpage body reviewed; PDF identity confirmed through webtool, raw bytes CLI403",
+    "locators": "Request paragraphs12–14",
+    "new_information": "Seeks next-term neutrality legislation and public employer coverage; cross-party parallel letters show campaign rather than agreed coalition action.",
+    "disposition": "archive_only",
+    "reason": "Do not infer enacted powers or May appointment motive from October requests.",
+    "rights": "Source-specific copyright; archive metadata/link and private evidence only, no new raw redistribution clearance.",
+    "retrieval_status": "publisher_web_extraction; native_original_file_capture_limited",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G026-A3",
+    "title": "Regulated Professions Neutrality Bill, FSU draft",
+    "date": "May2026 attributed by Octoberletter; PDF marked DRAFT",
+    "url": "https://fsu.nz/documents/campaigns/regulated-professions-neutrality-bill-draft.pdf",
+    "sha256": "65582362e2bfd3f8feb9960a3d7afd31451a75ef5c262c45898dd526f7ef307f",
+    "identity_classification": "Distinct from official HPCAA Amendment Bill287-1",
+    "prior_ids": "not established",
+    "review_extent": "Explanatory note and opening clauses reviewed through primary PDF web extraction; not all20pages",
+    "locators": "Explanatory note; clauses6,11–19 summary; documentDRAFT markers",
+    "new_information": "Proposes precedence over conflicting profession laws, speech/training restrictions and remedies. Although template says Government Bill, host and originatingletter identify private advocacy draft. No introduction/enactment established.",
+    "disposition": "archive_only",
+    "reason": "Catalogue as private proposed draft; never conflate with government HPCAA Bill or current law.",
+    "rights": "Source-specific copyright; archive metadata/link and private evidence only, no new raw redistribution clearance.",
+    "retrieval_status": "publisher_web_extraction; native_original_file_capture_limited",
+    "identity_category": "identity_scope_described_in_record"
+  },
+  {
+    "id": "G027-A1",
+    "title": "Stephenson February letter linked by ACT release",
+    "date": "February2026 reported; exactletterdate unverified",
+    "url": "https://x.com/toddmstephenson/status/2026845889290187088",
+    "sha256": null,
+    "identity_classification": "Underlying source not recovered",
+    "prior_ids": "not established",
+    "review_extent": "Link discovery only; Xweb retrieval timed out",
+    "locators": "ACT release hyperlink to Xstatus2026845889290187088",
+    "new_information": "Primary release asserts letter to Minister; Rightsletter discusses correspondence to Council. Recipient/content identity must be checked before treating them as one document.",
+    "disposition": "pending",
+    "reason": "Do not reconstruct letter from competing summaries. No external contact authorised.",
+    "rights": "Source-specific copyright; archive metadata/link and private evidence only, no new raw redistribution clearance.",
+    "retrieval_status": "not_retrieved_or_only_challenge",
+    "identity_category": "located_incomplete"
+  },
+  {
+    "id": "G002",
+    "title": "Ensure Doctors Focus on Patients, Not Politics: Have Your Say",
+    "date": "2026-03-14",
+    "url": "https://www.democracyaction.org.nz/ensure_doctors_focus_on_patients_not_politics_have_your_say",
+    "sha256": "7cd0e5d588c2e84b5dad0a98a0714cf8c45ded2bff22abe2686019396341a088",
+    "identity_classification": "same_work_new_capture",
+    "prior_ids": [
+      "S049"
+    ],
+    "review_extent": "Whole substantive campaign text; related articles/comments excluded",
+    "locators": [
+      "Opening summary",
+      "Key Points: compelled beliefs, challenge colleagues, activist expectations"
+    ],
+    "new_information": "Documents pre-decision mobilisation and arguments about ideological compulsion; invites contact with Minister.",
+    "disposition": "archive_only",
+    "reason": "Already identified source. Its interpretations require draft-text testing; mobilisation does not prove Minister received or relied on it.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G005",
+    "title": "Health minister’s MCNZ shake-up sets dangerous precedent",
+    "date": "2026-08-09",
+    "url": "https://nzoptics.co.nz/live-articles/health-ministers-mcnz-shake-up-sets-dangerous-precedent/",
+    "sha256": "b9703dd362c57107af4be3b2f10e9c2c5fccd10d9a1e8edcc3b2d51616fc25d8",
+    "identity_classification": "new_secondary_article_reuses_known_reporting",
+    "prior_ids": [],
+    "review_extent": "Available substantive article body; related-content widgets excluded",
+    "locators": [
+      "Drew Jones byline",
+      "Paragraphs on chair election, Te Ao attribution and continuing2019statement"
+    ],
+    "new_information": "Repackages known controversy and correctly distinguishes member selection/election; contains apparent RACP/RACS profession attribution error.",
+    "disposition": "archive_only",
+    "reason": "No new contemporaneous decision evidence; direct Council/Ministry sources stronger. Do not replicate description of effective removal or professional-college error.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G006",
+    "title": "AIDA calls for patient safety to be prioritised, not politicised",
+    "date": "2026-06-23",
+    "url": "https://aida.org.au/aida-calls-for-patient-safety-to-be-prioritised/",
+    "sha256": "3de923a59b52713f952648b1e5f9e33d44f51f6ccfdd3a5bbcca295d44f6c386",
+    "identity_classification": "new_organisational_primary_statement",
+    "prior_ids": [],
+    "review_extent": "Whole press statement including About AIDA",
+    "locators": [
+      "Opening non-renewal concern",
+      "Dr Peter Malouf quotations",
+      "Paragraphs describing AHRC100-study review"
+    ],
+    "new_information": "Indigenous professional response links cultural safety with patient protection and system accountability. Points to unnamed-in-page AHRC commissioned racism review.",
+    "disposition": "archive_only",
+    "reason": "Useful stakeholder context, not independent proof of appointment motive or clinical efficacy. Existing main retains patient purpose and contrasting primary trials.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G007",
+    "title": "Cultural safety: current standards and resources",
+    "date": "live page; statement2019-10-01",
+    "url": "https://www.mcnz.org.nz/our-standards/current-standards/cultural-safety/",
+    "sha256": "ef4caeadb9f7b89ca1f18d14675abdd1fc7c446e0566ca683a95af01533482cb",
+    "identity_classification": "new_landing_page_for_existing_policy",
+    "prior_ids": [],
+    "review_extent": "Whole substantive page; linked PDFs not fully reviewed here",
+    "locators": [
+      "Current statement",
+      "Key documents",
+      "Welcome to practice evaluation2023",
+      "Training plan2023"
+    ],
+    "new_information": "Official page explicitly says standards required and2019statement current; links baseline report and2023workshop evaluation.",
+    "disposition": "no_change",
+    "reason": "Confirms continuing-work qualification already present. Underlying evaluation may support separate educational context but cannot be treated as clinical-outcome proof from landing-page claim.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G009",
+    "title": "Draft statements on cultural competence and cultural safety and hauora Māori: ASMS submission",
+    "date": "2026-03-24",
+    "url": "https://asms.org.nz/wp-content/uploads/2026/04/ASMS_cultural-competence-cultural-safety-hauora-Maori.pdf",
+    "sha256": "96dd4e12326a2f80bb01cc8be948c4f04d2b7523f23858bfd0e8373c3a18e60c",
+    "identity_classification": "new_primary_consultation_submission",
+    "prior_ids": [],
+    "review_extent": "All seven pages including references",
+    "locators": [
+      "p3 proportionality answer Somewhat",
+      "p4 Individual doctors and the health system",
+      "p6 organisational support and cultural load"
+    ],
+    "new_information": "Supportive professional organisation nevertheless flags individual/system responsibility tension, institutional constraints, moral injury and need for guidance/resources.",
+    "disposition": "revise",
+    "reason": "One concise attributed example strengthens evidence that practical proportionality concerns coexist with support for cultural safety. Preserve broad support and do not imply ASMS caused or endorsed non-renewal.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G010",
+    "title": "When evidence becomes politically inconvenient",
+    "date": "2026-06-26",
+    "url": "https://kaitiaki.org.nz/article/when-evidence-becomes-politically-inconvenient/",
+    "sha256": "1b1501f4b6896b31e8316536063458002503fd987ddb2dd37d48f4af466d8cf6",
+    "identity_classification": "new_opinion_distinct_from_Loring_editorial",
+    "prior_ids": [],
+    "review_extent": "Full substantive article and references recovered with web tool; CLI403 recorded; navigation excluded",
+    "locators": [
+      "web lines18–20",
+      "lines41–58",
+      "references lines68–70"
+    ],
+    "new_information": "Pipi Barton defends cultural safety while questioning implementation, measurement and accountability. Nursing leadership interpretation explicitly personal, not official policy proof.",
+    "disposition": "archive_only",
+    "reason": "Useful nuance and Māori nursing voice. Similar theme to proposed ASMS addition; avoid overloading main or treating commentary as causal evidence. Not duplicate of similarly titled NZMJ editorialS064.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "publisher_web_extraction; native_original_file_capture_limited",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G011",
+    "title": "Rights Aotearoa home/index",
+    "date": "live page captured2026-10-30",
+    "url": "https://www.rightsaotearoa.nz/",
+    "sha256": "eeeb3be1dac612962ad07530977f8887f259bbec58f4e7eddd41ea3633344018",
+    "identity_classification": "new_navigation_index",
+    "prior_ids": [],
+    "review_extent": "Whole available index; followed relevant original letter separatelyCTX-P002",
+    "locators": [
+      "Home card: Letter to Medical Council2March2026"
+    ],
+    "new_information": "Relevant letter exists; index alone supplies no substantive independent appointment evidence.",
+    "disposition": "archive_only",
+    "reason": "Replace index-only implication with linked primary letter in archive. Letter dated26February and published2March; alternative legal advocacy, not authoritative interpretation.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G015",
+    "title": "Simeon Brown’s Nanny State",
+    "date": "2026-06-22",
+    "url": "https://www.clairerobinson.nz/blogs/simeon-browns-nanny-state",
+    "sha256": "aba1e8903a5b067d16b52f77a94786eb8af08b7730a04954e3cea56249f2d38a",
+    "identity_classification": "new_political_commentary",
+    "prior_ids": [],
+    "review_extent": "Whole article body; duplicate page rendering deduplicated",
+    "locators": [
+      "The Death of the Guild",
+      "Executive micro-management"
+    ],
+    "new_information": "Argues cultural safety was pretext for centralisation; invokes draft Bill and broader public-service reforms.",
+    "disposition": "archive_only",
+    "reason": "Motive/pretext asserted without decision record. Existing main properly separates proposed from existing powers and political-risk inference from demonstration.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G017",
+    "title": "Why is the Free Speech Union suddenly so involved in the Medical Council?",
+    "date": "2026-07-29",
+    "url": "https://thespinoff.co.nz/politics/29-07-2026/why-is-the-free-speech-union-suddenly-so-involved-in-regulating-doctors",
+    "sha256": "04a39276d3b760adf3d3f96e6890f1b653da8822b3ccfa45ca5435bca6b484ac",
+    "identity_classification": "new_secondary_synthesis_of_Post_reports",
+    "prior_ids": [],
+    "review_extent": "Whole article body",
+    "locators": [
+      "A pattern of wider influence or just a defence of principle?",
+      "Franks welcome-surprise denial",
+      "Brown denial of forwarding questions"
+    ],
+    "new_information": "Reports lobbying connections and counter-denials, all relying on The Post rather than independently established decision-process records.",
+    "disposition": "archive_only",
+    "reason": "No guilt-by-association expansion. Preserve denials beside allegations; follow underlying report if specific claim needed, not media-count corroboration.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G021",
+    "title": "Cutting Edge July2026",
+    "date": "2026-07",
+    "url": "https://www.surgeons.org/-/media/Cutting-Edge_July_2026.pdf?rev=cbe42ee4c2714e4f80e2dd166eaec7a8&hash=7B51FFB9245E2FA62323A3A917762209",
+    "sha256": "f45c8232643ba834e8620c5ac34bd575e4fd6ccd6033a3b65aaabc2b9afaf03d",
+    "identity_classification": "new_professional_newsletter_related_statement",
+    "prior_ids": [],
+    "review_extent": "Targeted complete MCNZ consultation/appointments sections PDFpp6–8; relevant Love conference passagep10; remaining issue not substantively reviewed",
+    "locators": [
+      "PDFp7 cultural statements and proportionality",
+      "PDFp8 appointments",
+      "PDFp10 ASC Love speech"
+    ],
+    "new_information": "RACS reports its joint submission supported drafts as reasonable/proportionate; member appointment and chair election distinguished.",
+    "disposition": "archive_only",
+    "reason": "Provides contrasting professional assessment of proportionality, but no new reason for reversal. Statement overlap withG024 not independent corroboration; unrelated magazine content explicitly excluded.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G022",
+    "title": "Medical Council consultations index",
+    "date": "live captured2026-10-30",
+    "url": "https://www.mcnz.org.nz/about-us/consultations/",
+    "sha256": "ef388149a47c411d9e72d37bac09ff144d515084e98942734d2015eb13520a88",
+    "identity_classification": "new_index_links_existing_S082",
+    "prior_ids": [],
+    "review_extent": "Whole index text",
+    "locators": [
+      "Cultural competence consultation8July2026",
+      "PA consultation and other work entries"
+    ],
+    "new_information": "Shows range of consultations beyond cultural safety and links already catalogued detailS082.",
+    "disposition": "no_change",
+    "reason": "Index neither proves priorities changed nor completes source review. Keep link relationship toS082, not duplicate evidence count.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G024",
+    "title": "RACS response to MCNZ appointments",
+    "date": "2026-06-17",
+    "url": "https://www.surgeons.org/News/media-releases/MCNZ-response",
+    "sha256": "3c0889cc65d45023e0314060fa58ffdef1836347ca4f42eeb51fc096bb934b59",
+    "identity_classification": "new_primary_professional_statement",
+    "prior_ids": [],
+    "review_extent": "Whole statement; contact details excluded from interpretation",
+    "locators": [
+      "Statutory authority and independence paragraphs",
+      "Love Lake Alice leadership",
+      "Welcomes Dr Ken Clark"
+    ],
+    "new_information": "Expresses independence concern while accepting ministerial appointment authority and welcoming new chair.",
+    "disposition": "archive_only",
+    "reason": "Balanced institutional reaction relevant archive context. No demonstrated legal breach; personal endorsement does not establish appointment merit or process fairness.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G025",
+    "title": "Minister’s attack on Medical Council sets dangerous precedent",
+    "date": "2026-06-16",
+    "url": "https://asms.org.nz/ministers-attack-on-medical-council-sets-dangerous-precedent/",
+    "sha256": "229e74077cf47383a35befee9c35b4bceaa8ccf40d9c5706d0eb6e5aa5bf66a5",
+    "identity_classification": "same_press_release_original_issuer_instead_of_syndication",
+    "prior_ids": [
+      "S047"
+    ],
+    "review_extent": "Whole original ASMS press release",
+    "locators": [
+      "Opening and Sarah Dalton quotations",
+      "Proposed direction powers paragraph"
+    ],
+    "new_information": "Original issuing-body version of already catalogued Scoop release.",
+    "disposition": "no_change",
+    "reason": "Deduplicate by title,date,issuer and statements, not URL. More direct provenance route; no new independent evidence.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G033",
+    "title": "ANZCA Bulletin Spring2026: Changes to MCNZ",
+    "date": "2026 spring",
+    "url": "https://www.anzca.edu.au/getContentAsset/244f73f3-3af0-4919-bb14-211de6c937b8/80feb437-d24d-46b8-a858-4a2a28b9b970/ANZCA_Bulletin_Spring_2026_DIGI_SPREADS.pdf?language=en",
+    "sha256": "26e45f1c66d747b2f2b29b4b80f60ea9a7bde88c3e6de3f3b92ffb643c3edf1f",
+    "identity_classification": "new_newsletter_later_context",
+    "prior_ids": [],
+    "review_extent": "Targeted entire Changes to MCNZ section printedp15/PDFp9 plus surrounding NZ policy context; not whole long issue",
+    "locators": [
+      "PDFp9 Changes to MCNZ",
+      "Joint Wellington regulators meeting paragraph"
+    ],
+    "new_information": "Reports later Australian/NZ regulators reaffirming cultural safety/equity and describes workforce growth.",
+    "disposition": "archive_only",
+    "reason": "Potential additional contrary evidence of continued commitment, but underlying joint statement required for date/wording. Existing direct MCNZ continuation source sufficient; no need workforce digression.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G034",
+    "title": "Equity in Health: A Review of Disparities among Māori Pre and Post Cultural Safety Education/Kawa Whakaruruhau in New Zealand",
+    "date": "2020",
+    "url": "https://www.researchgate.net/publication/347276408_Equity_in_Health_A_Review_of_Disparities_among_Maori_Pre_and_Post_Cultural_Safety_EducationKawa_Whakaruruhau_in_New_Zealand",
+    "sha256": "e688b801edca620559a402663fb3328347cdb22b29946dd037a399d0f31ef94a",
+    "identity_classification": "same_article_recovered_via_publisher_not_ResearchGate",
+    "prior_ids": [],
+    "review_extent": "Publisher article printedpp85–93/PDF86–94 examined; issue remainder not reviewed",
+    "locators": [
+      "Introductionp85",
+      "Discussionp89–90",
+      "Conclusionp90–91"
+    ],
+    "new_information": "Erana Heperi narrative literature review considers persistent inequity and system action, not controlled pre/post evaluation. DOI10.34074/scop.3005012.",
+    "disposition": "archive_only",
+    "reason": "Do not infer causal effectiveness or failure from population inequality trends. Adds historical argument, not stronger efficacy evidence than current trials. ResearchGate inaccessible; publisher recovery retainedCTX-P001.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "publisher_article_obtained; ResearchGate_unavailable",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G036",
+    "title": "Dr Orna McGinn: Cultural safety improves patient health",
+    "date": "2026-08-16",
+    "url": "https://e-tangata.co.nz/comment-and-analysis/dr-orla-mcginn-cultural-safety-improves-patient-health/",
+    "sha256": "e0c41f98791a237c8731af73fa23f4a0f71519cf038375b61c586e0f6bc98dd6",
+    "identity_classification": "new_first_person_commentary_links_existing_primary_items",
+    "prior_ids": [],
+    "review_extent": "Substantive article including clinical narrative and linked-source descriptions; comments not evidence",
+    "locators": [
+      "What happened at Medical Council",
+      "What safety looks like in clinic",
+      "What we need to protect"
+    ],
+    "new_information": "Describes Women in Medicine advocacy and clinical rationale; links existingS066 andS070, FSU submission and health statistics. States legal/unprecedented removal as opinion; chronology compressed.",
+    "disposition": "archive_only",
+    "reason": "Patient communication rationale useful but already present. Do not repeat June12→three-days-later narrative as decision timing when May27notice established; no source for motive or legal conclusion.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G038",
+    "title": "Professional Discipline for Health Practitioners",
+    "date": "undated; accessed2026-10-30",
+    "url": "https://roderickmulgan.nz/professional-discipline-for-health-practitioners/",
+    "sha256": "26f708a605f4dbe5e47ac4af181953b0915dd844a7989bb8e5f5b3ac6fb7d87c",
+    "identity_classification": "new_appointee_professional_service_page",
+    "prior_ids": [],
+    "review_extent": "Whole professional-scope text; testimonial claims not used",
+    "locators": [
+      "Final scope paragraph before Testimonials"
+    ],
+    "new_information": "Mulgan expressly says Medical Council membership prevents representing doctors; offers other-profession services.",
+    "disposition": "archive_only",
+    "reason": "Important contrary boundary if conflicts discussed. No basis to infer unaddressed conflict from former advocacy; main deliberately does not assess incoming appointee merits.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G040",
+    "title": "Simeon Brown applies his scalpel to the Medical Council but Treaty ideology has spread through the health system",
+    "date": "2026-06-16",
+    "url": "https://pointofordernz.wordpress.com/2026/06/16/simeon-brown-applies-his-scalpel-to-the-medical-council-but-treaty-ideology-has-spread-through-the-health-system/",
+    "sha256": "88026f669ef39c3d92322c73fcf18ec176f05a9b7a796a1ef776266e5fa209c0",
+    "identity_classification": "new_opinion_republishes_Post_material",
+    "prior_ids": [],
+    "review_extent": "Whole authored article; reader comments excluded",
+    "locators": [
+      "Opening quoted Post reporting",
+      "Job-advertisement discussion"
+    ],
+    "new_information": "Reports Minister criticism through Post and endorses broader anti-ideology framing; later material concerns health job requirements, not appointment decision.",
+    "disposition": "archive_only",
+    "reason": "Secondary quotation not another independent ministerial statement. Do not import partisan characterisation as fact or extend to employment-policy survey.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G044",
+    "title": "Good lawyering: what Labour’s health spokesperson doesn’t appear to understand",
+    "date": "2026-08-17",
+    "url": "https://lawnews.nz/legal-profession/good-lawyering-what-the-labours-health-spokesperson-doesnt-appear-to-understand/",
+    "sha256": "e34b1e87ad6f5a34a6a98f71877b2b942500b3ff9f53cc1e5c989dca2626db2c",
+    "identity_classification": "new_legal_profession_opinion",
+    "prior_ids": [],
+    "review_extent": "Whole authored Samira Taghavi article recovered by full-page extraction after article-selector initially missed main; comments excluded",
+    "locators": [
+      "Opening Verrall question",
+      "No endorsement",
+      "Final paragraphs"
+    ],
+    "new_information": "Argues representing unpopular clients is not endorsement and does not itself disqualify regulatory appointment.",
+    "disposition": "archive_only",
+    "reason": "Strong contrary interpretation for any appointee-focused allegation; main avoids that allegation already. Opinion is author’s, explicitly not Law Association institutional stance.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "G047",
+    "title": "Concerns grow over replacement of Medical Council leadership",
+    "date": "2026-06-16 by underlying RNZ identity",
+    "url": "https://www.odt.co.nz/news/national/concerns-grow-over-replacement-of-medical-councils-leadership-euc96f7p",
+    "sha256": "d33a6d537084bb63f1a3418876f87fe4a19142532aa73123892709313db45e43",
+    "identity_classification": "syndicated_same_RNZ_story_different_URL_or_headline",
+    "prior_ids": [
+      "S104",
+      "S105"
+    ],
+    "review_extent": "Whole available Lucy Xia/RNZ story; compared by attribution and quotations",
+    "locators": [
+      "Brown spokesperson opening",
+      "Dalton quotes",
+      "Final spokesperson response"
+    ],
+    "new_information": "Explicit spokesperson attribution, rather than direct Brown words, and denial that appointment discretion is interference.",
+    "disposition": "no_change",
+    "reason": "Same RNZ lineage, not new corroboration. Direct Brown quotations inS073 remain separately sourced; preserve distinction.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "G048",
+    "title": "Simeon Brown accused of political interference over Medical Council chair decision",
+    "date": "2026-06-17",
+    "url": "https://www.teaonews.co.nz/2026/06/17/simeon-brown-accused-of-political-interference-over-medical-council-chair-decision/",
+    "sha256": "75489aa5d237f01c16847c2da390a6cb0fe7b959e62e369cf6396fd34c8bd8bd",
+    "identity_classification": "same_work_new_capture",
+    "prior_ids": [
+      "S073"
+    ],
+    "review_extent": "Whole relevant appointment and scrutiny account plus remainder read; encoding-correct full-page derivative retained",
+    "locators": [
+      "Minister says Medical Council was distracted",
+      "Before opposition response",
+      "Committed to Treaty obligations"
+    ],
+    "new_information": "Direct Brown quotations at Health Committee scrutiny plus opposition/ASMS responses, already used.",
+    "disposition": "no_change",
+    "reason": "Confirms attribution and scope in currentmain. Does not supply contemporaneous APH reasons; health-budget material outside this article focus.",
+    "rights": "Private research capture only; public link/hash metadata permitted by scope. No complete-source republication permission inferred.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  },
+  {
+    "id": "CTX-P001",
+    "title": "Heperi2020 publisher full issue and articlepp85–93",
+    "url": "https://thescopes.org/assets/Uploads/SCOPE_HealthWellbeing-1-DEC-2020_whole-issue.pdf",
+    "sha256": "e688b801edca620559a402663fb3328347cdb22b29946dd037a399d0f31ef94a",
+    "identity_classification": "not established",
+    "prior_ids": "not established",
+    "review_extent": "Relevant full article/letter read; issue remainder excluded",
+    "new_information": "not established",
+    "disposition": "archive_only",
+    "reason": "Archive context only; no direct evidence of appointment motive",
+    "rights": "Private capture only; no raw public redistribution approved",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "identity_scope_described_in_record"
+  },
+  {
+    "id": "CTX-P002",
+    "title": "Rights Aotearoa letter dated26February2026, published2March2026",
+    "url": "https://www.rightsaotearoa.nz/letter-to-the-medical-council-in-support-of-the-draft-statement-on-hauora-maori-and-statement-on-cultural-competence-and-cultural-safety/",
+    "sha256": "71af59ee1f35a9e6bd6a49646e0783f34468a7a654d823f735eee5015d426d53",
+    "identity_classification": "not established",
+    "prior_ids": "not established",
+    "review_extent": "Whole letter read",
+    "new_information": "not established",
+    "disposition": "archive_only",
+    "reason": "Archive context only; no direct evidence of appointment motive",
+    "rights": "Private capture only; no raw public redistribution approved",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "identity_scope_described_in_record"
+  },
+  {
+    "id": "CTX-P003",
+    "title": "Baseline Data Capture: Cultural Safety, Partnership and Health Equity Initiatives",
+    "date": "2020-10-23",
+    "url": "https://www.mcnz.org.nz/assets/Publications/Reports/f5c692d6b0/Cultural-Safety-Baseline-Data-Report-FINAL-September-2020.pdf",
+    "sha256": "bdbb39f76a6fe77a611347592a9eccc4ec406f7198219e95d1fad24a2079d425",
+    "identity_classification": "Additional underlying primary report linked from G007; separate work from the standards landing page",
+    "prior_ids": [],
+    "review_extent": "Bounded substantive review: release letter, executive summary, research questions, methods and limitations (sections 3.3-3.7), health-equity analysis methods and selected outcomes (4.5), conclusion opening. Not a line-by-line review of all 93 PDF pages or all appendix estimates.",
+    "locators": [
+      "Printed pp11-13: methods and limitations",
+      "Printed pp51-63: IDI approach and selected equity findings",
+      "Printed p64: conclusion"
+    ],
+    "new_information": "Direct NZ baseline includes patient/whānau perspectives and structural barriers, alongside doctor views and linked outcomes. It explicitly states that broad equity measures cannot attribute subsequent change to Council initiatives. Selected results include persistent mortality inequality but no statistically significant ethnic difference in post-asthma-hospitalisation ICS dispensing. It therefore does not support a uniform claim across all outcomes.",
+    "disposition": "archive_only",
+    "reason": "Useful local context and evaluation-design precedent, but not stronger causal evidence than the retained trials. Avoid expanding the appointment Viewpoint with unrelated baseline estimates. If local implementation context is added, use a narrow baseline finding, not an efficacy claim.",
+    "rights": "Private source capture only. No source-specific redistribution grant qualified; public link/hash metadata may be retained.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "CTX-P004",
+    "title": "Evaluation report: Welcome to practice in Aotearoa New Zealand workshops for international medical graduates held May 2022",
+    "date": "2023-07-31 (MCNZ listing date; workshops May 2022)",
+    "url": "https://www.mcnz.org.nz/assets/Publications/Evaluation-report-Welcome-to-practice-in-Aotearoa-New-Zealand.pdf",
+    "sha256": "438f46cb3ed44f022edc775d9f03c19d5bcd8164677e9639ec73dc2fdb3b310d",
+    "identity_classification": "Additional underlying primary report linked from G007; separate work from the standards landing page",
+    "prior_ids": [],
+    "review_extent": "Substantive report reviewed across all 20 PDF pages, including participant description, workshop content, evaluation methods/results, conclusions, logic model and questionnaire appendices. Text-based review, not independent respondent-data analysis.",
+    "locators": [
+      "p8: evaluation purpose/design",
+      "p9: immediate survey",
+      "pp10-11: three-month survey",
+      "pp12-13: conclusions/recommendations",
+      "p14: logic model",
+      "pp15-20: methodology and instruments"
+    ],
+    "new_information": "91% of immediate respondents considered the workshop useful and 93% said it mostly/fully met objectives. At three months, all 22 respondents agreed with selected familiarity/confidence statements; 73% reported fully/mostly embedding learning, 27% somewhat. Delivery was resource-intensive and a scalable model was recommended. Long-term patient care/equity outcomes appear in the intended logic model, not demonstrated results.",
+    "disposition": "archive_only",
+    "reason": "Practical NZ implementation evidence, not stronger efficacy evidence than existing trials. May inform a narrowly qualified account of feasibility and resource requirements; no need to replace the trials or broaden the current manuscript.",
+    "rights": "Private source capture only. No source-specific redistribution grant qualified; public link/hash metadata may be retained.",
+    "retrieval_status": "source_capture_available",
+    "identity_category": "newly_obtained_document"
+  },
+  {
+    "id": "F003",
+    "title": "Extension of time for request H2026084428",
+    "date": "2026-07-14",
+    "url": "https://fyi.org.nz/request/34919/response/149072/attach/5/Extension%20of%20time%20for%20responding%20to%20request%20ref%20H2026084428%20CRM%200517177.html",
+    "sha256": "1f90f48b8f5839e8a82c4e9b9bb004f5943df4413ba027b83abe72f1c0fc5aae",
+    "identity_classification": "exact_duplicate",
+    "prior_ids": [
+      "M0155"
+    ],
+    "review_extent": "Full administrative extension notice, request text not treated as agency findings",
+    "locators": [
+      "Extension notice: section15A consultation ground; later Ministry response page5 confirms14July extension"
+    ],
+    "new_information": "Confirms extension for consultations; no appointment reasons or additional decision record.",
+    "disposition": "no_change",
+    "reason": "Alreadyheld administrative processing record, not substantive appointment evidence.",
+    "rights": "Link andhash only; containsrequester correspondence and personalcontactdetails.",
+    "retrieval_status": "full_document_retrieved",
+    "identity_category": "duplicate_alternative_or_prior_work"
+  }
+]
