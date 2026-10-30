@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" id="Definitions_powers" targetNamespace="https://research.local/nzmj2026202" exporter="Case-local descriptive process exporter" exporterVersion="1">
+  <bpmn:process id="powers" name="Existing powers and legislative change" isExecutable="false">
+    <bpmn:documentation>Analytical process, not proof of unlawful directions. Later Council action alone cannot establish ministerial causation; later legislation cannot retrospectively provide missing authority.</bpmn:documentation>
+    <bpmn:startEvent id="powers_start"/>
+    <bpmn:subProcess id="powers_identify" name="Identify the governing law">
+      <bpmn:startEvent id="identify_start"/>
+      <bpmn:task id="p1" name="Identify the decision date and power being exercised">
+        <bpmn:documentation>HPCAA decision-date version</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="p2" name="Separate an enacted law from a proposed Bill">
+        <bpmn:documentation>HPCAA Bill287-1</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:endEvent id="identify_end"/>
+      <bpmn:sequenceFlow id="powers_identify_flow0" sourceRef="identify_start" targetRef="p1"/>
+      <bpmn:sequenceFlow id="powers_identify_flow1" sourceRef="p1" targetRef="p2"/>
+      <bpmn:sequenceFlow id="powers_identify_flow2" sourceRef="p2" targetRef="identify_end"/>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="powers_classify" name="Assess the documented action">
+      <bpmn:startEvent id="classify_start"/>
+      <bpmn:task id="p3" name="Identify preparation, advocacy, appointment or direction">
+        <bpmn:documentation>Action/source matrix</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="p4" name="Check actual legal basis and statutory purpose">
+        <bpmn:documentation>HPCAA and Unison paras50-55</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:endEvent id="classify_end"/>
+      <bpmn:sequenceFlow id="powers_classify_flow0" sourceRef="classify_start" targetRef="p3"/>
+      <bpmn:sequenceFlow id="powers_classify_flow1" sourceRef="p3" targetRef="p4"/>
+      <bpmn:sequenceFlow id="powers_classify_flow2" sourceRef="p4" targetRef="classify_end"/>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="powers_outcome" name="Evaluate Council action">
+      <bpmn:startEvent id="outcome_start"/>
+      <bpmn:task id="p5" name="Check standards, work programmes and explanations">
+        <bpmn:documentation>MCNZ consultation outcome</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="p6" name="Test alternative explanations and retain contrary evidence">
+        <bpmn:documentation>Publication-law transition;2019statement retained</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:endEvent id="outcome_end"/>
+      <bpmn:sequenceFlow id="powers_outcome_flow0" sourceRef="outcome_start" targetRef="p5"/>
+      <bpmn:sequenceFlow id="powers_outcome_flow1" sourceRef="p5" targetRef="p6"/>
+      <bpmn:sequenceFlow id="powers_outcome_flow2" sourceRef="p6" targetRef="outcome_end"/>
+    </bpmn:subProcess>
+    <bpmn:endEvent id="powers_end"/>
+    <bpmn:sequenceFlow id="powers_flow0" sourceRef="powers_start" targetRef="powers_identify"/>
+    <bpmn:sequenceFlow id="powers_flow1" sourceRef="powers_identify" targetRef="powers_classify"/>
+    <bpmn:sequenceFlow id="powers_flow2" sourceRef="powers_classify" targetRef="powers_outcome"/>
+    <bpmn:sequenceFlow id="powers_flow3" sourceRef="powers_outcome" targetRef="powers_end"/>
+    <bpmn:textAnnotation id="powers_limit">
+      <bpmn:text>Analytical process, not proof of unlawful directions. Later Council action alone cannot establish ministerial causation; later legislation cannot retrospectively provide missing authority.</bpmn:text>
+    </bpmn:textAnnotation>
+  </bpmn:process>
+</bpmn:definitions>

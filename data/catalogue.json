@@ -1,0 +1,2989 @@
+[
+  {
+    "id": "S001",
+    "citation": {
+      "title": "author guidelines",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/@/file/pPDrLx6qyvibZuRL"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0002",
+        "sha256": "04aafb63e390dffd749cf7294434edef28c50e6b738c5fe8f6b81a98cde46cb8",
+        "derivative": false
+      },
+      {
+        "id": "M0003",
+        "sha256": "2c9f9ecc59cf8c8230d8b93f4af58d533f1471afa0cab2c0a8784038695180ca",
+        "derivative": true
+      },
+      {
+        "id": "M0156",
+        "sha256": "04aafb63e390dffd749cf7294434edef28c50e6b738c5fe8f6b81a98cde46cb8",
+        "derivative": false
+      },
+      {
+        "id": "M0157",
+        "sha256": "2c9f9ecc59cf8c8230d8b93f4af58d533f1471afa0cab2c0a8784038695180ca",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S002",
+    "citation": {
+      "title": "Contribute - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/contribute"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0005",
+        "sha256": "67375368465b9cc82a907ca67a6965f27e1975bb8aad704f237ccdf3adbc0ec2",
+        "derivative": false
+      },
+      {
+        "id": "M0158",
+        "sha256": "67375368465b9cc82a907ca67a6965f27e1975bb8aad704f237ccdf3adbc0ec2",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S003",
+    "citation": {
+      "title": "Proposed New Munster ordinances: medical practitioners",
+      "issuer": "Nelson Examiner and New Zealand Chronicle",
+      "date": "1849-04-21",
+      "URL": "https://paperspast.natlib.govt.nz/newspapers/NENZC18490421.2.10"
+    },
+    "access": "retained HTTP/error shell; substantive content not established",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0006",
+        "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S004",
+    "citation": {
+      "title": "Health Practitioner Regulation National Law and Other Legislation Amendment Act2022",
+      "issuer": "Queensland Parliament",
+      "date": "2022",
+      "URL": "https://www.legislation.qld.gov.au/view/html/asmade/act-2022-022"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0008",
+        "sha256": "fbd5cecb1a6955ac6644db96f948a1076905c7fd11032c9254cc3f89f7b62e7a",
+        "derivative": false
+      },
+      {
+        "id": "M0010",
+        "sha256": "0eef9d51c02f4076cb2480b49b1404c5afc87633bfd6f58b61fd4d8dbd450f22",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S005",
+    "citation": {
+      "title": "Health Practitioner Regulation National Law and Other Legislation Amendment Act2022",
+      "issuer": "Queensland Parliament",
+      "date": "2022",
+      "URL": "https://www.legislation.qld.gov.au/view/pdf/asmade/act-2022-022"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0009",
+        "sha256": "0695669d948b83be73556d3acf2244367f05b039d46c3334b93971a5f912fce6",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S006",
+    "citation": {
+      "title": "Medical Board of Australia - Good medical practice: a code of conduct for doctors in Australia",
+      "issuer": "www.medicalboard.gov.au",
+      "date": "not established",
+      "URL": "https://www.medicalboard.gov.au/Codes-Guidelines-Policies/Code-of-conduct.aspx"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0011",
+        "sha256": "1b3967eae5f45cda6bb8f05a6bcb026190bde7c85a3653f3567d042401624ae4",
+        "derivative": false
+      },
+      {
+        "id": "M0012",
+        "sha256": "72fc26a0dad7aaa8517395eb7f2bbd94dfaf84cb0ea54f8c47f23ed9ec0ec044",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S007",
+    "citation": {
+      "title": "Health Practitioner Regulation National Law, consolidated version",
+      "issuer": "Queensland Parliamentary Counsel",
+      "date": "2026-04-10",
+      "URL": "https://www.legislation.qld.gov.au/view/whole/pdf/inforce/current/act-2009-hprnlq"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0013",
+        "sha256": "135b09019dea96251ff36d6c0676a438c6c20b034c3cea68e2f37d716351120c",
+        "derivative": false
+      },
+      {
+        "id": "M0014",
+        "sha256": "fbadec45f2a6fbacb196d2d6e2bc0e220a0a4d85f095f8ec39728b536f41bebc",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S008",
+    "citation": {
+      "title": "Health Professions and Occupations Act",
+      "issuer": "British Columbia",
+      "date": "not established",
+      "URL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/22043"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0015",
+        "sha256": "66f997eedcc4d1c6ba563c33cf7d442c1c73940cb2c6473fdd51767e274cc05e",
+        "derivative": false
+      },
+      {
+        "id": "M0016",
+        "sha256": "d95dec9fe8a189544f3c960c0fcff0c41cb657198933144415c7d5d8edf71dcd",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S009",
+    "citation": {
+      "title": "Registrar's message: New beginnings under the HPOA",
+      "issuer": "www.cpsbc.ca",
+      "date": "not established",
+      "URL": "https://www.cpsbc.ca/news/publications/college-connector/2026-V14-02/01"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0017",
+        "sha256": "92015cda8104eb59b2440dda7827e0c2a9fe4c97031ba80cfbdcae26e152fc0d",
+        "derivative": false
+      },
+      {
+        "id": "M0018",
+        "sha256": "7b240ee6d6edf11617676e09f0e46a5bd99b8b6eff1e9655bb7713361351cbf1",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S010",
+    "citation": {
+      "title": "Indigenous Cultural Safety, Cultural Humility and Anti-racism practice standard",
+      "issuer": "College of Physicians and Surgeons of British Columbia",
+      "date": "2026-04-01",
+      "URL": "https://www.cpsbc.ca/files/pdf/CPSBC-PS-Indigenous-Cultural-Safety-Cultural-Humility-Anti-racism.pdf"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0019",
+        "sha256": "aafc84bc1f7cdd19ea116a9947b06470f97c74e007089dbe19078660bea6856c",
+        "derivative": false
+      },
+      {
+        "id": "M0020",
+        "sha256": "75e77248c9146d2f05f4b050d414bce78088e23c7218c9f2f5c75e382d0c719b",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S011",
+    "citation": {
+      "title": "Competencies for Endodontics",
+      "issuer": "Dental Council of New Zealand",
+      "date": "2023-01",
+      "URL": "https://dcnz.org.nz/assets/Uploads/Competency-standards/Competencies-for-dental-specialists/Competencies-for-Endodontics-Jan23.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0021",
+        "sha256": "a2d0c2029072cf132bcfe257b73c26a36bba17b4cc948cd48447250da683af6c",
+        "derivative": false
+      },
+      {
+        "id": "M0022",
+        "sha256": "cb14285477477e91e0be0f2e838df19a4931999919e97c6e49a8ba7189d9d46a",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S012",
+    "citation": {
+      "title": "Official Information Act request — Medical Council appointments, non-reappointments and HPCA regulator-independence advice - a Official Information Act request to Simeon Brown - FYI",
+      "issuer": "fyi.org.nz",
+      "date": "not established",
+      "URL": "https://fyi.org.nz/request/34918"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "Relevant primary response/process passages examined; prior whole-thread/full-document review not asserted.",
+    "use_reason": "context: Ministerial OIA request and response chronology, used to trace released and missing appointment records.",
+    "annotation": "Public request thread and attachments distinguish requests, acknowledgements, decisions and releases; not proof all requested information was supplied.",
+    "retained_versions": [
+      {
+        "id": "M0023",
+        "sha256": "249f22e6dae6134c7f80ed01dd2753dbaf1b7ece9d37d55a0a75b333df01e409",
+        "derivative": false
+      },
+      {
+        "id": "M0024",
+        "sha256": "eba9a5cf5a604c24addd3c32dcf639796575f0cc99a0937a06f87e2e851f4ed4",
+        "derivative": true
+      },
+      {
+        "id": "M0151",
+        "sha256": "e7c0110b022444fb12ba036af5cb70356a9fecfe20aeefd68295e23a92973c95",
+        "derivative": false
+      },
+      {
+        "id": "M0152",
+        "sha256": "e9b311ade44496bbfb630c602a1ace6085273725591a7766a676fe1b86854a22",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S013",
+    "citation": {
+      "title": "Official Information Act request — Medical Council appointments, non-reappointments and HPCA regulator-independence advice - a Official Information Act request to Ministry of Health - FYI",
+      "issuer": "fyi.org.nz",
+      "date": "not established",
+      "URL": "https://fyi.org.nz/request/34919"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "Relevant primary response/process passages examined; prior whole-thread/full-document review not asserted.",
+    "use_reason": "relied: Ministry OIA request and response record, cited in main reference9.",
+    "annotation": "Documents release/refusal boundaries; missing released records do not prove missing reasons or procedure.",
+    "retained_versions": [
+      {
+        "id": "M0025",
+        "sha256": "c162edb1b0be92a64a8b2ab50054e5f0cef32a092825f9afd6c445acdcfa0cf9",
+        "derivative": false
+      },
+      {
+        "id": "M0026",
+        "sha256": "cd41e6fc1e377cebe0c6f0d88c420fbf6f8e6a517cfb8dd1a9f08bf762653c2e",
+        "derivative": true
+      },
+      {
+        "id": "M0153",
+        "sha256": "fe8b3b2835ba66b009c994e655562c483e0f093f5f732cb17f05906819d408d5",
+        "derivative": false
+      },
+      {
+        "id": "M0154",
+        "sha256": "c8776468ba83cce3615d0f6dd8a6f9a22ac61c45a00902156e51f8bef6d0a215",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S014",
+    "citation": {
+      "title": "Dental Council Gazette notice2021-sl4807",
+      "issuer": "New Zealand Gazette",
+      "date": "2021",
+      "URL": "https://gazette.govt.nz/notice/id/2021-sl4807"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0027",
+        "sha256": "dc8d9e75b3e05095a709f7fd8be8c25282f44f0b22840e1d7783e0ac1dcb2a82",
+        "derivative": false
+      },
+      {
+        "id": "M0028",
+        "sha256": "c9150954522889bbf79eb3d9640b722e50897073f4b4ae7afc11d66a0fa44566",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S015",
+    "citation": {
+      "title": "Dental Council Gazette notice2023-sl75",
+      "issuer": "New Zealand Gazette",
+      "date": "2023",
+      "URL": "https://gazette.govt.nz/notice/id/2023-sl75"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0029",
+        "sha256": "bbe274a1ce0a38c937a1cae8273dc4906c7403837a750590097ba17e6dcf3f9b",
+        "derivative": false
+      },
+      {
+        "id": "M0030",
+        "sha256": "d36ba91b4be04b8c69166258d9ce4e9dd4ce46ac3d9eb9a9ddc218fbb4c8c965",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S016",
+    "citation": {
+      "title": "General Medical Council (Constitution) Order2008",
+      "issuer": "United Kingdom",
+      "date": "2008",
+      "URL": "https://www.legislation.gov.uk/uksi/2008/2554/pdfs/uksi_20082554_en.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0031",
+        "sha256": "655da8e975e31374bc95321b856e209cdf43c407087832e19c9716cc8b372637",
+        "derivative": false
+      },
+      {
+        "id": "M0032",
+        "sha256": "aff062221057eb44be07be0f266ab60894d8aefcbb0c84f428c11f70de272519",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S017",
+    "citation": {
+      "title": "General Medical Council (Constitution) (Amendment) Order2012",
+      "issuer": "United Kingdom",
+      "date": "2012",
+      "URL": "https://www.legislation.gov.uk/uksi/2012/1654/pdfs/uksi_20121654_en.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0033",
+        "sha256": "dcb30c8da1401a828e76550edf40366be7b6dc3be1d7d551b8c5a7a06fdab8ef",
+        "derivative": false
+      },
+      {
+        "id": "M0034",
+        "sha256": "043545e86d86fc303736aa8aa61061372d8a17b31320f169337d6ea4d9ca6228",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S018",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Bill: third reading",
+      "issuer": "New Zealand Parliament",
+      "date": "2003-09-11",
+      "URL": "https://hansard.parliament.nz/hansard-transcript/2003-09-11/health-practitioners-competence-assurance-bill-hea?sId=35755d65985c4f45b395dd305d231a52&lang=en"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0035",
+        "sha256": "e50ad144d6489e1d22941d3c20977d9e9f812b9079c8bfd2c46b84ccdee4aaf1",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S019",
+    "citation": {
+      "title": "Medical Practitioners Act 2007",
+      "issuer": "Ireland",
+      "date": "2007",
+      "URL": "https://www.irishstatutebook.ie/eli/2007/act/25/enacted/en/html"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0036",
+        "sha256": "a27f2a99f342cf6f330bd75070f3662a6062410720e831ff7492a63721d8a549",
+        "derivative": false
+      },
+      {
+        "id": "M0037",
+        "sha256": "65e6a78f3a8f8ad468f8ae9c6c9cef997c5ecd776e73d337eb4c38ba621ee144",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S020",
+    "citation": {
+      "title": "Medical Practitioners Act 2007",
+      "issuer": "Ireland",
+      "date": "2007",
+      "URL": "https://www.irishstatutebook.ie/eli/2007/act/25/enacted/en/print.html"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0038",
+        "sha256": "cb0f06519d0ce422aa5865a04f08ad357c40409ddbd8dd83a45bf3f2f1e26741",
+        "derivative": false
+      },
+      {
+        "id": "M0039",
+        "sha256": "2559e44cbb96eb7e0191771e2c0847a599b3589eefe5602d834ca3746f6650f8",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S021",
+    "citation": {
+      "title": "Guide to Professional Conduct and Ethics for Registered Medical Practitioners, ninth edition",
+      "issuer": "Medical Council of Ireland",
+      "date": "2024",
+      "URL": "https://www.medicalcouncil.ie/news-and-publications/publications/guide-to-professional-conduct-and-ethics-for-registered-medical-practitioners-2024.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0040",
+        "sha256": "ef5dc845cf9d8d5ab29cc1215c159dbb6b8ac8a2835355358f8500c8de313353",
+        "derivative": false
+      },
+      {
+        "id": "M0041",
+        "sha256": "b98e30cccaf3cd715d0638dbedbfc8d5d5f5921f5cfff1b8f3ac7362926a4f00",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S022",
+    "citation": {
+      "title": "Health professionals competency assurance",
+      "issuer": "Minister of Health, Beehive",
+      "date": "2002",
+      "URL": "https://www.beehive.govt.nz/release/health-professionals-competency-assurance"
+    },
+    "access": "retained HTTP/error shell; substantive content not established",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0042",
+        "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+        "derivative": false
+      },
+      {
+        "id": "M0043",
+        "sha256": "94f59a48294d99f8d9b7632cd5a1742670c7735fe37ec7c555aab939b635fdde",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S023",
+    "citation": {
+      "title": "Medical Practice in New Zealand: preliminary guide",
+      "issuer": "Medical Council of New Zealand",
+      "date": "1995-08",
+      "URL": "https://www.mcnz.org.nz/assets/Archive/Statements/Good-Medical-Practice/1995-Medical-Practice-in-New-Zealand_.pdf"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0044",
+        "sha256": "2ad021597251c2ca232ef4b7f2249343a207ea6b7ad1afe820ab48f4e4c1316a",
+        "derivative": false
+      },
+      {
+        "id": "M0045",
+        "sha256": "fa8fcc28c248e8c6274093c79658055c6e5f65413155383d8803e751ab8dcdee",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S024",
+    "citation": {
+      "title": "Response to OIA request SBOIA26 1155",
+      "issuer": "Office of the Minister of Health",
+      "date": "2026-08-24 (public transmission; signed date separately unresolved)",
+      "URL": "https://fyi.org.nz/request/34918/response/151102/attach/6/SBOIA26%201155%20Response%20Letter.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "Relevant primary response/process passages examined; prior whole-thread/full-document review not asserted.",
+    "use_reason": "context: Minister’s final OIA response informs availability and release chronology.",
+    "annotation": "Response refers to planned proactive release and reform material; not independent proof of appointment motive.",
+    "retained_versions": [
+      {
+        "id": "M0046",
+        "sha256": "147c11cc6a64f29e3917f74d9c49128a84e84f4e767dbcac583f08cfd283d14e",
+        "derivative": false
+      },
+      {
+        "id": "M0047",
+        "sha256": "2c69af283d2944535f91b754b8aa9e2c59a0e7b51906b771df20bf9327f250f4",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S025",
+    "citation": {
+      "title": "Response to OIA request H2026084428",
+      "issuer": "Ministry of Health",
+      "date": "2026-08-07",
+      "URL": "https://fyi.org.nz/request/34919/response/149874/attach/4/H2026084428%20Response.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "Relevant primary response/process passages examined; prior whole-thread/full-document review not asserted.",
+    "use_reason": "relied: Ministry final OIA response supports the main discussion of withheld or unavailable material.",
+    "annotation": "Response dated7August2026 identifies refusal/disclosure treatment; no inference of wrongdoing solely from withholding.",
+    "retained_versions": [
+      {
+        "id": "M0048",
+        "sha256": "54472fe127400849ecac28b8d3b7b32deaa8470426e4a2b22cd42a1d1ef421db",
+        "derivative": false
+      },
+      {
+        "id": "M0049",
+        "sha256": "1ee30428e523ee831e3f7dc3d54d2d40e9d9cffb48a6432b71e045df00f730f5",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S026",
+    "citation": {
+      "title": "Medical Practitioners Act 1867",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "1867",
+      "URL": "https://www.legislation.govt.nz/act/public/1867/30/en/latest/"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0050",
+        "sha256": "ecad89ade1761d76182bd050fb9f43925027f6c5d32ac7b512873e58363ddecc",
+        "derivative": false
+      },
+      {
+        "id": "M0051",
+        "sha256": "069c1163ff0809373536922e428723f85cdf7a3c4d6ae2e3ca6d64fa91c84265",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S027",
+    "citation": {
+      "title": "Medical Practitioners' Registration Act 1869",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "1869",
+      "URL": "https://www.legislation.govt.nz/act/public/1869/51/en/latest/"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0052",
+        "sha256": "927e9f321b6eec7fd60a56f2737733baab9c7fd31feed6a25c82f3f9dc5ce393",
+        "derivative": false
+      },
+      {
+        "id": "M0053",
+        "sha256": "a0b1ea8423b76483efd3468baa40e33fa8b480168a9cfa49c3554625defb93eb",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S028",
+    "citation": {
+      "title": "Medical Practitioners Registration Act 1905",
+      "issuer": "Not assigned; see provenance manifest",
+      "date": "1905",
+      "URL": "not recovered from retained provenance"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0054",
+        "sha256": "84a1a71314279e460496f9e7ed5de3559c4201874ae1b0ec4385487e5870c000",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_only_original_url_unresolved"
+  },
+  {
+    "id": "S029",
+    "citation": {
+      "title": "Convicts' Forfeitures Act Amendment Act 1905",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "1905",
+      "URL": "https://www.legislation.govt.nz/act/public/1905/17/en/latest/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Incorrect1905 Act discovered during historical search; retained as an excluded mistaken retrieval.",
+    "annotation": "Convicts’ forfeitures law, not medical registration evidence.",
+    "retained_versions": [
+      {
+        "id": "M0056",
+        "sha256": "a891f2d8f178584c9d1fd81a80f95471f98d29f333e8c8b42492fd5ab4b0e9dc",
+        "derivative": false
+      },
+      {
+        "id": "M0057",
+        "sha256": "f135340c312dd775d5b70861493a0bcd807ad08277579e38f7445c4b0f857bdf",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S030",
+    "citation": {
+      "title": "Medical Act 1908",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "1908",
+      "URL": "https://www.legislation.govt.nz/act/public/1908/116/en/latest/"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0058",
+        "sha256": "eaa14ef4b7b2a60bd418210ebba65cd295690fb9227598700fc1f74b5f66a357",
+        "derivative": false
+      },
+      {
+        "id": "M0059",
+        "sha256": "1a9e5862f2aa0be1a7de74eb4c087c7cd79c8ffd9fe0069bbf47b69145ee926d",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S031",
+    "citation": {
+      "title": "Medical Practitioners Act 1914",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "1914",
+      "URL": "https://www.legislation.govt.nz/act/public/1914/74/en/latest/"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0060",
+        "sha256": "0d56c3b4465a66d2d71f3d8c3790df72f63f7671f0a1679f349fd528599d74bd",
+        "derivative": false
+      },
+      {
+        "id": "M0061",
+        "sha256": "db7053f12f8f81dd526f997461d97260485b64628e2a3863d81ef010fd413f7a",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S032",
+    "citation": {
+      "title": "Medical Practitioners Act 1950",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "1950",
+      "URL": "https://www.legislation.govt.nz/act/public/1950/50/en/latest/"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0062",
+        "sha256": "a900d586ae9f651849d022268846d71895cb0321b6110a220abef0f824879ac4",
+        "derivative": false
+      },
+      {
+        "id": "M0063",
+        "sha256": "2e9803c6636c3df5ffa89fa3ab5b919c04e41f3654f44a805fca5c7afa5b7dde",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S033",
+    "citation": {
+      "title": "Medical Practitioners Act 1968",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "1968",
+      "URL": "https://www.legislation.govt.nz/act/public/1968/46/en/latest/"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0064",
+        "sha256": "98c3c329bee949b40e68bc7473adbbf8d99532940c6b0fafd0087690ed870bd9",
+        "derivative": false
+      },
+      {
+        "id": "M0065",
+        "sha256": "741bda2c878fbf635be614407623f85cc448825d8155c9c888fd5c6a36048552",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S034",
+    "citation": {
+      "title": "Medical Practitioners Act 1995",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "1995",
+      "URL": "https://www.legislation.govt.nz/act/public/1995/95/en/latest/"
+    },
+    "access": "saved",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0066",
+        "sha256": "5ef286016b1d79791897ec4116f421a9329f609cf64b3d7e1a84890f907e0241",
+        "derivative": false
+      },
+      {
+        "id": "M0067",
+        "sha256": "c63eb55d64be0cc2e426306b0cd5b1378d4d8e9f8390249535b210ffed599c1a",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S035",
+    "citation": {
+      "title": "Cultural safety, the LGBTQI+ community and international medical graduate training",
+      "issuer": "Towns, Rapsey and Liang; Medical Journal of Australia",
+      "date": "2025",
+      "URL": "https://www.mja.com.au/system/files/issues/222_08/mja252617.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "examined in prior collaboration source audit; not newly re-reviewed in full",
+    "use_reason": "excluded: Historical or international evidence retained for the separate collaborative article, outside this Viewpoint’s decision-process question.",
+    "annotation": "Can establish dated regulatory arrangements or attributed historical positions; cannot establish the2026 appointment decision’s purpose.",
+    "retained_versions": [
+      {
+        "id": "M0068",
+        "sha256": "f4522993f37718bef3b48fa467949745dd108b410b58ad37eda185ed51a3f08c",
+        "derivative": false
+      },
+      {
+        "id": "M0069",
+        "sha256": "a1bcff772ca8bf35f48ce280f13d6b003f9b3a0570bcc59cfaaac375956af9c5",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S036",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Amendment Bill",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "not established",
+      "URL": "https://www.legislation.govt.nz/bill/government/2026/287/en/latest/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Proposed HPCAA directions and accountability changes, not enacted powers or evidence of exercise.",
+    "retained_versions": [
+      {
+        "id": "M0070",
+        "sha256": "1d39431d5ed8036f5cce1d283b3e70faa789704b08a78ff3af1723c45e18409a",
+        "derivative": false
+      },
+      {
+        "id": "M0071",
+        "sha256": "035a66de9b0e581347486025b2ade4aa85248105f700cc1ebe523d38d55bb84f",
+        "derivative": true
+      },
+      {
+        "id": "M0186",
+        "sha256": "90d0b8a9e5337465da42dfff984663866a7f300dbce072439bfc898c3905a36d",
+        "derivative": false
+      },
+      {
+        "id": "M0187",
+        "sha256": "61ef27e3e2d0d718555773bb294982840a308ffb6f9b69b47a3ba3edad63cf2c",
+        "derivative": true
+      }
+    ],
+    "redistribution": "qualified_text_derivative_included_not_facsimile"
+  },
+  {
+    "id": "S037",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Act 2003",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "2003",
+      "URL": "https://www.legislation.govt.nz/act/public/2003/48/en/latest/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Retained source material; no finding inferred solely from its inclusion. Consult associated source review before relying on a specific passage.",
+    "retained_versions": [
+      {
+        "id": "M0072",
+        "sha256": "490d64ef66048ced48c1dd571ef8f3c96f459d4a1dea34e1b311c5654dab6d91",
+        "derivative": false
+      },
+      {
+        "id": "M0073",
+        "sha256": "cb311fa89dc89cc27386836d847cb75c1813185c9e854c54def39a68336ca8ec",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S038",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Act 2003",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "2003",
+      "URL": "https://www.legislation.govt.nz/act/public/2003/48/en/2026-06-06/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Retained source material; no finding inferred solely from its inclusion. Consult associated source review before relying on a specific passage.",
+    "retained_versions": [
+      {
+        "id": "M0074",
+        "sha256": "7c87b9c7e1544215a3a615c17ada04df166e7821fbdadd2134f3f1cb0fe799b4",
+        "derivative": false
+      },
+      {
+        "id": "M0075",
+        "sha256": "5e0b5ed2015d7719ce9a99aa997141303ad4af17ce99ba250d2e17cc22d837f8",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S039",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Act 2003",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "2003",
+      "URL": "https://www.legislation.govt.nz/act/public/2003/48/en/2023-06-15B/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Decision-date ss118,120–122 allocate functions, Gazette appointment, holdover and removal; does not resolve motive or automatic fairness entitlement.",
+    "retained_versions": [
+      {
+        "id": "M0076",
+        "sha256": "7d1fb9aeba3a0abfe00d3bc8df8784c1a008564218ebedee4989cc81bb835268",
+        "derivative": false
+      },
+      {
+        "id": "M0077",
+        "sha256": "b197680c65de3a277e6f5529028e57ec333f6a485f356a76b80b1db60d18f7b7",
+        "derivative": true
+      }
+    ],
+    "redistribution": "qualified_text_derivative_included_not_facsimile"
+  },
+  {
+    "id": "S040",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Act: version history index",
+      "issuer": "Parliamentary Counsel Office",
+      "date": "not established",
+      "URL": "not recovered from retained provenance"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "index reviewed",
+    "use_reason": "context: Navigation/discovery index; retained but not substantive evidence by itself.",
+    "annotation": "Locates underlying documents; does not establish absence of records not listed.",
+    "retained_versions": [
+      {
+        "id": "M0078",
+        "sha256": "c2f5009ffa721d6f69152f052db934720db6a6388b774c5a7b8e2bfc1cbd7a93",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_only_original_url_unresolved"
+  },
+  {
+    "id": "S041",
+    "citation": {
+      "title": "Sam Maharaj v Prime Minister (Trinidad and Tobago) [2016] UKPC37",
+      "issuer": "Judicial Committee of the Privy Council",
+      "date": "2016-12-19",
+      "URL": "https://jcpc.uk/uploads/jcpc_2015_0056_judgment_3c54ea7834.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "Source header and opening paragraph directly checked; substantive legal interpretation is limited to the cited judgment passages",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Non-reappointment to the Industrial Court of Trinidad and Tobago and damages for breach of constitutional procedural protection; foreign constitutional context requires explicit limits when considering New Zealand regulatory appointments.",
+    "retained_versions": [
+      {
+        "id": "M0079",
+        "sha256": "3d15bc28d8b6e17e918ca0913a3eb2b5ea895bbc373df6100274141fcca4eb4a",
+        "derivative": false
+      },
+      {
+        "id": "M0080",
+        "sha256": "c568dce28c3dd91892008425b14d0090d995d0797e8dccc78ebab2604172b34e",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S042",
+    "citation": {
+      "title": "New Zealand Bill of Rights Act 1990",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "1990",
+      "URL": "https://www.legislation.govt.nz/act/public/1990/109/en/latest/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0081",
+        "sha256": "67aefb13bafb33e01daa01427851a641295bff857de99222cc24c6ceaf88808d",
+        "derivative": false
+      },
+      {
+        "id": "M0082",
+        "sha256": "28af6bf3f4d68c86a5dfb60f99b7f6e07d5f799ba2cf2ac8cee0fe3f28603005",
+        "derivative": true
+      }
+    ],
+    "redistribution": "qualified_text_derivative_included_not_facsimile"
+  },
+  {
+    "id": "S043",
+    "citation": {
+      "title": "Appointing candidates - Public Service Commission Te Kawa Mataaho",
+      "issuer": "Public Service Commission",
+      "date": "not established",
+      "URL": "https://www.publicservice.govt.nz/guidance/guide-board-appointment-and-induction-guidelines/appointing-candidates"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Executive appointments process and formal statutory appointment are distinct; guidance is not itself an appointment instrument.",
+    "retained_versions": [
+      {
+        "id": "M0083",
+        "sha256": "2b33e80ed31607bebc591f0c9dbf9f0c8f36dca9639fdd7400a4ff2bf16d3947",
+        "derivative": false
+      },
+      {
+        "id": "M0084",
+        "sha256": "a248ea4a5d5b0ba4d1ea7f4a1c84864e4a44388c3727c985a305a56aba4d25a8",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S044",
+    "citation": {
+      "title": "Unison Networks Ltd v Commerce Commission [2007] NZSC74",
+      "issuer": "Supreme Court of New Zealand",
+      "date": "2007",
+      "URL": "https://www.courtsofnz.govt.nz/assets/cases/2007/unisonnetworkslimitedvcommercecommission_001.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Statutory-purpose limits and permissible concurrent objectives; successful electricity regulator, not MCNZ decision.",
+    "retained_versions": [
+      {
+        "id": "M0085",
+        "sha256": "5a33ee9ef3f4a3656da48059db0b42521671c161403f44925127b816a12320c5",
+        "derivative": false
+      },
+      {
+        "id": "M0086",
+        "sha256": "b145dcdad813a2965dbf7d66d8c84e0c664747f727fa445fcffbb1e2e8c45622",
+        "derivative": true
+      }
+    ],
+    "redistribution": "exact_judgment_pdf_included"
+  },
+  {
+    "id": "S045",
+    "citation": {
+      "title": "Evidence to inform options for standards for cultural safety: rapid literature review and environmental scan",
+      "issuer": "Jayde Fuller; Australian Commission on Safety and Quality in Health Care",
+      "date": "2026-07",
+      "URL": "https://www.safetyandquality.gov.au/sites/default/files/2026-09/rapid-literature-review-and-environmental-scan-national-cultural-safety-standard-report.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0087",
+        "sha256": "51c08329cdbd865226192c9cc198290f43dbc34970cd28e567190eb8df42ee69",
+        "derivative": false
+      },
+      {
+        "id": "M0088",
+        "sha256": "77e590490db24cd90a84b51ad1ee1efe507175fa0af190249eb7fc37db424651",
+        "derivative": true
+      },
+      {
+        "id": "M0213",
+        "sha256": null,
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S046",
+    "citation": {
+      "title": "ACT Welcomes Medical Council Reset",
+      "issuer": "Named issuing organisation, distributed by Scoop",
+      "date": "2026-06-16",
+      "URL": "https://m.scoop.co.nz/stories/PA2606/S00112/act-welcomes-medical-council-reset.htm"
+    },
+    "access": "ACT press release republished by Scoop; full text",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "contrary: Contrary position: supports leadership change and seeks withdrawal of guidance. Attributed political advocacy, not proof of clinical or legal claims.",
+    "annotation": "Contrary position: supports leadership change and seeks withdrawal of guidance. Attributed political advocacy, not proof of clinical or legal claims.",
+    "retained_versions": [
+      {
+        "id": "M0089",
+        "sha256": "ef4d0e4b85fb9a735a52faa872a75b6e181c347229687ace87659974be15a5ae",
+        "derivative": false
+      },
+      {
+        "id": "M0090",
+        "sha256": "d0a77ebcdd71d3c388796f7c757f503133ebc3609929315829a33641e1cee459",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S047",
+    "citation": {
+      "title": "Minister’s Attack On Medical Council Sets Dangerous Precedent",
+      "issuer": "Named issuing organisation, distributed by Scoop",
+      "date": "2026-06-16",
+      "URL": "https://www.scoop.co.nz/stories/GE2606/S00050/ministers-attack-on-medical-council-sets-dangerous-precedent.htm"
+    },
+    "access": "ASMS press release republished by Scoop; full text",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Professional independence objection; not judicial finding or causal outcome evidence.",
+    "annotation": "Professional independence objection; not judicial finding or causal outcome evidence.",
+    "retained_versions": [
+      {
+        "id": "M0091",
+        "sha256": "a430d1946a7cc8b72782d20fed35d42140fc70a1e97317272782bc616f7d75a9",
+        "derivative": false
+      },
+      {
+        "id": "M0092",
+        "sha256": "242d084e4766cd1549964aa01be04bac19fb3038aacc9e9dc21ddfff20a6b7c8",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S048",
+    "citation": {
+      "title": "When professional regulation becomes political",
+      "issuer": "www.nzdoctor.co.nz",
+      "date": "2026-06-23",
+      "URL": "https://www.nzdoctor.co.nz/article/opinion/letters/when-professional-regulation-becomes-political"
+    },
+    "access": "distinct professional Letter; preview only",
+    "review_extent": "preview/metadata only",
+    "use_reason": "context: Broader regulator independence concern; no detailed claims from inaccessible body.",
+    "annotation": "No full-text or version-equivalence claim; do not rely on inaccessible content.",
+    "retained_versions": [
+      {
+        "id": "M0093",
+        "sha256": "2a1311020eac7f102ee2eef5f41b7f3c17dc4bba727948d6b3e91e15fd919fbd",
+        "derivative": false
+      },
+      {
+        "id": "M0094",
+        "sha256": "1018e18fefecec8f486eb3ef6ab362006d1e3a59dc6228078f52a6342a58ef11",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S049",
+    "citation": {
+      "title": "Ensure Doctors Focus on Patients, Not Politics – Have Your Say - Democracy Action",
+      "issuer": "www.democracyaction.org.nz",
+      "date": "2026-03-14",
+      "URL": "https://www.democracyaction.org.nz/ensure_doctors_focus_on_patients_not_politics_have_your_say"
+    },
+    "access": "advocacy consultation commentary; full text",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "contrary: Contrary account questions compelled political beliefs while acknowledging respectful care and existing cultural-competence law. Historical consultation closing date must not become current status.",
+    "annotation": "Contrary account questions compelled political beliefs while acknowledging respectful care and existing cultural-competence law. Historical consultation closing date must not become current status.",
+    "retained_versions": [
+      {
+        "id": "M0095",
+        "sha256": "662278870a78470f81742c0cd66f6f333fd385c815a48bfd299edfc79d8340a9",
+        "derivative": false
+      },
+      {
+        "id": "M0096",
+        "sha256": "7c5d0733f95b87b75831b371311fe884fe291a9cae7cbf8f3a67a4527a6445cf",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S050",
+    "citation": {
+      "title": "When appointments become warnings - by Dylan A Mordaunt",
+      "issuer": "alittlesunlight.substack.com",
+      "date": "2026-06-17",
+      "URL": "https://alittlesunlight.substack.com/p/when-appointments-become-warnings"
+    },
+    "access": "author public essay; full text",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "overlap disclosure: Author’s earlier public argument materially overlaps; disclose to editor.",
+    "annotation": "Public discussion, not independent corroboration or proof of publication eligibility.",
+    "retained_versions": [
+      {
+        "id": "M0097",
+        "sha256": "295fa59cbbafeffb727159292010d48b761858d3aa1da32f2fbe8694ae8b7ecd",
+        "derivative": false
+      },
+      {
+        "id": "M0098",
+        "sha256": "c0b776ffaecf72191acd1eda8b3e967cf6b42acd1dea2dd4945fe2ba396a0739",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S051",
+    "citation": {
+      "title": "Balancing rights and governance: comparative analysis of open disclosure frameworks in Australia and New Zealand - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "2026-02-13",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1629/balancing-rights-and-governance-comparative-analysis-of-open-disclosure-frameworks-in-australia-and-new-zealand"
+    },
+    "access": "NZMJ article; full public text captured",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Different governance question. Exclude from this short letter unless a specific disclosure claim requires it; no quota-based self-citation.",
+    "annotation": "Different governance question. Exclude from this short letter unless a specific disclosure claim requires it; no quota-based self-citation.",
+    "retained_versions": [
+      {
+        "id": "M0099",
+        "sha256": "c68e004c570a9bbabc137f089df75fd6ead421e5df53ec590777224aac9df8db",
+        "derivative": false
+      },
+      {
+        "id": "M0100",
+        "sha256": "e07e88f03ff49f0ea6b3f36aca1bc4a854f83e0ad358e1d84f17fea9d4bca35e",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S052",
+    "citation": {
+      "title": "Vol. 139 No. 1636 - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1636"
+    },
+    "access": "200",
+    "review_extent": "title inventory screened; all article bodies not examined",
+    "use_reason": "excluded: Issue-title screening used to locate related publications.",
+    "annotation": "Inventory of published titles, not an independent source of appointment evidence.",
+    "retained_versions": [
+      {
+        "id": "M0101",
+        "sha256": "946709c5855c77440d9f0bc12f3f460756e2f59c9c388c54159cdc3b4a62befc",
+        "derivative": false
+      },
+      {
+        "id": "M0102",
+        "sha256": "cc1d6de1b70a1926337555168df3709396dca97578b9386d1e5be0d13c188a2e",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S053",
+    "citation": {
+      "title": "Vol. 139 No. 1637 - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1637"
+    },
+    "access": "200",
+    "review_extent": "title inventory screened; all article bodies not examined",
+    "use_reason": "excluded: Issue-title screening used to locate related publications.",
+    "annotation": "Inventory of published titles, not an independent source of appointment evidence.",
+    "retained_versions": [
+      {
+        "id": "M0103",
+        "sha256": "49a0a9579b4e12c84a7df2d55f86a7df6c92a0a9ab54be787914341c32c778ba",
+        "derivative": false
+      },
+      {
+        "id": "M0104",
+        "sha256": "f8aa0139a6efeb0875b014b57ec6e2c719317747d9fe28885093b5c8ee0a7f67",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S054",
+    "citation": {
+      "title": "Vol. 139 No. 1638 - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1638"
+    },
+    "access": "200",
+    "review_extent": "title inventory screened; all article bodies not examined",
+    "use_reason": "excluded: Issue-title screening used to locate related publications.",
+    "annotation": "Inventory of published titles, not an independent source of appointment evidence.",
+    "retained_versions": [
+      {
+        "id": "M0105",
+        "sha256": "b0a93d801083024b1e1e5172499fc3dd3b70057c73501b728874f48d51bba637",
+        "derivative": false
+      },
+      {
+        "id": "M0106",
+        "sha256": "c9f7122f4b5e49dba08fd236dd9e832ebcba4d0df4a91ce17bbca55354c85853",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S055",
+    "citation": {
+      "title": "Vol. 139 No. 1639 - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1639"
+    },
+    "access": "200",
+    "review_extent": "title inventory screened; all article bodies not examined",
+    "use_reason": "excluded: Issue-title screening used to locate related publications.",
+    "annotation": "Inventory of published titles, not an independent source of appointment evidence.",
+    "retained_versions": [
+      {
+        "id": "M0107",
+        "sha256": "65cc4b3cefe85b0b190fc21a610348158c973de0cc8ee49a5dd2ae6d072f2cae",
+        "derivative": false
+      },
+      {
+        "id": "M0108",
+        "sha256": "070a02ffdfa2807eb7ff45e6f63fdf90bd923aa27dcec95993f46d0fb6f82bb1",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S056",
+    "citation": {
+      "title": "Vol. 139 No. 1640 - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1640"
+    },
+    "access": "200",
+    "review_extent": "title inventory screened; all article bodies not examined",
+    "use_reason": "excluded: Issue-title screening used to locate related publications.",
+    "annotation": "Inventory of published titles, not an independent source of appointment evidence.",
+    "retained_versions": [
+      {
+        "id": "M0109",
+        "sha256": "83fdd67289aa49fffafe333a1798960ad5a370d3b228f6ead14b63d7d3c326dc",
+        "derivative": false
+      },
+      {
+        "id": "M0110",
+        "sha256": "33be0e14e54a18314fc84fccc2747ead5d078bca284dde41bfe2cf06af09550f",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S057",
+    "citation": {
+      "title": "Vol. 139 No. 1641 - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1641"
+    },
+    "access": "200",
+    "review_extent": "title inventory screened; all article bodies not examined",
+    "use_reason": "excluded: Issue-title screening used to locate related publications.",
+    "annotation": "Inventory of published titles, not an independent source of appointment evidence.",
+    "retained_versions": [
+      {
+        "id": "M0111",
+        "sha256": "262d36865e140bfb245d75df67326c7aec98ff3d543da5176fc42bcf2f00edd1",
+        "derivative": false
+      },
+      {
+        "id": "M0112",
+        "sha256": "18afc1eca8cfa6403c6afe2f9897b3135c15426be71981224ad5b363060d9f8d",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S058",
+    "citation": {
+      "title": "Vol. 139 No. 1642 - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1642"
+    },
+    "access": "200",
+    "review_extent": "title inventory screened; all article bodies not examined",
+    "use_reason": "excluded: Issue-title screening used to locate related publications.",
+    "annotation": "Inventory of published titles, not an independent source of appointment evidence.",
+    "retained_versions": [
+      {
+        "id": "M0113",
+        "sha256": "c72477971a176572a16c8059921addb19d6d836519ea493b132d3c957b36f4b8",
+        "derivative": false
+      },
+      {
+        "id": "M0114",
+        "sha256": "7804a6e9b2933e02d0377effe389d541a241cd72d0a655f6ff7b98a357e933e2",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S059",
+    "citation": {
+      "title": "Vol. 139 No. 1643 - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1643"
+    },
+    "access": "200",
+    "review_extent": "title inventory screened; all article bodies not examined",
+    "use_reason": "excluded: Issue-title screening used to locate related publications.",
+    "annotation": "Inventory of published titles, not an independent source of appointment evidence.",
+    "retained_versions": [
+      {
+        "id": "M0115",
+        "sha256": "c0adef2f3f70fa980f6c01a5498f31e7861d6b00993d6c644bf3faaee6043851",
+        "derivative": false
+      },
+      {
+        "id": "M0116",
+        "sha256": "129243b7bcc2a4c00c24b3898190b13049f7f0b970b77d2b3e4decfd08913b86",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S060",
+    "citation": {
+      "title": "Vol. 139 No. 1644 - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "not established",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1644"
+    },
+    "access": "200",
+    "review_extent": "title inventory screened; all article bodies not examined",
+    "use_reason": "excluded: Issue-title screening used to locate related publications.",
+    "annotation": "Inventory of published titles, not an independent source of appointment evidence.",
+    "retained_versions": [
+      {
+        "id": "M0117",
+        "sha256": "de375f676af99c8b4c3db762cfc0cd1e3585bb45d3d46957893a93e5c64a64a8",
+        "derivative": false
+      },
+      {
+        "id": "M0118",
+        "sha256": "6f51e833c25c2cd47ab8c52480843e4f64da58046fb209fe62d193bb4d406976",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S061",
+    "citation": {
+      "title": "Mr Brown does it again",
+      "issuer": "www.linkedin.com",
+      "date": "2026-06-16",
+      "URL": "https://www.linkedin.com/pulse/mr-brown-does-again-frances-matthews-14x3f"
+    },
+    "access": "public author commentary; full text",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Shared statutory argument; do not import inaccurate chair-appointment shorthand or categorical motive claims.",
+    "annotation": "Shared statutory argument; do not import inaccurate chair-appointment shorthand or categorical motive claims.",
+    "retained_versions": [
+      {
+        "id": "M0119",
+        "sha256": "c52cedfb87a844b29e0064b7cde29d8a8c09519d8e147244262837dafcd09a41",
+        "derivative": false
+      },
+      {
+        "id": "M0120",
+        "sha256": "f4f8a7e3a42c7aa3ca93cd7209bb7bcc6605ddedab7a611012908e199d193a8f",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S062",
+    "citation": {
+      "title": "Memo to minister: Legislation sets Medical Council’s responsibilities, including cultural safety",
+      "issuer": "www.nzdoctor.co.nz",
+      "date": "2026-06-16",
+      "URL": "https://www.nzdoctor.co.nz/article/opinion/letters/memo-minister-legislation-sets-medical-councils-responsibilities-including"
+    },
+    "access": "distinct professional Letter; preview only",
+    "review_extent": "preview/metadata only",
+    "use_reason": "context: Relevant parallel argument. Full text subscriber-gated; not verified identical to public LinkedIn essay.",
+    "annotation": "No full-text or version-equivalence claim; do not rely on inaccessible content.",
+    "retained_versions": [
+      {
+        "id": "M0121",
+        "sha256": "e3022f9d91a1aca960860ede4d3325d10c1fd5be5d6f4e8ade6e9fad17fedcfc",
+        "derivative": false
+      },
+      {
+        "id": "M0122",
+        "sha256": "52177b2a3c349339fee2625ff98946d62909c72756086467c8f03e8ba7c55264",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S063",
+    "citation": {
+      "title": "What doctors and patients told us about the core ethical standards (Good Medical Practice)",
+      "issuer": "Medical Council of New Zealand",
+      "date": "2026; exact displayed publication date retained in capture",
+      "URL": "https://www.mcnz.org.nz/about-us/news-and-updates/what-doctors-and-patients-told-us-about-the-core-ethical-standards-good-medical-practice/"
+    },
+    "access": "official Council summary and report links",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Good Medical Practice feedback is distinct from cultural-safety consultation. Useful contextual evidence about patients and practical standards; not trial evidence.",
+    "annotation": "Good Medical Practice feedback is distinct from cultural-safety consultation. Useful contextual evidence about patients and practical standards; not trial evidence.",
+    "retained_versions": [
+      {
+        "id": "M0123",
+        "sha256": "45ef8bdc79659576e2cedad6ddce1bb587359eb5a4f72f51fa236b6c4c712bfc",
+        "derivative": false
+      },
+      {
+        "id": "M0124",
+        "sha256": "121066fc0e4ddcd687b526d9d84c4356e574e36935512a3ab4c81248f76afe22",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S064",
+    "citation": {
+      "title": "Discrediting science as “ideology”: when evidence becomes politically inconvenient - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "2026-07-17",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1638/discrediting-science-as-ideology-when-evidence-becomes-politically-inconvenient"
+    },
+    "access": "NZMJ editorial; full public HTML",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "relied/overlap disclosure: Existing editorial must be acknowledged and contribution differentiated.",
+    "annotation": "Published broad critique of evidence, equity and advocacy; acknowledged overlap, not novelty basis for repeating argument.",
+    "retained_versions": [
+      {
+        "id": "M0125",
+        "sha256": "a6b821ce235d6c10565eb09fd841748ecaad4373fe5330c1ae42287ed37dc8d7",
+        "derivative": false
+      },
+      {
+        "id": "M0126",
+        "sha256": "12f43fbc1be23fe5b26466ebea75dd057f684022dd5f8f3d880d672b7172d79e",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S065",
+    "citation": {
+      "title": "Implementing a cultural safety training plan across medical colleges in Aotearoa New Zealand—looking back, and looking forward - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "2026-06-26",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1637/implementing-a-cultural-safety-training-plan-across-medical-colleges-in-aotearoa-new-zealand-looking-back-and-looking-forward"
+    },
+    "access": "NZMJ implementation review; full public HTML",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Midpoint implementation experience, positive feedback and workload/assessment difficulties. Full evaluation planned2027; not demonstrated clinical effectiveness.",
+    "annotation": "Midpoint implementation experience, positive feedback and workload/assessment difficulties. Full evaluation planned2027; not demonstrated clinical effectiveness.",
+    "retained_versions": [
+      {
+        "id": "M0127",
+        "sha256": "090ad97cacb6f60b6de4956fd8ae582b61565006eb0d409f594bf222a4efe3eb",
+        "derivative": false
+      },
+      {
+        "id": "M0128",
+        "sha256": "2a982165bab20c70639d24e15d72b5a2bb435300465bdfa995052932445432cb",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S066",
+    "citation": {
+      "title": "Listening to patients and doctors: how voice strengthens good medical practice - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "2026-06-12",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1636/listening-to-patients-and-doctors-how-voice-strengthens-good-medical-practice"
+    },
+    "access": "NZMJ editorial; full text in normal public HTML",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Love, Simeon and Deed explain patient/doctor feedback and practical standards; possible contextual addition, not proof of efficacy or defence of every draft provision.",
+    "annotation": "Love, Simeon and Deed explain patient/doctor feedback and practical standards; possible contextual addition, not proof of efficacy or defence of every draft provision.",
+    "retained_versions": [
+      {
+        "id": "M0129",
+        "sha256": "ee874bf7b0bdd0247fe207411fb1164f75777744e1f5de9ecf1db144f16a8347",
+        "derivative": false
+      },
+      {
+        "id": "M0130",
+        "sha256": "604d609cd32253f1143e87ee6cc761ca47a551dff1213cd47ef3d87e3ba9abf2",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S067",
+    "citation": {
+      "title": "The Minister of Health and the Medical Profession - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "1926; reprinted2026-10-23",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1644/the-minister-of-health-and-the-medical-profession"
+    },
+    "access": "historical reprint; public HTML",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "excluded: 1926 historical reprint, not a contemporary2026 response.",
+    "annotation": "Not a contemporary Letter about2026 appointments. Excluded from short current argument.",
+    "retained_versions": [
+      {
+        "id": "M0131",
+        "sha256": "903b94a0bb899042bbed68d7f955e521b66c33ed56e26e1074de160e190a811d",
+        "derivative": false
+      },
+      {
+        "id": "M0132",
+        "sha256": "1034a2e52005a42b792dcfa229bd379c3f279c4df41047307c24111107ecaa49",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S068",
+    "citation": {
+      "title": "Whitia Kia Ora: a culturally responsive model of Bicillin L-A® delivery for people with rheumatic fever in the Waikato region of Aotearoa New Zealand - The New Zealand Medical Journal",
+      "issuer": "New Zealand Medical Journal",
+      "date": "2026-08-14",
+      "URL": "https://nzmj.org.nz/journal/vol-139-no-1640/whitia-kia-ora-a-culturally-responsive-model-of-bicillin-l-a-delivery-for-people-with-rheumatic-fever-in-the-waikato-region-of-a"
+    },
+    "access": "NZMJ article; public HTML captured",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Screened as disease-specific service model, not appointment/regulatory independence evidence. Not selected for the bounded letter.",
+    "annotation": "Screened as disease-specific service model, not appointment/regulatory independence evidence. Not selected for the bounded letter.",
+    "retained_versions": [
+      {
+        "id": "M0133",
+        "sha256": "af68c7f8dfc1e07f648a02f5bd44c4d0d50d11d1069c2576fc9aa6b026af20a3",
+        "derivative": false
+      },
+      {
+        "id": "M0134",
+        "sha256": "f246a15abb3be109de008e6ea53f79808088b9c45bdc48662077b59251272026",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S069",
+    "citation": {
+      "title": "Minister’s interference with Medical Council independence is the real political agenda",
+      "issuer": "www.nzdoctor.co.nz",
+      "date": "2026-06-16",
+      "URL": "https://www.nzdoctor.co.nz/article/undoctored/ministers-interference-medical-council-independence-real-political-agenda"
+    },
+    "access": "NZRDA press release in Undoctored; full text",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Not a separate NZDoctor Letter; distinguish organisational advocacy from RNZ reporting quoting the same organisation.",
+    "annotation": "Not a separate NZDoctor Letter; distinguish organisational advocacy from RNZ reporting quoting the same organisation.",
+    "retained_versions": [
+      {
+        "id": "M0135",
+        "sha256": "a54c3ee915e2f60c65cfbafb5e62c351c5cc9e1a22eec7cd7fe39a56c5296e1c",
+        "derivative": false
+      },
+      {
+        "id": "M0136",
+        "sha256": "e1afbeca19826636758660578cc4c4c2dfeece50fdee6f139d15c3d382b5a8e7",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S070",
+    "citation": {
+      "title": "MCNZ Statement — NZ Women in Medicine",
+      "issuer": "www.nzwim.org.nz",
+      "date": "2026-06-16; updated after 2026-07-07",
+      "URL": "https://www.nzwim.org.nz/mcnz-statement"
+    },
+    "access": "professional statement and open letter; full public text",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Adds collective professional concern and call for reasons. Signature count is advocacy participation, not representative opinion.",
+    "annotation": "Adds collective professional concern and call for reasons. Signature count is advocacy participation, not representative opinion.",
+    "retained_versions": [
+      {
+        "id": "M0137",
+        "sha256": "bf51d99b68900a93d222d13f9a13376fa4aa716524db7cae91eb7d5c8c717e51",
+        "derivative": false
+      },
+      {
+        "id": "M0138",
+        "sha256": "c5e39f547a170a2e2bf2fa93b9dc1beadf8b9dde7ad959f5ddbd27236a769e03",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S071",
+    "citation": {
+      "title": "Doctors Warn Of 'Backwards Step' After Medical Council Leadership Shake-Up Over 'Ideological Agenda'",
+      "issuer": "Named issuing organisation, distributed by Scoop",
+      "date": "2026-06-17",
+      "URL": "https://www.scoop.co.nz/stories/GE2606/S00053/doctors-warn-of-backwards-step-after-medical-council-leadership-shake-up-over-ideological-agenda.htm"
+    },
+    "access": "RNZ news republished by Scoop; full text",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Reporting includes government rationale and professional objections. One syndicated story, not independent confirmation at each outlet.",
+    "annotation": "Reporting includes government rationale and professional objections. One syndicated story, not independent confirmation at each outlet.",
+    "retained_versions": [
+      {
+        "id": "M0139",
+        "sha256": "c1cfc5d1fa79ac319f233906458711c1582b7fd854361ba48dc668c8fe873f9f",
+        "derivative": false
+      },
+      {
+        "id": "M0140",
+        "sha256": "d3376c2530183e837f4437dca41d873d851b444a206260aa5e1e00a1ea14a5d5",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S072",
+    "citation": {
+      "title": "College statement on changes to Medical Council leadership",
+      "issuer": "www.rnzcgp.org.nz",
+      "date": "2026-06-17",
+      "URL": "https://www.rnzcgp.org.nz/news/media-releases/college-statement-on-changes-to-medical-council-leadership/"
+    },
+    "access": "official professional statement; full text",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "context: Recognises appointment authority alongside regulatory independence and cultural obligations.",
+    "annotation": "Recognises appointment authority alongside regulatory independence and cultural obligations.",
+    "retained_versions": [
+      {
+        "id": "M0141",
+        "sha256": "cd8560d0da647ef5be481836753def211d1850b151e2bbc2be326be24039ed77",
+        "derivative": false
+      },
+      {
+        "id": "M0142",
+        "sha256": "9d04c0f6b577743d1083c31cd97fa368d50c022af4b804daff98cf7d385aaa18",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S073",
+    "citation": {
+      "title": "Simeon Brown accused of political interference over Medical Council chair decision – Te Ao Māori News",
+      "issuer": "www.teaonews.co.nz",
+      "date": "not established",
+      "URL": "https://www.teaonews.co.nz/2026/06/17/simeon-brown-accused-of-political-interference-over-medical-council-chair-decision/"
+    },
+    "access": "200",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "relied: main reference6 attributes the Minister’s public explanation.",
+    "annotation": "Te Ao reports Brown’s criticism concerning politics and workforce/access priorities. Attribution establishes his reported explanation, not operative motive or legality.",
+    "retained_versions": [
+      {
+        "id": "M0143",
+        "sha256": "34f76e8ef312dedbbe19463ebce23dc0716f976efdbb854c42b681f52c3a4880",
+        "derivative": false
+      },
+      {
+        "id": "M0144",
+        "sha256": "3022c2679a6942c66398e7e7ba4a54858d13f844543534af84990a75b2fb1b46",
+        "derivative": true
+      },
+      {
+        "id": "M0203",
+        "sha256": "2c35ead2327aeebf6edde9520be869ef1be472c40e420c814f008279feccdbd8",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S074",
+    "citation": {
+      "title": "Cultural safety, the LGBTQI+ community and international medical graduate training: institutional publication record",
+      "issuer": "University of Otago",
+      "date": "2025",
+      "URL": "https://ourarchive.otago.ac.nz/esploro/outputs/journalArticle/Cultural-safety-the-LGBTQI-community-and/9926720344101891"
+    },
+    "access": "institutional publication record and abstract",
+    "review_extent": "bounded media review; relevant full-text passages examined",
+    "use_reason": "excluded: Verified Cindy Towns, Charlene Rapsey, Rhea Liang. Relevant to breadth and implementation, not appointment legality or trial effectiveness. Existing full PDF is in earlier source archive.",
+    "annotation": "Verified Cindy Towns, Charlene Rapsey, Rhea Liang. Relevant to breadth and implementation, not appointment legality or trial effectiveness. Existing full PDF is in earlier source archive.",
+    "retained_versions": [
+      {
+        "id": "M0145",
+        "sha256": "af1743206dc653d1e48304d896aa243be2755efd6ca1937752ee5f90cf72a52f",
+        "derivative": false
+      },
+      {
+        "id": "M0146",
+        "sha256": "ab9ca5511b6b961a06ea1324ec31ae3b87fcfebf70c33f1206301bd27ea9936f",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S075",
+    "citation": {
+      "title": "Appointments made to Medical Council",
+      "issuer": "Minister of Health, Beehive",
+      "date": "2026-07-27",
+      "URL": "https://www.beehive.govt.nz/release/appointments-made-medical-council"
+    },
+    "access": "Primary web-tool content retained; prior CLI failure/challenge preserved separately.",
+    "review_extent": "Relevant primary extracted passages examined; no raw-HTML availability claimed.",
+    "use_reason": "context: Government’s public announcement of appointments and stated purpose.",
+    "annotation": "Official announcement records named appointments and government rationale; it does not establish the missing reason for Love’s APH non-progression.",
+    "retained_versions": [
+      {
+        "id": "M0147",
+        "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+        "derivative": false
+      },
+      {
+        "id": "M0148",
+        "sha256": "d088784b7ecb87f1ea17e6f982fa968ffefcc07b79de6ecc548fc00242868da6",
+        "derivative": true
+      },
+      {
+        "id": "M0184",
+        "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+        "derivative": false
+      },
+      {
+        "id": "M0185",
+        "sha256": "36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S076",
+    "citation": {
+      "title": "Consultation outcome and summary of feedback on draft cultural standards",
+      "issuer": "Medical Council of New Zealand",
+      "date": "2026-06-29 (document label)",
+      "URL": "https://online.flippingbook.com/view/880804364/"
+    },
+    "access": "Failed/limited interactive shell retained; substantive consultation-summary text not obtained from this capture.",
+    "review_extent": "Discovery shell only; no full-text review.",
+    "use_reason": "excluded as substantive evidence: inaccessible consultation-summary viewer; retained for complete accounting.",
+    "annotation": "Viewer identification is not evidence of its contents. Separately accessible MCNZ consultation outcome is catalogued as S082.",
+    "retained_versions": [
+      {
+        "id": "M0149",
+        "sha256": "70dc0451c609c94c7b4025e94eb9ed5a0bfc1b32fe3879ec9433661c2f08df04",
+        "derivative": false
+      },
+      {
+        "id": "M0150",
+        "sha256": "9a4d92642159269445c0fded12dff25f6f1137db6d4eedf8128a29d8bf290eb6",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S077",
+    "citation": {
+      "title": "Extension of time for OIA request H2026084428",
+      "issuer": "Ministry of Health",
+      "date": "2026 (exact date unresolved)",
+      "URL": "https://fyi.org.nz/request/34919/response/149072/attach/5/Extension%20of%20time%20for%20responding%20to%20request%20ref%20H2026084428%20CRM%200517177.html"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0155",
+        "sha256": "1f90f48b8f5839e8a82c4e9b9bb004f5943df4413ba027b83abe72f1c0fc5aae",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S078",
+    "citation": {
+      "title": "Medical Council of New Zealand home page",
+      "issuer": "Medical Council of New Zealand",
+      "date": "not established",
+      "URL": "not recovered from retained provenance"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "index reviewed",
+    "use_reason": "context: Navigation/discovery index; retained but not substantive evidence by itself.",
+    "annotation": "Locates underlying documents; does not establish absence of records not listed.",
+    "retained_versions": [
+      {
+        "id": "M0159",
+        "sha256": "6aa836f3b8cc072c32d44cf0947e1d9fd3f52167a9d5192e98aa44d2fc0f5b8d",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_only_original_url_unresolved"
+  },
+  {
+    "id": "S079",
+    "citation": {
+      "title": "Strategic plan",
+      "issuer": "Medical Council of New Zealand",
+      "date": "not established",
+      "URL": "https://www.mcnz.org.nz/assets/Publications/Strategic-Plans/MCNZ-Strategic-Plan-website.pdf"
+    },
+    "access": "captured",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0160",
+        "sha256": "19e478c1027d37a20012ebf92d305706de1ab7d83b21eb3badb4e9eb97c71f21",
+        "derivative": false
+      },
+      {
+        "id": "M0161",
+        "sha256": "48a131ff9c43b346d45d7e4d9b35d3b30a4e0fdd19981435c77cca186fa219e7",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S080",
+    "citation": {
+      "title": "Independent review confirms Medical Council’s performance",
+      "issuer": "Medical Council of New Zealand",
+      "date": "not established",
+      "URL": "https://www.mcnz.org.nz/about-us/news-and-updates/independent-review-confirms-medical-councils-strong-performance/"
+    },
+    "access": "captured",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0162",
+        "sha256": "8bc6091298422921e445daab0d0cb8df2ddc2e78cd64cdc5aac22549cd1fa257",
+        "derivative": false
+      },
+      {
+        "id": "M0163",
+        "sha256": "d820cffff098466bb9666cc910821e9d4a8072e8857be2800dbec4c8b0f3316e",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S081",
+    "citation": {
+      "title": "Medical Council appointment documents: alternate proactive-release bundle version6",
+      "issuer": "Ministry of Health",
+      "date": "2026-09",
+      "URL": "https://www.health.govt.nz/system/files/2026-09/BLACKBOX%20Medical%20Council%20Documents%20version%206%2022.09.pdf"
+    },
+    "access": "captured",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0164",
+        "sha256": "dfe5cda7a8af4a170c6c408c49b88026bf933f9d11ccefb38744844feda2c1f9",
+        "derivative": false
+      },
+      {
+        "id": "M0165",
+        "sha256": "fa1a6242047d6cc43a46d345bba61d3b50a9deaa51974c28ceea61ecac0cc290",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S082",
+    "citation": {
+      "title": "Consultation – Draft statements on cultural competence, cultural safety, and hauora Māori",
+      "issuer": "Medical Council of New Zealand",
+      "date": "2026-06-04",
+      "URL": "https://www.mcnz.org.nz/about-us/consultations/consultation-draft-statements-on-cultural-competence-cultural-safety-and-hauora-maori/"
+    },
+    "access": "captured",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "June4 decision to use feedback and retain2019statement contradicts an asserted demonstrated abandonment.",
+    "retained_versions": [
+      {
+        "id": "M0166",
+        "sha256": "1247b2a731670fe8de51fbd403734d405cba4c5fcafcdd8558ffd0b8257d4ce2",
+        "derivative": false
+      },
+      {
+        "id": "M0167",
+        "sha256": "59a4fed6f532e0249c94789e24bd028188deb478a97518135c450acadca2aef2",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S083",
+    "citation": {
+      "title": "Responsible Authority Performance Review Report: Medical Council, final report",
+      "issuer": "Independent performance reviewers / Medical Council",
+      "date": "2026-06-05",
+      "URL": "https://www.mcnz.org.nz/assets/Publications/Reports/Medical-Council-RA-Review-Report.pdf"
+    },
+    "access": "captured",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "All core functions rated fully achieved; June5 final report does not establish predecision Minister knowledge or validate every draft standard.",
+    "retained_versions": [
+      {
+        "id": "M0168",
+        "sha256": "793562c95d5c7c063483d7ce0deeeb1be6806a7e1b1b0fb55568859a4c9716bf",
+        "derivative": false
+      },
+      {
+        "id": "M0169",
+        "sha256": "4fd52764fc5b2ffece94db854ba767187fdf7bbaeecd07cd32e212e441f3cecd",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S084",
+    "citation": {
+      "title": "Newsletters",
+      "issuer": "Medical Council of New Zealand",
+      "date": "not established",
+      "URL": "https://www.mcnz.org.nz/about-us/publications/newsletters/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "index reviewed",
+    "use_reason": "context: Navigation/discovery index; retained but not substantive evidence by itself.",
+    "annotation": "Locates underlying documents; does not establish absence of records not listed.",
+    "retained_versions": [
+      {
+        "id": "M0170",
+        "sha256": "5b84a8361735d5ee17415e675b7ee851d04f92c8831b0f0a5234fe6f69446eae",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S085",
+    "citation": {
+      "title": "Appointments to the Nursing Council of New Zealand",
+      "issuer": "Ministry of Health",
+      "date": "2026-09",
+      "URL": "https://www.health.govt.nz/system/files/2026-09/Appointments-to-the-Nursing-Council-of-New-Zealand.pdf"
+    },
+    "access": "captured",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0171",
+        "sha256": "0045feb3ff1fe71ac00e90f54af51a1a7ff9fb03149c6438b5afabb9c86f514d",
+        "derivative": false
+      },
+      {
+        "id": "M0172",
+        "sha256": "8d2715da43243204632fe2138e56aa392aca4f80c3c654dc77891ff9197a4767",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S086",
+    "citation": {
+      "title": "Responsible Authority Performance Review Report: addendum",
+      "issuer": "Nursing Council of New Zealand",
+      "date": "2026",
+      "URL": "https://www.nursingcouncil.org.nz/common/Uploaded%20files/Public/Publications/Performance%20Reviews/RA-Performance-Review-Report-Addendum-2026.pdf"
+    },
+    "access": "captured",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0173",
+        "sha256": "3875e8448824ae083ff6d63a07b21e5c7884e5cb1b68a4473d3c639225ea4334",
+        "derivative": false
+      },
+      {
+        "id": "M0174",
+        "sha256": "53fe973177379baff54e0ea54a86a615673204a383fce8687c87b23e9268e234",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S087",
+    "citation": {
+      "title": "Performance Review finds the Council’s core regulatory work is operating well",
+      "issuer": "www.nursingcouncil.org.nz",
+      "date": "not established",
+      "URL": "https://www.nursingcouncil.org.nz/NCNZ/News-section/news-item/2026/10/Performance-Review-finds-the-Council-s-core-regulatory-work-is-operating-well.aspx"
+    },
+    "access": "captured",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0175",
+        "sha256": "53326d0c3cee390efd926941c27d288d6ce5ef328dfc694764c2c1b526b263dc",
+        "derivative": false
+      },
+      {
+        "id": "M0176",
+        "sha256": "a9cfca5ce1e44b2c7d94841b8b1e0b55f2c48cdab9650367b572ff3244cb3d70",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S088",
+    "citation": {
+      "title": "Strategic plans",
+      "issuer": "Medical Council of New Zealand",
+      "date": "not established",
+      "URL": "https://www.mcnz.org.nz/about-us/publications/strategic-plans/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "index reviewed",
+    "use_reason": "context: Navigation/discovery index; retained but not substantive evidence by itself.",
+    "annotation": "Locates underlying documents; does not establish absence of records not listed.",
+    "retained_versions": [
+      {
+        "id": "M0177",
+        "sha256": "6fc23fb3369c0e3fef5b1289eed07875c26fd2d49b89f468bcfd5472af0adcd8",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S089",
+    "citation": {
+      "title": "Medical and Nursing Councils work programmes: H2025060890",
+      "issuer": "Ministry of Health",
+      "date": "2025-03-03",
+      "URL": "https://www.health.govt.nz/system/files/2025-09/H2025060890-NCNZ-and-MCNZ-Work-Programmes-H2025060890.pdf"
+    },
+    "access": "captured",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0178",
+        "sha256": "c2b7f8045dce2528319874621f3a877df3702b943e6faa36303bacdcbf42ce58",
+        "derivative": false
+      },
+      {
+        "id": "M0179",
+        "sha256": "cac727e707818231137b5df863c465c195fea3762ec794189fe8f72a9ffa1de4",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S090",
+    "citation": {
+      "title": "Aide-mémoire: meeting with the Medical Council, H2026079521",
+      "issuer": "Ministry of Health",
+      "date": "2026-03-26 (prepared for2April meeting)",
+      "URL": "https://www.health.govt.nz/system/files/2026-06/H2026079521-Aide-Memoire-Meeting-with-the-Medical-Council-of-New-Zealand.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Premeeting practical objections: assessment, individual burden and specialty applicability; not proof of what was said at meeting.",
+    "retained_versions": [
+      {
+        "id": "M0180",
+        "sha256": "1b4f2efff04b1ee3a74e85bc0822600b365b8ccca022c2107c2378e14170efb9",
+        "derivative": false
+      },
+      {
+        "id": "M0181",
+        "sha256": "b1a827f54c3ea2271404d78c8525d23ea674f450a5f32e53aa74459bac487b37",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S091",
+    "citation": {
+      "title": "Appointments to the Medical Council of New Zealand",
+      "issuer": "Ministry of Health",
+      "date": "2026-09",
+      "URL": "https://www.health.govt.nz/system/files/2026-09/Appointments-to-the-Medical-Council-of-New-Zealand.pdf"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Includes April28 selection reported April30, proposed APH paper, May13 nonprogression correspondence and May27 notice; no completed reappointment instrument located, missing actual APH minute and motive remain unresolved.",
+    "retained_versions": [
+      {
+        "id": "M0182",
+        "sha256": "8d4859cca8ef0d4aa47e009aae080de975b1b0e53ab241e4f16ee793d8020b90",
+        "derivative": false
+      },
+      {
+        "id": "M0183",
+        "sha256": "e5435dc52ba4a81b77b7bb620cdeb624608ea634a53c20d9ab4965b9a589c87f",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S092",
+    "citation": {
+      "title": "Code of Health and Disability Services Consumers' Rights — Health & Disability Commissioner",
+      "issuer": "Health and Disability Commissioner",
+      "date": "not established",
+      "URL": "https://www.hdc.org.nz/your-rights/about-the-code/code-of-health-and-disability-services-consumers-rights/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0188",
+        "sha256": "5b5de178e37075bdd4ce05cd20f758f3e74a5b23fc91b51b6185482a3657e38e",
+        "derivative": false
+      },
+      {
+        "id": "M0189",
+        "sha256": "1ad3f62adb07e91b91da418b3e25b4fc1fccf451dad64ae67b97f42421bd7d8f",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S093",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Act 2003",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "2003",
+      "URL": "https://www.legislation.govt.nz/act/public/2003/0048/1.0/whole.html"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0190",
+        "sha256": "f69e26a9d89bfb0072e8fa71b6ac6c6a9cd19f7a46ccadd2b02c590d0b76f7a3",
+        "derivative": false
+      },
+      {
+        "id": "M0191",
+        "sha256": "0c31a1642dd849610c3f8b01cf78ac006eda395f17553de6834bd743c801d6b8",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S094",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Act 2003",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "2003",
+      "URL": "https://www.legislation.govt.nz/act/public/2003/0048/latest/whole.html"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0193",
+        "sha256": "7f70a77868a0ab508d77ccaf11a76a251d4eb174a64b6cd46b0354587fc201b1",
+        "derivative": false
+      },
+      {
+        "id": "M0194",
+        "sha256": "35a89e9ca94c5bcbafda03cc6392f76f632bb52b4f25330178e21de9dac63cd0",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S095",
+    "citation": {
+      "title": "New Chair and Deputy Chair appointed",
+      "issuer": "Medical Council of New Zealand",
+      "date": "not established",
+      "URL": "https://www.mcnz.org.nz/about-us/news-and-updates/new-chair-and-deputy-chair-appointed/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "metadata/source-discovery only unless prior source review states otherwise",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0195",
+        "sha256": "e5f6fe5817f0682d93f29c76bf897568e9f9fcaf41aa9ebfc60fde621ac62a28",
+        "derivative": false
+      },
+      {
+        "id": "M0196",
+        "sha256": "03d8ebaea7fd9008578d8da2f610699a2727a1f6daf865e69e214d9b29b69047",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S096",
+    "citation": {
+      "title": "Cultural competency training and performance reports to improve diabetes care for black patients: a cluster randomized, controlled trial - PubMed",
+      "issuer": "US National Library of Medicine; bibliographic record",
+      "date": "not established",
+      "URL": "https://pubmed.ncbi.nlm.nih.gov/20048271/"
+    },
+    "access": "PubMed bibliographic record and primary abstract; full journal article not verified here.",
+    "review_extent": "Abstract outcomes examined; no full-text access claimed.",
+    "use_reason": "relied: Reviewer-requested contrasting empirical evidence.",
+    "annotation": "Training plus performance feedback improved awareness but not Black patients’ diabetes control at12months; illustrative, not comprehensive evidence.",
+    "retained_versions": [
+      {
+        "id": "M0197",
+        "sha256": "37f4401380887e7bc793cae0a00c4a90504302551e70e9194ac901460dcaca63",
+        "derivative": false
+      },
+      {
+        "id": "M0198",
+        "sha256": "e20ff17691eb1c734c60aabb3cf56e6257341bb83d09ffeadffeb326e294fb3e",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S097",
+    "citation": {
+      "title": "Randomized controlled trial demonstrates novel tools to assess patient outcomes of Indigenous cultural safety training - PubMed",
+      "issuer": "US National Library of Medicine; bibliographic record",
+      "date": "not established",
+      "URL": "https://pubmed.ncbi.nlm.nih.gov/38191406/"
+    },
+    "access": "retained; access extent not independently adjudicated",
+    "review_extent": "trial-specific findings reviewed previously; PubMed rows are abstract/bibliographic access",
+    "use_reason": "relied: Reviewer-requested contrasting empirical evidence.",
+    "annotation": "Canadian training trial measured standardised Indigenous patient experience; not real-patient clinical outcomes or MCNZ policy validation.",
+    "retained_versions": [
+      {
+        "id": "M0199",
+        "sha256": "309df4368541193b11aa2bca91c73e68b24a8904c30d327c71d1eb66756719ff",
+        "derivative": false
+      },
+      {
+        "id": "M0200",
+        "sha256": "3b0667621843925a4ce1df01b4af8387ab15effb773dae7c8befba50aa2e82e7",
+        "derivative": true
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S098",
+    "citation": {
+      "title": "Randomized controlled trial demonstrates novel tools to assess patient outcomes of Indigenous cultural safety training",
+      "issuer": "BMC Medicine",
+      "date": "not established",
+      "URL": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03193-y"
+    },
+    "access": "Full primary open-access BMC Medicine article retained.",
+    "review_extent": "Trial design and outcome passages examined in primary full text; not every supplementary item independently checked.",
+    "use_reason": "relied: Reviewer-requested contrasting empirical evidence.",
+    "annotation": "Full Canadian trial report: standardised Indigenous patient experience outcome; limited transportability and small study.",
+    "retained_versions": [
+      {
+        "id": "M0201",
+        "sha256": "3ec0f81382f3993f025627109266e144ba172d0e1caae62abe1326d2558ad141",
+        "derivative": false
+      },
+      {
+        "id": "M0202",
+        "sha256": "6a3e6d1c400fa02c77c7b1c3c8bd3151e4b1c87c72a33572d5d4934a38c49592",
+        "derivative": true
+      }
+    ],
+    "redistribution": "qualified_text_derivative_included_not_facsimile"
+  },
+  {
+    "id": "S099",
+    "citation": {
+      "title": "Oral question10: Medical Council appointments",
+      "issuer": "New Zealand Parliament",
+      "date": "2026-08-06",
+      "URL": "https://hansard.parliament.nz/hansard-transcript/2026-08-06/thats-the-end-of-oral-questions-well-take-30-seconds-for-those-who-have-to-leave-to-go-to-other-business-interruption-without-any-calling-out-or-other-silly-nonsense-bills-crimes-amendment-bill"
+    },
+    "access": "200",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Minister relied on s120/due diligence and Council responsibility for its policies; attributed position not proof of motive.",
+    "retained_versions": [
+      {
+        "id": "M0204",
+        "sha256": "cf3afe07370017e147da0410faa9bad1ae7e7d0025f260eea024b9e1f8dade57",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S100",
+    "citation": {
+      "title": "Legislation Amendment Act 2026",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "2026-03-16",
+      "URL": "https://www.legislation.govt.nz/act/public/2026/7/en/latest/"
+    },
+    "access": "200",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Enacted publication framework differs from proposed HPCAA direction powers; preparation is not proof of bypass.",
+    "retained_versions": [
+      {
+        "id": "M0205",
+        "sha256": "0d8a841b86ad479c59dc355b3ed3d20cb50418788722a580c3abf42c0dcf0f5d",
+        "derivative": false
+      }
+    ],
+    "redistribution": "qualified_text_derivative_included_not_facsimile"
+  },
+  {
+    "id": "S101",
+    "citation": {
+      "title": "Gazette Notices",
+      "issuer": "Medical Council of New Zealand",
+      "date": "not established",
+      "URL": "https://www.mcnz.org.nz/about-us/publications/gazette-notices/"
+    },
+    "access": "200",
+    "review_extent": "index reviewed",
+    "use_reason": "context: Navigation/discovery index; retained but not substantive evidence by itself.",
+    "annotation": "Locates underlying documents; does not establish absence of records not listed.",
+    "retained_versions": [
+      {
+        "id": "M0206",
+        "sha256": "1fb706cabf4beb580547974ddab06a37fba456fa82be82e63d34312c671ff81f",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S102",
+    "citation": {
+      "title": "News & updates",
+      "issuer": "Medical Council of New Zealand",
+      "date": "not established",
+      "URL": "https://www.mcnz.org.nz/about-us/news-and-updates/"
+    },
+    "access": "200",
+    "review_extent": "index reviewed",
+    "use_reason": "context: Navigation/discovery index; retained but not substantive evidence by itself.",
+    "annotation": "Locates underlying documents; does not establish absence of records not listed.",
+    "retained_versions": [
+      {
+        "id": "M0207",
+        "sha256": "96a0c153122928d79b879dfe59e68dc1fa3342bc3f5c1824ad0d9ef8eaea542d",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S103",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Amendment Bill287-1: parliamentary progress",
+      "issuer": "New Zealand Parliament",
+      "date": "2026-05 (displayed introduction dates conflict)",
+      "URL": "https://bills.parliament.nz/v/6/766996e2-c88d-4adc-ccf1-08deb47e5457?Tab=history&lang=en"
+    },
+    "access": "CLI HTML retained; dynamic status read through primary web-tool extraction",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Introduction only verified; no completed first reading located; date discrepancy17/18May retained.",
+    "retained_versions": [
+      {
+        "id": "M0208",
+        "sha256": "50945b8fa3c3f647f61e981c690cb5a2d932e91678bffa0228d7518f7e7a0a11",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S104",
+    "citation": {
+      "title": "Concerns raised over minister’s replacement of Medical Council leadership",
+      "issuer": "RNZ",
+      "date": "2026-06-16",
+      "URL": "https://www.rnz.co.nz/news/health/598355/concerns-raised-over-minister-s-replacement-of-medical-council-leadership"
+    },
+    "access": "Direct RNZ access robots-blocked; distinct dated report from17JuneRNZ/Scoop. No fulltext equivalence claimed.",
+    "review_extent": "preview/metadata only",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "No full-text or version-equivalence claim; do not rely on inaccessible content.",
+    "retained_versions": [
+      {
+        "id": "M0209",
+        "sha256": null,
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S105",
+    "citation": {
+      "title": "Senior doctor slams replacement of Medical Council leadership",
+      "issuer": "Otago Daily Times, RNZ republication",
+      "date": "2026-06-16",
+      "URL": "https://www.odt.co.nz/news/national/senior-doctor-slams-replacement-medical-councils-leadership-rnz"
+    },
+    "access": "Located via references; indicated RNZ syndication, not counted as independent report; not retrieved.",
+    "review_extent": "preview/metadata only",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "No full-text or version-equivalence claim; do not rely on inaccessible content.",
+    "retained_versions": [
+      {
+        "id": "M0210",
+        "sha256": null,
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S106",
+    "citation": {
+      "title": "Simeon Brown removes Medical Council leaders over ideological agenda",
+      "issuer": "Stuff",
+      "date": "2026-06-16",
+      "URL": "https://www.stuff.co.nz/politics/360993290/simeon-brown-removes-medical-council-leaders-over-idealogical-agenda"
+    },
+    "access": "Located via Loring references; not fulltext reviewed this lane.",
+    "review_extent": "preview/metadata only",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "No full-text or version-equivalence claim; do not rely on inaccessible content.",
+    "retained_versions": [
+      {
+        "id": "M0211",
+        "sha256": null,
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S107",
+    "citation": {
+      "title": "Simeon Brown ousts Medical Council leadership over ideological agenda",
+      "issuer": "The Post",
+      "date": "2026-06-16",
+      "URL": "https://www.thepost.co.nz/politics/361024008/simeon-brown-ousts-medical-council-leadership-over-ideological-agenda"
+    },
+    "access": "Located via linked source list; relationship to Stuff version unverified, not counted independently.",
+    "review_extent": "preview/metadata only",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "No full-text or version-equivalence claim; do not rely on inaccessible content.",
+    "retained_versions": [
+      {
+        "id": "M0212",
+        "sha256": null,
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S108",
+    "citation": {
+      "title": "CO(26)4: Management of Parliamentary Business after Dissolution",
+      "issuer": "Cabinet Office, DPMC",
+      "date": "2026-09-21",
+      "URL": "https://www.dpmc.govt.nz/publications/co-26-4-management-parliamentary-business-after-dissolution-parliament"
+    },
+    "access": "Primary web extraction retained; raw CLI403 preserved separately",
+    "review_extent": "relevant primary web-tool passages examined",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Unfinished business lapses on dissolution and may be reinstated; interregnum does not itself terminate executive authority.",
+    "retained_versions": [
+      {
+        "id": "M0214",
+        "sha256": null,
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S109",
+    "citation": {
+      "title": "Health Practitioners Competence Assurance Amendment Bill: proposed changes",
+      "issuer": "Ministry of Health",
+      "date": "2026-05-18",
+      "URL": "https://www.health.govt.nz/regulation-legislation/health-practitioners/health-practitioners-competence-assurance-amendment-bill"
+    },
+    "access": "Primary web-tool text accessible; CLI403 prevented raw HTML capture",
+    "review_extent": "relevant primary web-tool passages examined",
+    "use_reason": "context: Retained to account for the documentary search; not selected as evidence of appointment motive.",
+    "annotation": "Source identity and retained version are catalogued; no claim of complete substantive review.",
+    "retained_versions": [
+      {
+        "id": "M0215",
+        "sha256": null,
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S110",
+    "citation": {
+      "title": "Letters of expectations for health statutory entities",
+      "issuer": "Ministry of Health",
+      "date": "not established",
+      "URL": "https://www.health.govt.nz/about-us/new-zealands-health-system/health-system-roles-and-organisations/health-crown-entities/letters-of-expectations-for-health-statutory-entities"
+    },
+    "access": "Primary web-tool text accessible; CLI403 prevented raw HTML capture",
+    "review_extent": "relevant primary web-tool passages examined",
+    "use_reason": "context: Navigation/discovery index; retained but not substantive evidence by itself.",
+    "annotation": "Locates underlying documents; does not establish absence of records not listed.",
+    "retained_versions": [
+      {
+        "id": "M0216",
+        "sha256": null,
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S111",
+    "citation": {
+      "title": "Interim Secondary Legislation Web Specifications version1.11",
+      "issuer": "Parliamentary Counsel Office",
+      "date": "2026-03-24",
+      "URL": "https://assets.ctfassets.net/49ei4dhxj2cb/3bbeMLW8VS5oOEr8mlUA26/0f49c6c2c8a976001e0bf46d9a3530b3/Interim_Secondary_Legislation_Web_Specifications_V_1.11_-_March_2026.pdf"
+    },
+    "access": "full file captured; relevant transition excerpt reviewed in primary web result",
+    "review_extent": "relevant passages examined; not all unrelated text necessarily read",
+    "use_reason": "relied/context: Directly relevant legal framework, decision chronology, or contrary evidence for the Viewpoint.",
+    "annotation": "Publication requirements default2November2026; stock transition default2November2027, with agreed variations. Not new cultural-standard substantive authority.",
+    "retained_versions": [
+      {
+        "id": "M0218",
+        "sha256": "a8cea10bcf2b7257d4812363218e1a4c51ebadd2b5cc1cc91f809a74c322e5cd",
+        "derivative": false
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S112",
+    "citation": {
+      "title": "Eleven selected Hansard source records",
+      "issuer": "New Zealand Parliament via edithatogo/nz-hansard-corpus",
+      "date": "2003; corpus revision2026",
+      "URL": "https://huggingface.co/datasets/edithatogo/nz-hansard-corpus/tree/dc8f0937c787e51a1124ea22dd431a0e7b42e03f"
+    },
+    "access": "retained eleven complete records with stable IDs and source-row locators; existing independent verification reused",
+    "review_extent": "eleven full source records checked in prior collaboration audit",
+    "use_reason": "excluded: historical collaboration dataset, not appointment-process evidence",
+    "annotation": "Selected speeches/votes, not all parliamentary contributions or consensus.",
+    "retained_versions": [],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S114",
+    "citation": {
+      "title": "Appointments process",
+      "issuer": "Cabinet Office",
+      "date": "updated2024-10-15",
+      "URL": "https://www.dpmc.govt.nz/publications/appointments-process"
+    },
+    "access": "Primary web-tool content retained; prior CLI failure/challenge preserved separately.",
+    "review_extent": "Relevant primary extracted passages examined; no raw-HTML availability claimed.",
+    "use_reason": "relied: main reference4, executive appointment stages versus formal statutory appointment.",
+    "annotation": "Cabinet/APH consideration and formal appointment are distinct; guidance does not prove Love’s actual legal status.",
+    "retained_versions": [],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S115",
+    "citation": {
+      "title": "Gazette search for Rachelle Love",
+      "issuer": "New Zealand Gazette",
+      "date": "not established",
+      "URL": "https://gazette.govt.nz/home/Search?keyword=Rachelle%20Love"
+    },
+    "access": "access_challenge_or_short_response",
+    "review_extent": "discovery/access attempt only",
+    "use_reason": "context: assess legal distinction or source availability",
+    "annotation": "Access failure cannot establish absence of records.",
+    "retained_versions": [],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S116",
+    "citation": {
+      "title": "Wyeth (NZ) Ltd v Ancare New Zealand Ltd [2010] NZSC46",
+      "issuer": "Supreme Court of New Zealand",
+      "date": "2010",
+      "URL": "https://www.courtsofnz.govt.nz/assets/cases/2010/sc-57-2009-wyeth-nz-ltd-v-ancare-new-zealand-ltd-and-erma-civil-appeal.pdf"
+    },
+    "access": "full primary judgment captured",
+    "review_extent": "relevant legal passages examined for the legal propositions and limitations recorded in the matrix",
+    "use_reason": "relied: contextual natural-justice principle",
+    "annotation": "Fairness is context dependent; this is not an appointment case or proof that Love was owed a particular hearing.",
+    "retained_versions": [
+      {
+        "sha256": "b6cedeafaa2cfc68e53b17aea297f6a2d57c4d0c1189b5f78cebd4cf30e09ab5",
+        "derivative": true
+      }
+    ],
+    "redistribution": "exact_judgment_pdf_included"
+  },
+  {
+    "id": "S117",
+    "citation": {
+      "title": "Ngāti Whātua Ōrākei Trust v Attorney-General [2018] NZSC84",
+      "issuer": "Supreme Court of New Zealand",
+      "date": "2018",
+      "URL": "https://www.courtsofnz.govt.nz/assets/cases/2018/2018-NZSC-84.pdf"
+    },
+    "access": "full primary judgment captured",
+    "review_extent": "relevant legal passages examined for the legal propositions and limitations recorded in the matrix",
+    "use_reason": "context: assess legal distinction or source availability",
+    "annotation": "Executive action and proposed legislation require distinct analysis; no finding about these appointments.",
+    "retained_versions": [
+      {
+        "sha256": "0f1ed429fa08e4edeb9d4f40291f0b9676d44ff16fe78e79a4c8dc1826edfaee",
+        "derivative": true
+      }
+    ],
+    "redistribution": "exact_judgment_pdf_included"
+  },
+  {
+    "id": "S118",
+    "citation": {
+      "title": "Whangarei District Council v Daisley [2026] NZSC 72",
+      "issuer": "Supreme Court of New Zealand",
+      "date": "2026",
+      "URL": "https://www.courtsofnz.govt.nz/assets/cases/2026/2026-NZSC-72.pdf"
+    },
+    "access": "retained public source",
+    "review_extent": "Relevant legal provisions or judgment passages examined, not a complete doctrinal survey.",
+    "use_reason": "Context for bounding legal allegations and oversight routes; not evidence of appointment motive.",
+    "annotation": "These legal materials do not establish that the appointment decision was unlawful or that a criminal offence occurred.",
+    "retained_versions": [
+      {
+        "id": "S118-original",
+        "sha256": "2c54cc6693084e5937d36f3367312e49f3775f20d72af9f6a41546470bf2ad63",
+        "derivative": false,
+        "observed_at": "2026-10-30T10:43:04.494839+00:00"
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S119",
+    "citation": {
+      "title": "Crimes Act 1961, section 102 and surrounding provisions",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "current version accessed 2026-10-30",
+      "URL": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/#DLM328796"
+    },
+    "access": "retained public source",
+    "review_extent": "Relevant legal provisions or judgment passages examined, not a complete doctrinal survey.",
+    "use_reason": "Context for bounding legal allegations and oversight routes; not evidence of appointment motive.",
+    "annotation": "These legal materials do not establish that the appointment decision was unlawful or that a criminal offence occurred.",
+    "retained_versions": [
+      {
+        "id": "S119-original",
+        "sha256": "8e27898b013431764cd337214b2010e2ce150fb2a96934b9f8ec53d0212ad1b8",
+        "derivative": false,
+        "observed_at": "2026-10-30T10:43:05.671246+00:00"
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  },
+  {
+    "id": "S120",
+    "citation": {
+      "title": "Ombudsmen Act 1975",
+      "issuer": "New Zealand Parliament / Parliamentary Counsel Office",
+      "date": "current version accessed 2026-10-30",
+      "URL": "https://www.legislation.govt.nz/act/public/1975/9/en/latest/"
+    },
+    "access": "retained public source",
+    "review_extent": "Relevant legal provisions or judgment passages examined, not a complete doctrinal survey.",
+    "use_reason": "Context for bounding legal allegations and oversight routes; not evidence of appointment motive.",
+    "annotation": "These legal materials do not establish that the appointment decision was unlawful or that a criminal offence occurred.",
+    "retained_versions": [
+      {
+        "id": "S120-original",
+        "sha256": "b69af4dc88c5c625f4fdd6a6ee5b2ff623d8011f4c6345a65b01a7c324374cac",
+        "derivative": false,
+        "observed_at": "2026-10-30T10:43:06.191010+00:00"
+      }
+    ],
+    "redistribution": "metadata_and_source_link_only"
+  }
+]

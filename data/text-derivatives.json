@@ -1,0 +1,71 @@
+[
+  {
+    "source_id": "S039",
+    "sha256": "2723635143b15851462505693c6665768f38e36deca0b8af5b05c16a5e7868fa",
+    "source_sha256": "7d1fb9aeba3a0abfe00d3bc8df8784c1a008564218ebedee4989cc81bb835268",
+    "source_url": "https://www.legislation.govt.nz/act/public/2003/48/en/2023-06-15B/",
+    "rights": "New Zealand Copyright Act 1994, section 27: specified legislative text has no copyright. This is not an Apache-2.0 licence grant.",
+    "selection": "Entire div#legislation, including schedules and editorial/version notes present there; website wrapper excluded.",
+    "omissions": [],
+    "characters": 367597,
+    "status": "eligible_text_derivative",
+    "not_original": true,
+    "path": "sources/S039-text-derivative.txt"
+  },
+  {
+    "source_id": "S036",
+    "sha256": "f4877d92e72fbc2fe885e20ba5dddc73dc46254c438f6c6944d06bd200d04c6d",
+    "source_sha256": "1d39431d5ed8036f5cce1d283b3e70faa789704b08a78ff3af1723c45e18409a",
+    "source_url": "https://www.legislation.govt.nz/bill/government/2026/287/en/latest/",
+    "rights": "New Zealand Copyright Act 1994, section 27: specified legislative text has no copyright. This is not an Apache-2.0 licence grant.",
+    "selection": "Entire div#legislation, including schedules and editorial/version notes present there; website wrapper excluded.",
+    "omissions": [],
+    "characters": 42503,
+    "status": "eligible_text_derivative",
+    "not_original": true,
+    "path": "sources/S036-text-derivative.txt"
+  },
+  {
+    "source_id": "S042",
+    "sha256": "cce70590855b85a6f9814c0854fdc05cc42ee444d9d1f8d117bb41bf4d974c9c",
+    "source_sha256": "67aefb13bafb33e01daa01427851a641295bff857de99222cc24c6ceaf88808d",
+    "source_url": "https://www.legislation.govt.nz/act/public/1990/109/en/latest/",
+    "rights": "New Zealand Copyright Act 1994, section 27: specified legislative text has no copyright. This is not an Apache-2.0 licence grant.",
+    "selection": "Entire div#legislation, including schedules and editorial/version notes present there; website wrapper excluded.",
+    "omissions": [],
+    "characters": 15778,
+    "status": "eligible_text_derivative",
+    "not_original": true,
+    "path": "sources/S042-text-derivative.txt"
+  },
+  {
+    "source_id": "S100",
+    "sha256": "7c90e61dd17cdeb20fb914e3cac47b8bb3e90ed00fd58109ea488659ad2ccd98",
+    "source_sha256": "0d8a841b86ad479c59dc355b3ed3d20cb50418788722a580c3abf42c0dcf0f5d",
+    "source_url": "https://www.legislation.govt.nz/act/public/2026/7/en/latest/",
+    "rights": "New Zealand Copyright Act 1994, section 27: specified legislative text has no copyright. This is not an Apache-2.0 licence grant.",
+    "selection": "Entire div#legislation, including schedules and editorial/version notes present there; website wrapper excluded.",
+    "omissions": [],
+    "characters": 106236,
+    "status": "eligible_text_derivative",
+    "not_original": true,
+    "path": "sources/S100-text-derivative.txt"
+  },
+  {
+    "source_id": "S098",
+    "sha256": "edd66d775dfb955d79ae0e92f2f3e722da8687a2af411f065d07f8e531fe6793",
+    "source_sha256": "3ec0f81382f3993f025627109266e144ba172d0e1caae62abe1326d2558ad141",
+    "source_url": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03193-y",
+    "rights": "The Author(s), article-specific Creative Commons Attribution 4.0 International (CC BY 4.0). Full legal code accompanies this derivative as CC-BY-4.0.txt. https://creativecommons.org/licenses/by/4.0/",
+    "selection": "Article header plus scientific article sections: Abstract, Background, Methods, Results, Discussion, Conclusion, Availability of data and materials, Abbreviations, References, Acknowledgements, Funding, Author information, Ethics declarations, Additional information, Supplementary Information, Rights and permissions",
+    "omissions": [
+      "Publisher navigation, recommendations, website wrapper, article-metrics/citation widgets",
+      "All images, graphical assets and image binaries; figure captions and original links retained where present in article text",
+      "External supplementary files not fetched or reproduced; original links remain available at source"
+    ],
+    "characters": 89668,
+    "status": "eligible_text_derivative",
+    "not_original": true,
+    "path": "sources/S098-text-derivative.txt"
+  }
+]

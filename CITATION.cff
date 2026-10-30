@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Medical Council appointments: evidence and research artefacts"
+message: "Please cite the versioned release and exact commit, alongside the original sources supporting each claim."
+type: dataset
+version: 1.0.0
+date-released: 2026-10-30
+authors:
+  - family-names: Mordaunt
+    given-names: Dylan A
+repository-code: "https://github.com/edithatogo/medical-council-appointments-evidence"
+url: "https://github.com/edithatogo/medical-council-appointments-evidence/releases/tag/v1.0.0"

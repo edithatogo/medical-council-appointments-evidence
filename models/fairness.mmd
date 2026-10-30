@@ -1,0 +1,24 @@
+flowchart TB
+subgraph fairness_status["Establish legal position"]
+f1["Identify appointment instrument, term and holdover<br/>HPCAA ss120-122"]
+f2["Identify actual grounds and personal interests affected<br/>Wyeth paras40-42"]
+f1 --> f2
+end
+subgraph fairness_response["Where fairness requires a response"]
+f3["Communicate substance of material adverse concerns<br/>Conditional natural justice"]
+f4["Allow a meaningful opportunity to respond<br/>Conditional natural justice"]
+f5["Genuinely consider the response before deciding<br/>Conditional natural justice"]
+f3 --> f4
+f4 --> f5
+end
+subgraph fairness_record["Decision and accountability"]
+f6["Give the applicable statutory notification<br/>HPCAA ss121-122"]
+f7["Record reasons and explain the change appropriately<br/>Proposed transparency safeguard"]
+f6 --> f7
+end
+fairness_condition{Response opportunity required?}
+f2 --> fairness_condition
+fairness_condition -->|Where required| f3
+fairness_condition -->|No such duty established| f6
+f5 --> f6
+classDef default fill:#ffffff,stroke:#343434,color:#000000,font-family:Times New Roman;

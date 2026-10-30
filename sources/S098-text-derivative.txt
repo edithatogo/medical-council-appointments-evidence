@@ -1,0 +1,638 @@
+TEXT DERIVATIVE, NOT ORIGINAL FILE OR COMPLETE FACSIMILE
+Source ID: S098
+Title: Randomized controlled trial demonstrates novel tools to assess patient outcomes of Indigenous cultural safety training
+Issuer: BMC Medicine
+Source URL: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03193-y
+Retained source SHA256: 3ec0f81382f3993f025627109266e144ba172d0e1caae62abe1326d2558ad141
+Prepared: 2026-10-30
+Rights: The Author(s), article-specific Creative Commons Attribution 4.0 International (CC BY 4.0). Full legal code accompanies this derivative as CC-BY-4.0.txt. https://creativecommons.org/licenses/by/4.0/
+Changes: HTML converted to plain text; whitespace normalised; images and website wrapper excluded. No substantive rewriting.
+Selection: Article header plus scientific article sections: Abstract, Background, Methods, Results, Discussion, Conclusion, Availability of data and materials, Abbreviations, References, Acknowledgements, Funding, Author information, Ethics declarations, Additional information, Supplementary Information, Rights and permissions
+Attribution: Janet Smylie and coauthors, BMC Medicine, DOI 10.1186/s12916-023-03193-y; original author list retained below. Third-party image material is not reproduced.
+
+Janet Smylie
+ORCID: orcid.org/0000-0002-5449-08641,
+Michael A. Rotondi2,
+Sam Filipenko1,
+William T. L. Cox3,
+Diane Smylie4,
+Cheryl Ward5,
+Kristina Klopfer1,
+Aisha K. Lofters6,
+Braden O’Neill7,
+Melissa Graham8,
+Linda Weber9,
+Ali N. Damji10,
+Patricia G. Devine11,
+Jane Collins12 &
+…
+Billie-Jo Hardy13
+8785 Accesses
+12 Citations
+8
+Altmetric
+Explore all metrics
+
+Abstract
+Background
+Health care routinely fails Indigenous peoples and anti-Indigenous racism is common in clinical encounters. Clinical training programs aimed to enhance Indigenous cultural safety (ICS) rely on learner reported impact assessment even though clinician self-assessment is poorly correlated with observational or patient outcome reporting. We aimed to compare the clinical impacts of intensive and brief ICS training to control, and to assess the feasibility of ICS training evaluation tools, including unannounced Indigenous standardized patient (UISP) visits.
+Method
+Using a prospective parallel group three-arm randomized controlled trial design and masked standardized patients, we compared the clinical impacts of the intensive interactive, professionally facilitated, 8- to10-h Sanyas ICS training; a brief 1-h anti-bias training adapted to address anti-Indigenous bias; and control continuing medical education time-attention matched to the intensive training. Participants included 58 non-Indigenous staff physicians, resident physicians and nurse practitioners from family practice clinics, and one emergency department across four teaching hospitals in Toronto, Canada. Main outcome measures were the quality of care provided during UISP visits including adjusted odds that clinician would be recommended by the UISP to a friend or family member; mean item scores on patient experience of care measure; and clinical practice guideline adherence for NSAID renewal and pain assessment.
+Results
+Clinicians in the intensive or brief ICS groups had higher adjusted odds of being highly recommended to friends and family by standardized patients (OR 6.88, 95% CI 1.17 to 40.45 and OR 7.78, 95% CI 1.05 to 58.03, respectively). Adjusted mean item patient experience scores were 46% (95% CI 12% to 80%) and 40% (95% CI 2% to 78%) higher for clinicians enrolled in the intensive and brief training programs, respectively, compared to control. Small sample size precluded detection of training impacts on clinical practice guideline adherence; 100% of UISP visits were undetected by participating clinicians.
+Conclusions
+Patient-oriented evaluation design and tools including UISPs were demonstrated as feasible and effective. Results show potential impact of cultural safety training on patient recommendation of clinician and improved patient experience. A larger trial to further ascertain impact on clinical practice is needed.
+Trial registration
+Clinicaltrials.org NCT05890144. Retrospectively registered on June 5, 2023.
+
+Background
+Health care services routinely fail Indigenous populations, including in relatively affluent countries with public commitments to equitable service access [1,2,3,4]. The lack of due consideration of Indigenous social requirements in the design of domestic health care is an evident and persistent legacy of settler colonialism and the linked policies, systems, and structures that entrenched white supremacy, racial hierarchies, and the devaluing of Indigenous peoples, lives, and societies [5, 6]. Apologies by world leaders [6], governmental commissions and inquiries [7,8,9,10], and media documentation [11,12,13] have contributed to growing public recognition of anti-Indigenous racism in health care and anti-Indigenous colonial injustices, abuses, and harms more generally. Emerging recommendations for improving health care frequently include the implementation of training for clinicians [8] so they can better care for Indigenous patients, which in turn has contributed to rapid growth in the design and implementation of a variety of Indigenous cultural sensitivity, competency, and/or safety training programs and activities.
+Evidence synthesis focused on understanding the impacts of Indigenous focused clinician training initiatives reveals varied approaches and evaluation measures that are almost exclusively learner focused as opposed to patient derived and oriented [14], even though clinician self-assessment is known to be poorly correlated with observational or patient outcome reporting [15, 16]. This gap in the assessment of patient care outcomes has been similarly noted across the broader domain of clinician anti-bias training [17].
+Unannounced standardized patients (USPs) are a tool that can be used to assess patient facing communication, relationship skills, and clinical practice guideline adherence by health care professionals (HCPs) [18,19,20,21]. USPs are particularly relevant in clinical contexts that preclude the use of clinical record audits to assess equity in service provision due to gaps in reliable and consistent identification of equity deserving individuals in the medical record [19]. Moreover, USPs enable standardization of clinical and patient variables and mitigate challenges in observational study design linked to variability in the volume, predictability, and distribution of patients from equity deserving populations across provider practices [19]. With respect to performance assessment, USPs have been demonstrated to be better than HCP charting and comparable to researcher scoring of audio-recorded visits [22,23,24].
+Gaps in evidence and health system staffing and funding constraints require decision-makers to make cost-effective decisions in their evaluation of the benefits of brief (and less costly) versus intensive Indigenous Cultural Safety (ICS) training for their physicians and staff. One approach that stands out among brief anti-bias training interventions is the brief (45 min) prejudice habit-breaking intervention [25,26,27,28]. While it has not yet been tested for patient-oriented outcomes, it has demonstrated sustained, socially relevant impacts [25,26,27,28]. The San’yas Indigenous Cultural Safety Training Program is a 10-h, eight-module professionally facilitated online program that has been delivered to > 170,000 health and social service professionals across Canada [29] and has been extensively evaluated [30]. In partnership with Drs. Devine, Cox, and the San’yas ICS program, our interdisciplinary team designed a randomized controlled trial (RCT) to evaluate the clinical impacts of an adapted version of the brief prejudice habit-breaking intervention and the intensive San’yas ICS training programs for academic physicians, nurse practitioners, and residents affiliated with several large teaching hospitals in or near the City of Toronto, Canada, using unannounced Indigenous standardized patients (UISPs) to assess clinical impact. The feasibility of using UISPs in this context was unknown. The primary objectives of this trial were therefore to compare the clinical impacts of intensive and brief ICS for health care providers (HCPs) and to assess the feasibility of new ICS evaluation tools, including UISPs.
+
+Methods
+Study design
+We conducted a multi-site, three-arm, parallel group RCT. We randomized 58 health care providers to brief ICS, intensive ICS, or time-attention matched continuing medical education (CME) training (control regimen).
+Participants
+We recruited academic physicians, resident physicians, and nurse practitioners (NPs) from 13 family medicine clinics and 1 emergency department across 4 large teaching hospitals in or near Toronto, Canada, between March 2018 and August 2021. Participants needed to identify as non-Indigenous and be committed to remaining in their current clinical setting for a minimum of 1 year post recruitment. We excluded anyone who had already completed a San’yas ICS training program. We also excluded physician leads at each site, who were unmasked to the study to facilitate its conduct.
+Clinicians were recruited through presentations at staff meetings, followed by email invitations. Provided information included a description of the study as an RCT to evaluate the effectiveness of Indigenous cultural safety training and a description of the three study arms. An online survey platform, Qualtrics [31], facilitated study enrollment, including consent, baseline measures, and randomization.
+Randomization and masking
+Participants were allocated equally (1:1:1) to one of the two interventions or the control arm independently of the research team using the randomization function of the Qualtrics platform [31]. Participants were not informed of the UISP visit and thus masked to this primary outcome measure. UISPs, research, and site team members were masked to participants’ study arm allocation except for the study coordinator, who facilitated enrollment in intervention and control training groups.
+Interventions
+Both the brief and intensive interventions are designed to interrupt anti-Indigenous racism and draw on explicitly anti-racist and adult education pedagogies. The pedagogy of the intensive San’yas intervention is rooted in decolonizing critical race and transformative change theory. There are three purposefully sequenced content areas: history and current experiences of First Nations, Inuit, and Metis peoples; self-location; and cultural safety skills building. This content is delivered online with support from trained facilitators in a 10-h, eight-module format over 10 weeks. The version used in this trial was regionally adapted for Ontario (Additional File 1).
+The brief anti-bias intervention is a 45-min interactive, computer-based education session focused on recognizing and addressing anti-Indigenous race bias followed up with two re-enforcement/reminder emails that ask questions about strategy usage at 6 and 8 weeks after the session. The version used in this trial (Additional File 2) was specifically adapted to focus on anti-Indigenous race bias from an existing training program that had been validated for other forms of bias [28]. This brief training was delivered in a computer lab with a researcher present. Adaptation included incorporation of Indigenous-specific scenarios and content and was supported by multiple study team members (WC, DS, BH, PD).
+Participants randomized to the control arm were enrolled free of charge in their choice of the following accredited continuing medical education programs: the College of Family Physicians of Canada’s Self-Learning Program [32], Evidence-Based (EB) Medicine [33], or the Medical Knowledge Self-Assessment Program (MKSAP) [34]. These training programs were time-attention matched to the intensive intervention and did not include any content on anti-bias, anti-oppression, and/or Indigenous peoples.
+We tracked participant completion of intervention and control trainings. Completion of trainings generated CME credits for participants that could be applied to meet requirements for maintenance of professional licensure.
+Upon completion of the study and all associated measures, participants randomized to the brief intervention and control arms were provided free access to the San’yas Indigenous cultural safety education training program, since it was the ICS program with the strongest evidence support at the time of study design.
+Outcomes
+Main outcome measures were focused on the assessment of the quality of care provided and clinical practice guideline adherence during UISP visits occurring 8–10 weeks post intervention. Quality of care was assessed using the Quality of Health Care Provider Relationship and Communication tool (Additional File 3). This 14-item scale assessed multiple domains of patient experience. The first ten questions assessed patient engagement and communication and were drawn from existing patient experience surveys developed and used to evaluate patient experiences in Canada and the UK [35,36,37]. In the absence of existing validated patient experience questions specifically assessing Indigenous cultural safety, we included a new question that drew from previous qualitative work [38] and a second question that was adapted from the Mothers on Respect Index [39]. Question 13 assessed respect [37] and Question 14, “Would you recommend this health care provider to family and friends?” has been used as an overall measure of patient satisfaction and was analyzed independently [40].
+Two newly developed scales designed by clinicians on the research team assessed adherence to clinical practice guidelines during the UISP visits for NSAID renewal and pain assessment, respectively. The NSAID Renewal assessment scale and the Pain Management scale drew on existing clinical practice guidelines [41,42,43,44].
+Secondary outcomes included pre- and 9–11 weeks post-intervention measures of anti-Indigenous race preference bias, using two scales assessing explicit bias (Modern Prejudiced Attitudes Towards Aboriginals, Motivation to Respond Without Prejudice) [45, 46] and The Indigenous Peoples in Canada—Implicit Association Test [47, 48].
+Sample size
+We were not aware of any other HCP Indigenous race-bias reduction training intervention trials and recognized that this first study of its type would provide an opportunity to calibrate sample size requirements for future studies. We originally chose a sample size of 60 participants in each study arm or 180 total participants based on the study by Borkoff et al. [21], which used a comparable relational assessment scale to compare patient engagement and communication of physicians with male and female standardized patients presenting as possible candidates for knee arthroplasty. Drawing on the adjusted physician interpersonal scale scores in that study of 49% (95% CI: 45.0–53.0) and 63% (95% CI 59–67), we conservatively assumed a mean score for our 13-item relational score of 50% (since this is the prevalence that would require the largest sample) with a SD of 10%. Allowing for 20% participant attrition, we calculated that 180 participants would allow detection of a mean difference of 5.6% between study arms. Our target sample size was subsequently reduced to 60 participants total due to lower-than-expected enrollment rates from potential participant pools, which was exacerbated by the onset of the COVID-19 pandemic. This revised target sample size drew on Hochberg’s quasi-experimental evaluation of a six-session interactive communications training for surgical residents, that compared standardized patient assessment of pre- and post-training performance on five objective clinical structure case scenarios and demonstrated statistically significant changes for the question “Would you recommend this health care provider to family and friends?” with a sample size of 15 [40].
+Data collection
+Primary outcome measures were scored by trained UISPs immediately following UISP visits, which occurred 8–10 weeks post completion of training and control interventions. Three male and six female professional middle-aged Indigenous actors without confounding health conditions were trained to perform and score one scenario, which involved an Indigenous patient presenting to study participants at family practice linked urgent care clinics or the emergency room with an acute flare of ankylosing spondylitis and requesting a renewal of their NSAID (Additional File 4). UISPs training included standardization of scoring using six mock video encounters applying this scenario that demonstrated varying levels of HCP competence. One week post UISP visit, participants received email reminders to complete secondary outcome measures using a provided link to the online Qualtrics platform. Two to 3 weeks post UISP visit, our research ethicist met with participants to disclose UISP visits, debrief, share a summary of their results, and provide an opportunity for study withdrawal or renewed consent for study participation (Fig. 1). Following initial training to standardize scenario presentation and assessment, UISPs attended regularly scheduled re-standardization sessions. When SARS-CoV-2 pandemic health service access protocols interfered with in-person UISP visits in March 2020, we pivoted to virtual visits, which required small modifications to the UISP scenario (Additional File 4).
+Fig. 1Full size image
+Study timelines
+Statistical analyses
+Overall patient experience compared the average item score for questions #1–13 across the three intervention groups using ANOVA. Given the potential for small cell sizes, Fisher’s exact test was used to examine potential differences in rates of the proportion of HCPs who were highly recommended (question #14). Similar ANOVA analysis strategies were used for the overall NSAID and Pain Management scales, which were scored out of 10 and 12, respectively. To preserve the benefits of randomization and to reduce bias, we applied an intention-to-treat approach to our analyses. To control for potential chance imbalances due to our relatively small study size, multiple regression analyses were used to control for the potential confounding effects of health care provider age, gender, and previous Indigenous experience. In the case of binary outcomes, multivariable logistic regression models were used. Secondary analyses of the Modern Prejudiced Attitudes Towards Aboriginals and Motivation to Respond Without Prejudice scales to assess anti-Indigenous race preference bias were analyzed using ANCOVA to control for baseline scores. All analyses were performed according to intention-to-treat principles at the two-sided, 5% significance level in the R environment (Version 4.2.1) [49].
+Ethics approval and Indigenous community advisory
+The study was approved by Unity Health’s Research Ethics Boards (REB # 17–343). A temporary waiver of consent for UISP visits was obtained for study participants, as for design reasons they could not be informed of these visits during the initial informed consent. Disclosure and re-consent were obtained during the post UISP visit debrief by a research ethicist. This study was collecting data from non-Indigenous HCPs and therefore out of scope with respect to the formal application of Indigenous data sovereignty principles and protocols. We engaged the First Nations, Inuit, and Metis Community Advisory Panel (FNIM-CAP) of St. Michael’s Hospital-Unity Health Toronto (comprised of FNIM community members and FNIM and allied hospital staff) to act as study advisors, to inform study design and implementation, and help ensure there were no unintentional negative implications of the study for Indigenous people. No additional external data monitoring committee was deemed necessary given the minimal risk nature of the interventions.
+We did not formally register the trial due to the exclusion of educational trials from clinical trial registration platforms at the time of design and the need to maintain participant masking of UISP visits.
+
+Results
+A total of 58 subjects were enrolled and randomized. Due to the COVID-19 pandemic and other factors, including loss to follow-up and relocations, UISP visit data were not completed for 15 (26%) individuals, resulting in a final sample size of 43; 17 in the intensive intervention arm, 11 in the brief intervention arm, and 15 in the control (Fig. 2). The brief training regimen had the largest amount of subject attrition with 7 of 18 participants lost since randomization; 2 clinicians relocated, and 1 was ill and unable to be visited by an UISP. Figure 2 further details the trail flow for participants. The study ended when recruitment of clinicians was deemed saturated due to ongoing COVID-19 health system pressures and we had achieved 97% of targeted sample size. Rates of completion of the intervention and control trainings for the final sample were as follows: intensive Sanyas training (82%), brief anti-bias training (100%), and control training (100%). Three of the 17 participants in the intensive Sanyas training arm did not complete the full training. One of these participants completed 30% of the training and two participants completed 0% of the training. In keeping with our intention to treat approach, all 17 were included in the following analyses.
+Fig. 2Full size image
+Participant enrolment and progression
+Baseline characteristics
+Table 1 includes baseline characteristics for the 58 participants who were randomized to the three intervention groups. We note that while most demographic variables were adequately balanced across groups, there was some potential evidence of chance imbalances in potential confounders, including age and previous participation in non-San’yas ICS training.
+Table 1 Baseline characteristics of participants assigned to San’yas intensive training, brief anti-bias training, or controlFull size table
+Effects of training
+Unadjusted primary outcomes, including overall patient experience, proportion of highly recommended health-care provider, NSAID renewal, and pain management scores are presented in Table 2. Except for NSAID renewal, both the San’yas intensive and brief training regimens show potentially higher scores due to their respective interventions, though none of these improvements reach the traditional levels of statistical significance.
+Table 2 Unadjusted analyses comparing the San’yas intensive training, brief anti-bias training, and control groups. Mean (SD), N (%)Full size table
+Multivariable adjusted analyses for the potential confounding effects of age, gender, and previous Indigenous experiences were used to further explore our results (Table 3). Clinicians in the intensive or brief ICS groups had higher adjusted odds of being “highly recommended” to friends and family by standardized patients compared to clinicians in the control group [OR 6.88 (1.17 to 40.45) and OR 7.78 (1.05 to 58.03), respectively]. Similarly, adjusted mean item patient experience scores (95% CI) were higher for clinicians enrolled in the intensive and brief training programs compared to control [0.46 (0.12 to 0.80) and 0.40 (0.02 to 0.78), respectively]. Both intervention groups show a clinically relevant improvement in this domain. There was no evidence of any statistically significant differences between groups on clinical practice guideline adherence for NSAID and pain management (Table 3). Full adjusted model results and results for secondary explicit and implicit anti-bias scale outcomes measures are included in Additional File 5. We note that there was no evidence of any statistically significant changes in these outcomes.
+Table 3 Crude and adjusted analyses comparing the San’yas intensive training, brief training regimen, and control groups. Adjusted analyses control for health care provider age, gender, and previous Indigenous experienceFull size table
+Feasibility
+With respect to the feasibility of UISPs as an ICS training evaluation tool in family practice and emergency care settings, we found that UISP methods were generally positively received by participants upon disclosure during post-visit debriefing, at which time, all participants with UISP visits (n = 43) re-consented to remain in the study. Additionally, none of the UISP visits (n = 43) were detected by participating clinicians prior to debriefing and UISP visit datasets were complete for main study outcomes, except for one missing pain management outcome. One unanticipated challenge with the UISP method, raised by a small number of participants and site leads, was the potential of the method to undermine work and trust relationships among participant clinical teams. This was linked to the need for on-site study collaborators, who were also part of participants’ clinical teams, to be unmasked to UISP visits so they could support their implementation. For this reason, two potential hospital sites declined to participate in study, and one participating clinic ended study recruitment of clinicians from their site early.
+Scheduling of UISP visits was logistically complex, as it required the participant to be on shift in the emergency room or on rota to see urgent patients in primary care clinics. As a result, 37% (N = 16) of UISP visits occurred after the 8–10-week post-intervention time window. Additionally, we were unable to implement UISPs in smaller community clinics where there were only one or two clinicians (N = 2) or the reception staff were employed by the participant (N = 3), as these situations precluded masking participants to UISP visits.
+
+Discussion
+In this trial, we found that brief anti-bias and intensive ICS training programs increase the likelihood that standardized patients would highly recommend trained clinicians to a friend or family member and improved UISP scoring of HCP relational quality. We also found that it is feasible to assess brief anti-bias and intensive ICS training impacts in clinical settings using UISPs.
+While the use of standardized patients as a training and/or assessment tool is widespread in health care education [50], we could not find any studies that had previously applied UISPs to evaluate ICS training. By demonstrating the feasibility of UISPs as a tool for evaluation of ICS training, our study contributes to the advancement of outcome measures from clinician focused assessment of knowledge, attitudes, and self-reported behavioral changes towards the appraisal of observed patient care. This innovation is relevant not only to the rapidly growing field of ICS training for health and social service providers but also to the much larger domain of anti-bias and anti-oppression service provider training [17].
+The successful retention of participants in our study after disclosure of and debriefing regarding UISP visits may have been linked to the skill of the individual conducting the debriefs, who was an experienced applied research ethicist. While delays in scheduling 37% of the UISP visits beyond the 10–12 week planned post-intervention window may have reduced the observed effectiveness of training interventions compared to control, this highlights the logistical complexity of scheduling UISP visits during the planned time-window and UISP implementation more generally. Voiced concerns regarding potential negative impacts on work and trust relationships among participant clinical teams due to the need for on-site staff support for UISP visits merit further validation. One potential remedy for this would be for UISP visits to be adapted as part of institution wide quality improvement initiatives which require or request HPCs permission to see UISPs as part of ongoing quality assurance.
+While promising with respect to magnitude of impact, our primary outcome results regarding the clinical impacts of intensive and brief ICS training lacked statistical precision and were restricted to observed relational quality measures due to small sample size. While these findings represent one of the only examples of observed clinical impacts of ICS or anti-bias training versus control, a larger trial is required to verify these findings, further validate and refine UISP methods and linked assessment tools, and better understand the relational and clinical practice guideline adherence effects of the brief anti-bias and intensive San’yas ICS trainings. In addition to HCP age and gender, previous Indigenous experience as assessed by the “Amount of Previous Indigenous Experience” scale (Additional File 6) was an independent predictor of relational clinical outcomes and therefore controlled for in our adjusted models. Future trials could also contribute to a better understanding of how pre-existing participant knowledge, attitudes, and experiences contribute to training outcomes, which would in turn could support customized matching of ICS training programs to trainee educational needs.
+Additional strengths of this study include the Indigenous leadership of the research team; the applied research partnership with the San’yas ICS program; the adaptation of the prejudice habit-breaking training to specifically address anti-Indigenous race preference bias; and the adaptation and testing of multiple Indigenous specific assessment tools including questionnaires and a novel Indigenous-White Implicit Association test. There was very good fidelity with respect to completion of the two intervention and control trainings. The 82% completion rate of the intensive Sanyas ICS training is consistent with actual completion rates in the field and our intention-to-treat analyses ensure that the attributable impacts of this intervention reflect this.
+Further limitations included the challenges we encountered in recruiting already overloaded academic clinicians and residents, which were exacerbated by the SARS-CoV-2 pandemic and required a revision of our original sample size. SARS-CoV-2 additionally required a pivot to virtual UISP visits between March 2020 and September 2021. Only two NPs enrolled in the study limiting generalizability to this subgroup. We were inadequately powered for a clustered RCT design, which would have addressed site variability. Recruitment of participants through voluntary response likely contributed to a self-selection sampling bias towards participants who may have had less anti-Indigenous racism than uninterested clinicians. While this bias would have had a conservative impact on study findings if we assume that less racism would reduce the magnitude of the training effects, it is worth noting. Future interventions would be strengthened by the inclusion of those most in need of training. We were also unable to control for potential cross-contamination of control group participants by participant colleagues working at the same clinical site who were randomized to and had completed study interventions. While we are not aware of any literature quantifying impacts of this type of cross-contamination on the clinical behavior of HCPs, it is worth considering in future study designs. Finally, we were unable to prospectively register and publish the study protocol. We did reach out to clinicaltrials.gov in 2017 to prospectively register the trial, but were informed that since our primary outcomes were measures of clinician performance and not patient outcomes, we did not qualify for trial registration. We were additionally unable to publish the protocol as to do so would have potentially unmasked participants to UISP visits and educational studies appeared to be excluded from the clinical RCT registration sites with which we were familiar. We agree with Masters that the creation of a registration site for medical education trials is an ethical necessity and are pleased that clincialtrials.gov accepted our protocol retrospectively in 2023 for registration and publication [51].
+Despite growing acknowledgement, calls for action, and new training initiatives, there is very little evidence demonstrating tangible reductions in Indigenous health inequities. In fact, the SARS-CoV-2 pandemic contributed to a global widening of multiple Indigenous/non-Indigenous health disparities, including increased health service access barriers [52, 53]. In this context, there is a pressing need to better equip health care decision makers with clinical evidence as they weigh investments in Indigenous cultural safety training and linked recommendations regarding health systems transformations such as adequate resourcing and the advancement of Indigenous governance and Indigenous models of health and healing [7,8,9,10]. It is critical that public commitments to address Indigenous health inequities are translated into actions informed by evidence and recommendations from Indigenous leadership. “Cherry-picking” clinically undemonstrated ICS or anti-bias clinician training and implementing such trainings without accompanying robust organizational and system level transformation activities is common, but not evidence-based or aligned with existing policy and legal commitments [7,8,9,10].
+We can and must do better. Evaluation standards for ICS trainings that include objective assessment of patient-oriented clinician training outcomes are essential to ensure trainings are improving Indigenous patient care. Moreover, ICS training needs to be linked to cross-institutional and system level initiatives that actively disrupt the differential provision of social opportunities and resources to settler populations over First Peoples and advance Indigenous governance and management of Indigenous affairs [6]. Isolated HCP ICS training initiatives represent a grossly insufficient health system response to domestic and international evidence and recommendations regarding the advancement of Indigenous health equity and social justice [7,8,9,10, 54].
+
+Conclusion
+This RCT has demonstrated that UISPs are a feasible and effective tool to measure and advance the patient focused clinical impacts of ICS training and that brief anti-bias and San’yas intensive ICS trainings have positive potential impacts on simulated patient recommendation of clinician and patient experience compared to control. There is still much work to be done. A larger trial is needed to further ascertain impact of these trainings on clinical practice. We envision a robust offering of ICS trainings for HCPs that can be matched to learner needs and combined to form individualized life-long learning curricula, all of which have been demonstrated to positively impact clinical care for Indigenous patients and their families. ICS training must also be embedded in larger institutional and system change strategies that are addressing the full spectrum of recommendations for advancing the social value of health services for Indigenous populations. Addressing anti-Indigenous racism and inequities in health systems is a complex and multi-faceted challenge that requires individual level behavior change, organizational remodeling, and substantive system level social change. It is our hope that clinical, research, and health care decision-making colleagues will join us in advancing the global shift towards comprehensive, cross-cutting, and linked investments at the HCP, organizational and systems levels to tangibly enhance the social value of health services for First Peoples.
+
+Availability of data and materials
+The datasets generated and/or analyzed during the current study are not publicly available due to small numbers and the need to protect participant confidentiality. Questions regarding the datasets and/or requests for additional analyses can be addressed by contacting the corresponding author.
+
+Abbreviations
+ANCOVA:
+Analysis of covariance
+ANOVA:
+Analysis of variance
+CI:
+Confidence interval
+CME:
+Continuing medical education
+COVID-19:
+Coronavirus disease of 2019
+EB:
+Evidence-based
+FHT:
+Family Health Team
+FNIM:
+First Nations, Inuit, and Métis
+FNIM-CAP:
+First Nations, Inuit, and Métis Community Advisory Panel
+HCP:
+Health care professional
+ICS:
+Indigenous Cultural Safety
+MKSAP:
+Medical Knowledge Self-Assessment Program
+NP:
+Nurse practitioner
+NSAID:
+Non-steroidal anti-inflammatory drug
+OR:
+Odds ratio
+RCT:
+Randomized control trial
+REB:
+Research Ethics Board
+SARS-CoV-2:
+Severe acute respiratory syndrome coronavirus 2
+SD:
+Standard deviation
+UISP:
+Unannounced Indigenous standardized patient
+USP:
+Unannounced standardized patient
+
+References
+UN Permanent Forum on Indigenous Issues (UNPFII), State of the World's Indigenous Peoples, 2nd Volume, 2015. https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/03/The-State-of-The-Worlds-Indigenous-Peoples-WEB.pdf. Accessed 20 Nov 2023.
+Allan B, Smylie JK. First peoples, second class treatment: the role of racism in the health and well-being of Indigenous peoples in Canada. Wellesley Institute; 2015. https://www.wellesleyinstitute.com/wp-content/uploads/2015/02/Full-Report-FPSCT-Updated.pdf. Accessed 20 Nov 2023.
+Australian Institute of Health and Welfare 2023. Aboriginal and Torres Strait Islander Health Performance Framework: summary report 2023. Canberra: AIHW. https://www.indigenoushpf.gov.au/getattachment/4a44660b-5db7-48d0-bcec-1e0a49b587fc/2023-july-ihpf-summary-report.pdf. Accessed 20 Nov 2023.
+Walker RC, Abel S, Palmer SC, Walker C, Heays N, Tipene-Leach D. “We need a system that’s not designed to fail Māori”: experiences of racism related to kidney transplantation in Aotearoa New Zealand. J Racial Ethn Health Disparities. 2023;10:219–27.
+Article
+PubMed
+Google Scholar
+Reid P, Cormack D, Paine SJ. Colonial histories, racism and health—The experience of Māori and Indigenous peoples. Public Health. 2019;172:119–24.
+Article
+CAS
+PubMed
+Google Scholar
+Smylie J, Harris R, Paine SJ, Velásquez IA, Nimatuj, Lovett R. Beyond shame, sorrow, and apologies—action to address indigenous health inequities. BMJ. 2022;378:1688.
+UN General Assembly, United Nations Declaration on the Rights of Indigenous Peoples : resolution / adopted by the General Assembly, 2 October 2007, A/RES/61/295, available at: https://www.refworld.org/docid/471355a82.html. Accessed 20 Nov 2023.
+The Truth Reconciliation Commission of Canada. Honouring the truth, reconciling for the future: summary of the final report of the Truth and Reconciliation Commission of Canada. 2015.
+Google Scholar
+Tribunal W. Report on Stage One of the Health Services and Outcomes Kaupapa inquiry. WAI 2575, 2019. https://forms.justice.govt.nz/search/Documents/WT/wt_DOC_195476216/Hauora%202023%20W.pdf. Accessed 20 Nov 2023.
+National Inquiry into Missing and Murdered Indigenous Women and Girls. Reclaiming power and place: the final report of the National Inquiry into Missing and Murdered Indigenous Women and Girls. National Inquiry into Missing and Murdered Indigenous Women and Girls and Privy Council (Canada). 2019. https://www.mmiwg-ffada.ca/final-report/. Accessed 20 Nov 2023.
+Nerestant A. Racism, prejudice contributed to Joyce Echaquan’s death in hospital, Quebec coroner’s inquiry concludes. CBC News. 2021. https://www.cbc.ca/news/canada/montreal/joyce-echaquan-systemic-racism-quebec-government-1.6196038. Accessed 20 Nov 2023.
+Zhou N. Indigenous patients suffer racial bias in hospitals, Naomi Williams inquest told. The Guardian. 2019. https://www.theguardian.com/australia-news/2019/mar/14/indigenous-patients-suffer-racial-bias-in-hospitals-naomi-williams-inquest-told. Accessed 20 Nov 2023.
+The Associated Press. U.S. report identifies burial sites linked to boarding schools for Native Americans. NPR. 2022. https://www.npr.org/2022/05/11/1098276649/u-s-report-details-burial-sites-linked-to-boarding-schools-for-native-americans. Accessed 20 Nov 2023.
+Hardy BJ, Filipenko S, Smylie D, Ziegler CP, Smylie JK. A systematic review of Indigenous cultural safety training interventions for health care professionals. BMJ Open. 2023. https://doi.org/10.1136/bmjopen-2023-073320.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Davis DA, Mazmanian PE, Fordis M, Van Harrison R, Thorpe KE, Perrier L. Accuracy of physician self-assessment compared with observed measures of competence: a systematic review. JAMA. 2006;296(9):1094-102.
+Colthart I, Bagnall G, Evans A, Allbutt H, Haig A, Illing J, et al. The effectiveness of self-assessment on the identification of learner needs, learner activity, and impact on clinical practice: BEME Guide no. 10. Med Teach. 2008;30(2):124–45.
+Article
+PubMed
+Google Scholar
+Hagiwara N, Kron FW, Scerbo MW, Watson GS. A call for grounding implicit bias training in clinical and translational frameworks. Lancet. 2020;395:1457–60.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Beaulieu MD, Rivard M, Hudon E, Beaudoin C, Saucier D, Remondin M. Comparative trial of a short workshop designed to enhance appropriate use of screening tests by family physicians. CMAJ. 2002;167(11):1241–6.
+PubMed
+PubMed Central
+Google Scholar
+Siminoff LA, Rogers HL, Waller AC, Harris-Haywood S, Esptein RM, Borrell Carrio F, et al. The advantages and challenges of unannounced standardized patients methodology to assess healthcare communication. Patient Educ Couns. 2011;82(3):318–24.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Li L, Lin C, Guan J. Using standardized patients to evaluate hospital-based intervention outcomes. Int J Epidemiol. 2014;43(3):897–903.
+Article
+CAS
+PubMed
+Google Scholar
+Borkhoff CM, Hawker GA, Kreder HJ, Glazier RH, Mahomed NN, Wright JG. Influence of patients’ gender on informed decision making regarding total knee arthroplasty. Arthritis Care Res. 2013;65(8):1281–90.
+Article
+Google Scholar
+Dresselhaus TR, Peabody JW, Lee M, Wang MM, Luck J. Measuring compliance with preventive care guidelines. J Gen Intern Med. 2000;15(11):782–8.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Beaulieu MD, Rivard M, Hudon E, Saucier D, Remondin M, Favreau R. Using standardized patients to measure professional performance of physicians. J Int Soc Qual Health Care. 2003;15(3):251–9.
+Article
+Google Scholar
+Jerant A, Hanson B, Kravitz RL, Tancredi DJ, Hanes E, Grewal S, et al. Detecting the effects of physician training in self-care interviewing skills: coding of standardized patient (SP) visit recordings versus SP post-visit ratings. Patient Educ Couns. 2017;100(2):367–71.
+Article
+PubMed
+Google Scholar
+Devine PG, Forscher PS, Austin AJ, Cox WTL. Long-term reduction in implicit race bias: a prejudice habit-breaking intervention. J Exp Soc Psychol. 2012;48(6):1267–78.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Forscher PS, Mitamura C, Dix EL, Cox WTL, Devine PG. Breaking the prejudice habit: mechanisms, timecourse, and longevity. J Exp Soc Psychol. 2017;72:133–46.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Cox WTL. Developing scientifically validated bias and diversity trainings that work: empowering agents of change to reduce bias, create inclusion, and promote equity. Manag Decis. 2022. https://doi.org/10.1108/MD-06-2021-0839. Accessed 20 Nov 2023.
+Cox WTL, Dix EL, Scott DE, Xie X, Kellet K, Devine PG. Empowering people to break the bias habit: a randomized-controlled field test of the updated bias habit-breaking training. Preprint. 2022. https://www.biashabit.com/research. Accessed 12 Mar 2023.
+San'yas Anti-Racism Indigenous Cultural Safety Training Program. About — San’yas Indigenous cultural safety online training. British Columbia Provincial Health Services Authority; 2023. https://sanyas.ca/about. Accessed 27 Feb 2023.
+Browne AJ, Varcoe C, Ward C. San’yas Indigenous cultural safety training as an educational intervention: promoting anti-racism and equity in health systems, policies, and practices. Int Indig Policy J. 2021;12(3):1–26.
+Article
+Google Scholar
+Carter B, Del Ponte A. Integrating web applications into popular survey platforms for online experiments. Behav Res Methods. 2022;54(6):3093–9.
+Article
+PubMed
+Google Scholar
+The College of Family Physicians of Canada. About the self learning program [Internet]. Mississauga (CA): The College of Family Physicians of Canada; 2018. https://selflearning.cfpc.ca/#/lng-en/about/the-program. Accessed 28 Feb 2023.
+EB Medicine. Evidence-based education. EB Medicine. https://www.ebmedicine.net. Accessed 28 Feb 2023.
+American College of Physicians. CME & MOC. American College of Physicians; 2023. https://www.acponline.org/cme-moc30. Accessed 28 Feb 2023.
+Canadian Institute for Health Information. Patient experience. CIHI; 2023. https://www.cihi.ca/en/patient-experience. Accessed 1 Mar 2023.
+Mead N, Bower P, Roland M. The General Practice Assessment Questionnaire (GPAQ) – development and psychometric characteristics. BMC Fam Pract. 2008;9:13.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Bos N, Sizmur S, Graham C, van Stel HF. The accident and emergency department questionnaire: a measure for patients’ experiences in the accident and emergency department. BMJ Qual Saf. 2013;22(2):139–46.
+Article
+PubMed
+Google Scholar
+Churchill ME, Smylie JK, Wolfe SH, Bourgeois C, Moeller H, Firestone M. Conceptualising cultural safety at an Indigenous-focused midwifery practice in Toronto, Canada: qualitative interviews with Indigenous and non-Indigenous clients. BMJ Open. 2020;10(9):e038168.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Vedam S, Stoll K, Rubashkin N, Martin K, Miller-Vedam Z, Hayes-Klein H, et al. The Mothers on Respect (MOR) index: measuring quality, safety, and human rights in childbirth. SSM - Popul Health. 2017;3:201–10.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Hochberg MS, Kalet A, Zabar S, Kachur E, Gillespie C, Berman RS. Can professionalism be taught? Encouraging evidence. Am J Surg. 2010;199(1):86–93.
+Article
+PubMed
+Google Scholar
+NICE. Non-steroidal anti-inflammatory drugs | Advice | NICE. 2015. https://www.nice.org.uk/advice/ktt13. Accessed 6 Mar 2023.
+Berner E, Houston T, Ray M, Allison J, Heudebert G, Chatham W, Kennedy J, Glandon G, Norton P, Crawford M, Maisiak R. Improving ambulatory prescribing safety with a handheld decision support system: a randomized controlled trial. J Am Med Inform Assoc. 2006;13(2):171–9.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Wells N, Pasero C, McCaffery M. Improving the quality of care through pain assessment and management. Patient safety and quality: an evidence-based handbook for nurses. Agency for Healthcare Research and Quality; 2008. https://www.ncbi.nlm.nih.gov/books/NBK2658/. Accessed 6 Mar 2023.
+Busse J, Craigie S, Juurlink D, et al. Guideline for opiod therapy and chronic noncancer pain: appendix 1. CMAJ. 2017;189(18):E659–66.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Morrison MA, Morrison TG, Harriman RL, Jewell LM. Old-fashioned and modern prejudice toward aboriginals in Canada. In: The psychology of modern prejudice. Hauppauge: Nova Science Publishers; 2008. p. 277–305.
+Google Scholar
+Plant EA, Devine PG. Internal and external motivation to respond without prejudice. J Pers Soc Psychol. 1998;75(3):811–32.
+Article
+Google Scholar
+Klopfer K. An exploration of implicit attitudes toward Indigenous peoples in Canada and managing settler biases through mindfulness. ProQuest Dissertations Publishing; 2020 https://search.proquest.com/docview/2426159053?pq-origsite=primo. Accessed 28 Feb 2023.
+Roach P, Ruzycki S, Hernandez S, Carbert A, Holroyd-Leduc J, Ahmed S, Barnabe C. Prevalence and characteristics of anti-Indigenous bias among Albertan physicians: a cross-sectional survey and framework analysis. BMJ Open. 2023;2:e063178.
+Article
+Google Scholar
+R: The R Project for Statistical Computing. Vienna (AT): the R Project; 2022. https://www.r-project.org/. Accessed 28 Feb 2023.
+Wilbur K, Elmubark A, Shabana S. Systematic review of standardized patient use in continuing medical education. J Contin Educ Health Prof. 2018;38(1):3.
+Article
+PubMed
+Google Scholar
+Masters K. MedEdTrials: protocol registration for medical education research [version 2]. MedEdPublish. 2019;8:125.
+Power T, Wilson D, Best O, Brockie T, Bourque Bearskin L, Millender E, Lowe J. COVID-19 and Indigenous peoples: an imperative for action. J Clin Nurs. 2020;15–16:2737–41.
+Article
+Google Scholar
+Statistics Canada. Unmet health care needs during pandemic and resulting impacts among First Nations people living off reserve, Métis and Inuit. Ottawa (CA): Statistics Canada; 2022. https://www150.statcan.gc.ca/n1/pub/45-28-0001/2022001/article/00008-eng.htm. Accessed 14 Mar 2023.
+Williams DR, Cooper LA. Reducing racial inequities in health: using what we already know to take action. Int J Environ Res Public Health. 2019;16(4):606.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Download references
+
+Acknowledgements
+The authors would like to acknowledge Karen Weyman, Katreena Scott, Navindra Persaud, the Unity Health First Nations, Inuit, and Metis Community Advisory Panel and the Indigenous standardized patients for their assistance. We are also grateful for the support of the St. Michael’s Hospital Foundation, John Lederer, Gary and Donna Slaight, the Southwest Ontario Aboriginal Health Access Centre, and the San’yas Indigenous Cultural Safety Learning Programs.
+
+Funding
+This project was supported by funding from the St. Michael’s Hospital Foundation (Jon Lederer; Gary and Donna Slaight). The Southwestern Ontario Aboriginal Health Access Centre and the Sanyas Indigenous Cultural Safety Learning Programs provided support in kind, including staffing and access to the Sanyas intensive training intervention. Dr. Smylie is funded by a Tier 1 Canada Research Chair. Dr. Cox is supported by Grant 1R35GM128888 from NIGMS at the NIH. Dr. Devine is supported by Grant R01 1R35GM127043 from the NIH. Dr. Damji was supported by a one-time stipend from Scholarly and Professional Activity Fund to participating as a co-author. Dr. Lofters is supported as a Clinician Scientist by the University of Toronto Department of Family and Community Medicine, and as Chair in Implementation Science at the Peter Gilgan Centre for Women’s Cancers at Women’s College Hospital, in partnership with the Canadian Cancer Society. Dr. O'Neill is supported by the Department of Family and Community Medicine at St. Michael's Hospital, and the University of Toronto Department of Family and Community Medicine as a Clinician-Scientist.
+
+Author information
+Authors and Affiliations
+Well Living House, Unity Health Toronto - St. Michael’s Hospital, 30 Bond Street, Toronto, ON, M5B 1W8, Canada
+Janet Smylie, Sam Filipenko & Kristina Klopfer
+School of Kinesiology and Health Science, York University, 364 Bethune College, 4700 Keele Street, Toronto, ON, M3J 1P3, Canada
+Michael A. Rotondi
+Inequity Agents of Change, Madison, WI, 53714, USA
+William T. L. Cox
+Ontario Federation of Indigenous Friendship Centres, 219 Front Street East, Toronto, ON, M5A 1E8, Canada
+Diane Smylie
+Anti-Indigenous Racism Consultant, Nanaimo, BC, Canada
+Cheryl Ward
+Womens College Hospital, Women’s College Hospital, 77 Grenville St, Toronto, TO, M5B 2S1, Canada
+Aisha K. Lofters
+MAP Centre for Urban Health Solutions, St. Michael’s Hospital, Unity Health Toronto, 30 Bond Street, Toronto, ON, M5B 1W8, Canada
+Braden O’Neill
+Department of Family and Community Medicine, University of Toronto, 500 University Ave, Toronto, ON, M5G 1V7, Canada
+Melissa Graham
+St. Josephs Heath Centre Family Medicine/Urban Family Health Team, 30 The Queensway, Toronto, ON, M6R 1B5, Canada
+Linda Weber
+Credit Valley Family Health Team, 2300 Eglinton Avenue W Suite 105, Mississauga, ON, L5M2V8, Canada
+Ali N. Damji
+Department of Psychology, University of Wisconsin - UW-Madison, 1202 W Johnson St, Madison, WI, 53706, USA
+Patricia G. Devine
+Vancouver, Canada
+Jane Collins
+Dalla Lana School of Public Health, University of Toronto, 155 College St Room 500, Toronto, ON, M5T 3M7, Canada
+Billie-Jo Hardy
+AuthorsJanet SmylieView author publications
+Search author on:PubMed Google Scholar
+Michael A. RotondiView author publications
+Search author on:PubMed Google Scholar
+Sam FilipenkoView author publications
+Search author on:PubMed Google Scholar
+William T. L. CoxView author publications
+Search author on:PubMed Google Scholar
+Diane SmylieView author publications
+Search author on:PubMed Google Scholar
+Cheryl WardView author publications
+Search author on:PubMed Google Scholar
+Kristina KlopferView author publications
+Search author on:PubMed Google Scholar
+Aisha K. LoftersView author publications
+Search author on:PubMed Google Scholar
+Braden O’NeillView author publications
+Search author on:PubMed Google Scholar
+Melissa GrahamView author publications
+Search author on:PubMed Google Scholar
+Linda WeberView author publications
+Search author on:PubMed Google Scholar
+Ali N. DamjiView author publications
+Search author on:PubMed Google Scholar
+Patricia G. DevineView author publications
+Search author on:PubMed Google Scholar
+Jane CollinsView author publications
+Search author on:PubMed Google Scholar
+Billie-Jo HardyView author publications
+Search author on:PubMed Google Scholar
+Contributions
+JS, CW, JC, DS, WC, PD, and BH conceptualized the study and co-designed the study protocol. JS and BH co-led the study implementation with the support of SF. DS, CW, and JC supported the development and implementation of the San’yas intensive ICS study arm. WC, PD, BH, and DS supported the development and implementation of the brief anti-bias study arm. JS led the development of the UISP scenario and Quality of Health Care Provider Relationship and Communication tool with support from AL, DS, WC, PD, JC, and BH. KK supported the development of the IPC-IAT. BH and SF co-led the study recruitment with support from JS, DS, BO, LW, AD, and MG. BH, SF, BO, LW, AD, and MG coordinated the study implementation at clinical sites. MR led the statistical analysis with support from WC, SF, BH, and JS. JS, BH, SF, WC, PD, MR, DS, and JC collaborated on the interpretation of results. JS, MR, SF, and BH co-lead the writing of draft manuscript. All authors reviewed and provided feedback on the draft manuscript. JS prepared the final manuscript for submission with support from SF and BH. All authors read and approved the final manuscript.
+Corresponding author
+Correspondence to
+Janet Smylie.
+
+Ethics declarations
+Ethics approval and consent to participate
+The study was approved by the Unity Health Toronto Research Ethics Board (REB#17–343), the University of Toronto Health Sciences Research Ethics Board (Protocol#00037161), and the North York General Hospital Research Ethics Board (REB#19–0013). Participants in this study provided written online consent prior to participating in the study. The study was approved for the implementation of a temporary waiver of consent, which meant that the aims of the research were not fully disclosed to the participants at the time of consent. Following evaluation by a UISP, participants were contacted and debriefed at which time, secondary written consent was obtained (either in person or virtually, via zoom). Participants were informed of their right to withdraw from the study at any time prior to results being aggregated and disseminated through presentations, reports, and/or manuscripts. No participants withdrew from the study.
+Consent for publication
+Not applicable.
+Competing interests
+All authors have completed the ICMJE uniform disclosure form at qqq.icmje.org/disclosure-of-interest. AL, AD, BO’N, KK, KS, LW, SF, PD, and WC declare no competing interests. JS is a sibling of DS. JS and DS are both members of the Indigenous Cultural Safety Learning Series Advisory Circle in Canada, which was funded by San’yas and co-hosted by the Ontario Federation of Indigenous Friendship Centres. The Indigenous Cultural Safety Learning Series is a national webinar series focused on Indigenous cultural safety. It is guided by an Advisory Circle of Indigenous leaders from across Canada. DS was employed by the Southwest Ontario Aboriginal Health Access Centre (SOAHAC) until March 2020. SOAHAC was partnered with San’yas to deliver ICS training in Ontario when the study was conceptualized. SOAHAC provided in-kind staff time to support study activities for ongoing study advisory and training registration. JC and DS were employed by San’yas Indigenous Cultural Safety Learning Programs, Indigenous Health, Provincial Health Services Authority (PHSA) until April and June 2023, respectively, and during the time the study was designed, implemented, analyzed, and interpreted. CW is the former Executive Director of Indigenous Health at PHSA and developed the San’yas Indigenous Cultural Safety Training Programs. CW was employed by San’yas Indigenous Cultural Safety Learning Programs, Indigenous Health, PHSA. San’yas offered their in-kind time to support advisory activities for the study. DS did not receive additional funding or payments for her role in supporting the study. Travel to Ontario for JC and CW to support advisory activities and study design was covered by the San’yas Program. DS is a volunteer director on a board of trustees at a provincial mental health organization in Toronto, Ontario, CAMH. CAMH offers San’yas training to their staff. BH is a volunteer member of the Unity Health Toronto Research Ethics Board and the University of Toronto Health Sciences Research Ethics Board. BH was not a member of these boards when the study was submitted for approval and she has not been present for any meetings where the study has been on the agenda. MR provided the statistical analysis for the study on a fee for service basis. Payments were made personally. All interested authors were provided access to San’yas training following the study.
+
+Additional information
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Supplementary Information
+Additional file 1. (download DOCX )
+Intensive San’yas Intervention Summary.
+Additional file 2. (download DOCX )
+Brief Anti-Bias Intervention Summary.
+Additional file 3. (download DOCX )
+Unannounced Indigenous Standardized Patient (UISP) Data Collection Tools.
+Additional file 4. (download DOCX )
+UISP Scenario.
+Additional file 5. (download DOCX )
+Supplemental Adjusted Model Results for Primary Outcomes and Supplemental Tables and Results for Secondary Explicit and Implicit Anti-Bias Outcomes.
+Additional file 6. (download PDF )
+Consort Checklist.
+Additional file 7. (download DOCX )
+Amount of Previous Indigenous Experience scale.
+
+Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Reprints and permissions
+
+Original article links (no linked objects copied)
+4: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR4
+5: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR5
+6: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR6
+10: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR10
+13: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR13
+8: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR8
+14: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR14
+15: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR15
+16: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR16
+17: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR17
+21: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR21
+19: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR19
+24: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR24
+28: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR28
+29: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR29
+30: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR30
+31: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR31
+1: https://link.springer.com/article/10.1186/s12916-023-03193-y#MOESM1
+2: https://link.springer.com/article/10.1186/s12916-023-03193-y#MOESM2
+32: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR32
+33: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR33
+34: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR34
+3: https://link.springer.com/article/10.1186/s12916-023-03193-y#MOESM3
+37: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR37
+38: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR38
+39: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR39
+40: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR40
+44: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR44
+45: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR45
+46: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR46
+47: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR47
+48: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR48
+4: https://link.springer.com/article/10.1186/s12916-023-03193-y#MOESM4
+1: https://link.springer.com/article/10.1186/s12916-023-03193-y#Fig1
+Full size image: https://link.springer.com/article/10.1186/s12916-023-03193-y/figures/1
+49: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR49
+2: https://link.springer.com/article/10.1186/s12916-023-03193-y#Fig2
+Full size image: https://link.springer.com/article/10.1186/s12916-023-03193-y/figures/2
+1: https://link.springer.com/article/10.1186/s12916-023-03193-y#Tab1
+Full size table: https://link.springer.com/article/10.1186/s12916-023-03193-y/tables/1
+2: https://link.springer.com/article/10.1186/s12916-023-03193-y#Tab2
+Full size table: https://link.springer.com/article/10.1186/s12916-023-03193-y/tables/2
+3: https://link.springer.com/article/10.1186/s12916-023-03193-y#Tab3
+5: https://link.springer.com/article/10.1186/s12916-023-03193-y#MOESM5
+Full size table: https://link.springer.com/article/10.1186/s12916-023-03193-y/tables/3
+50: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR50
+6: https://link.springer.com/article/10.1186/s12916-023-03193-y#MOESM6
+51: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR51
+52: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR52
+53: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR53
+54: https://link.springer.com/article/10.1186/s12916-023-03193-y#ref-CR54
+https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/03/The-State-of-The-Worlds-Indigenous-Peoples-WEB.pdf: https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/03/The-State-of-The-Worlds-Indigenous-Peoples-WEB.pdf
+https://www.wellesleyinstitute.com/wp-content/uploads/2015/02/Full-Report-FPSCT-Updated.pdf: https://www.wellesleyinstitute.com/wp-content/uploads/2015/02/Full-Report-FPSCT-Updated.pdf
+https://www.indigenoushpf.gov.au/getattachment/4a44660b-5db7-48d0-bcec-1e0a49b587fc/2023-july-ihpf-summary-report.pdf: https://www.indigenoushpf.gov.au/getattachment/4a44660b-5db7-48d0-bcec-1e0a49b587fc/2023-july-ihpf-summary-report.pdf
+Article: https://link.springer.com/article/10.1007/s40615-021-01212-3
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35018578
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=%E2%80%9CWe%20need%20a%20system%20that%E2%80%99s%20not%20designed%20to%20fail%20M%C4%81ori%E2%80%9D%3A%20experiences%20of%20racism%20related%20to%20kidney%20transplantation%20in%20Aotearoa%20New%20Zealand&journal=J%20Racial%20Ethn%20Health%20Disparities&doi=10.1007%2Fs40615-021-01212-3&volume=10&pages=219-227&publication_year=2023&author=Walker%2CRC&author=Abel%2CS&author=Palmer%2CSC&author=Walker%2CC&author=Heays%2CN&author=Tipene-Leach%2CD
+Article: https://doi.org/10.1016%2Fj.puhe.2019.03.027
+CAS: https://link.springer.com/articles/cas-redirect/1:STN:280:DC%2BB3M3jvF2ntQ%3D%3D
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31171363
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Colonial%20histories%2C%20racism%20and%20health%E2%80%94The%20experience%20of%20M%C4%81ori%20and%20Indigenous%20peoples&journal=Public%20Health&doi=10.1016%2Fj.puhe.2019.03.027&volume=172&pages=119-124&publication_year=2019&author=Reid%2CP&author=Cormack%2CD&author=Paine%2CSJ
+https://www.refworld.org/docid/471355a82.html: https://www.refworld.org/docid/471355a82.html
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Honouring%20the%20truth%2C%20reconciling%20for%20the%20future%3A%20summary%20of%20the%20final%20report%20of%20the%20Truth%20and%20Reconciliation%20Commission%20of%20Canada&publication_year=2015
+https://forms.justice.govt.nz/search/Documents/WT/wt_DOC_195476216/Hauora%202023%20W.pdf: https://forms.justice.govt.nz/search/Documents/WT/wt_DOC_195476216/Hauora%202023%20W.pdf
+https://www.mmiwg-ffada.ca/final-report/: https://www.mmiwg-ffada.ca/final-report/
+https://www.cbc.ca/news/canada/montreal/joyce-echaquan-systemic-racism-quebec-government-1.6196038: https://www.cbc.ca/news/canada/montreal/joyce-echaquan-systemic-racism-quebec-government-1.6196038
+https://www.theguardian.com/australia-news/2019/mar/14/indigenous-patients-suffer-racial-bias-in-hospitals-naomi-williams-inquest-told: https://www.theguardian.com/australia-news/2019/mar/14/indigenous-patients-suffer-racial-bias-in-hospitals-naomi-williams-inquest-told
+https://www.npr.org/2022/05/11/1098276649/u-s-report-details-burial-sites-linked-to-boarding-schools-for-native-americans: https://www.npr.org/2022/05/11/1098276649/u-s-report-details-burial-sites-linked-to-boarding-schools-for-native-americans
+https://doi.org/10.1136/bmjopen-2023-073320: https://doi.org/10.1136/bmjopen-2023-073320
+Article: https://doi.org/10.1136%2Fbmjopen-2023-073320
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38072493
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10729246
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=A%20systematic%20review%20of%20Indigenous%20cultural%20safety%20training%20interventions%20for%20health%20care%20professionals&journal=BMJ%20Open&doi=10.1136%2Fbmjopen-2023-073320&publication_year=2023&author=Hardy%2CBJ&author=Filipenko%2CS&author=Smylie%2CD&author=Ziegler%2CCP&author=Smylie%2CJK
+Article: https://doi.org/10.1080%2F01421590701881699
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18464136
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=The%20effectiveness%20of%20self-assessment%20on%20the%20identification%20of%20learner%20needs%2C%20learner%20activity%2C%20and%20impact%20on%20clinical%20practice%3A%20BEME%20Guide%20no.%2010&journal=Med%20Teach.&doi=10.1080%2F01421590701881699&volume=30&issue=2&pages=124-45&publication_year=2008&author=Colthart%2CI&author=Bagnall%2CG&author=Evans%2CA&author=Allbutt%2CH&author=Haig%2CA&author=Illing%2CJ
+Article: https://doi.org/10.1016%2FS0140-6736%2820%2930846-1
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32359460
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7265967
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=A%20call%20for%20grounding%20implicit%20bias%20training%20in%20clinical%20and%20translational%20frameworks&journal=Lancet&doi=10.1016%2FS0140-6736%2820%2930846-1&volume=395&pages=1457-1460&publication_year=2020&author=Hagiwara%2CN&author=Kron%2CFW&author=Scerbo%2CMW&author=Watson%2CGS
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12451077
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC134133
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Comparative%20trial%20of%20a%20short%20workshop%20designed%20to%20enhance%20appropriate%20use%20of%20screening%20tests%20by%20family%20physicians&journal=CMAJ&volume=167&issue=11&pages=1241-6&publication_year=2002&author=Beaulieu%2CMD&author=Rivard%2CM&author=Hudon%2CE&author=Beaudoin%2CC&author=Saucier%2CD&author=Remondin%2CM
+Article: https://doi.org/10.1016%2Fj.pec.2011.01.021
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21316182
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3064426
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=The%20advantages%20and%20challenges%20of%20unannounced%20standardized%20patients%20methodology%20to%20assess%20healthcare%20communication&journal=Patient%20Educ%20Couns.&doi=10.1016%2Fj.pec.2011.01.021&volume=82&issue=3&pages=318-24&publication_year=2011&author=Siminoff%2CLA&author=Rogers%2CHL&author=Waller%2CAC&author=Harris-Haywood%2CS&author=Esptein%2CRM&author=Borrell%20Carrio%2CF
+Article: https://doi.org/10.1093%2Fije%2Fdyt249
+CAS: https://link.springer.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXht1Kksb3K
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24369433
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Using%20standardized%20patients%20to%20evaluate%20hospital-based%20intervention%20outcomes&journal=Int%20J%20Epidemiol&doi=10.1093%2Fije%2Fdyt249&volume=43&issue=3&pages=897-903&publication_year=2014&author=Li%2CL&author=Lin%2CC&author=Guan%2CJ
+Article: https://doi.org/10.1002%2Facr.21970
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Influence%20of%20patients%E2%80%99%20gender%20on%20informed%20decision%20making%20regarding%20total%20knee%20arthroplasty&journal=Arthritis%20Care%20Res&doi=10.1002%2Facr.21970&volume=65&issue=8&pages=1281-1290&publication_year=2013&author=Borkhoff%2CCM&author=Hawker%2CGA&author=Kreder%2CHJ&author=Glazier%2CRH&author=Mahomed%2CNN&author=Wright%2CJG
+Article: https://doi.org/10.1046%2Fj.1525-1497.2000.91007.x
+CAS: https://link.springer.com/articles/cas-redirect/1:STN:280:DC%2BD3M7gsVehtw%3D%3D
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11119170
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495610
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Measuring%20compliance%20with%20preventive%20care%20guidelines&journal=J%20Gen%20Intern%20Med&doi=10.1046%2Fj.1525-1497.2000.91007.x&volume=15&issue=11&pages=782-788&publication_year=2000&author=Dresselhaus%2CTR&author=Peabody%2CJW&author=Lee%2CM&author=Wang%2CMM&author=Luck%2CJ
+Article: https://doi.org/10.1093%2Fintqhc%2Fmzg037
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Using%20standardized%20patients%20to%20measure%20professional%20performance%20of%20physicians&journal=J%20Int%20Soc%20Qual%20Health%20Care.&doi=10.1093%2Fintqhc%2Fmzg037&volume=15&issue=3&pages=251-9&publication_year=2003&author=Beaulieu%2CMD&author=Rivard%2CM&author=Hudon%2CE&author=Saucier%2CD&author=Remondin%2CM&author=Favreau%2CR
+Article: https://doi.org/10.1016%2Fj.pec.2016.08.021
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27578271
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Detecting%20the%20effects%20of%20physician%20training%20in%20self-care%20interviewing%20skills%3A%20coding%20of%20standardized%20patient%20%28SP%29%20visit%20recordings%20versus%20SP%20post-visit%20ratings&journal=Patient%20Educ%20Couns&doi=10.1016%2Fj.pec.2016.08.021&volume=100&issue=2&pages=367-371&publication_year=2017&author=Jerant%2CA&author=Hanson%2CB&author=Kravitz%2CRL&author=Tancredi%2CDJ&author=Hanes%2CE&author=Grewal%2CS
+Article: https://doi.org/10.1016%2Fj.jesp.2012.06.003
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23524616
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603687
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Long-term%20reduction%20in%20implicit%20race%20bias%3A%20a%20prejudice%20habit-breaking%20intervention&journal=J%20Exp%20Soc%20Psychol&doi=10.1016%2Fj.jesp.2012.06.003&volume=48&issue=6&pages=1267-1278&publication_year=2012&author=Devine%2CPG&author=Forscher%2CPS&author=Austin%2CAJ&author=Cox%2CWTL
+Article: https://doi.org/10.1016%2Fj.jesp.2017.04.009
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29225371
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5720145
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Breaking%20the%20prejudice%20habit%3A%20mechanisms%2C%20timecourse%2C%20and%20longevity&journal=J%20Exp%20Soc%20Psychol&doi=10.1016%2Fj.jesp.2017.04.009&volume=72&pages=133-146&publication_year=2017&author=Forscher%2CPS&author=Mitamura%2CC&author=Dix%2CEL&author=Cox%2CWTL&author=Devine%2CPG
+https://doi.org/10.1108/MD-06-2021-0839: https://doi.org/10.1108/MD-06-2021-0839
+https://www.biashabit.com/research: https://www.biashabit.com/research
+https://sanyas.ca/about: https://sanyas.ca/about
+Article: https://doi.org/10.18584%2Fiipj.2021.12.3.8204
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=San%E2%80%99yas%20Indigenous%20cultural%20safety%20training%20as%20an%20educational%20intervention%3A%20promoting%20anti-racism%20and%20equity%20in%20health%20systems%2C%20policies%2C%20and%20practices&journal=Int%20Indig%20Policy%20J&doi=10.18584%2Fiipj.2021.12.3.8204&volume=12&issue=3&pages=1-26&publication_year=2021&author=Browne%2CAJ&author=Varcoe%2CC&author=Ward%2CC
+Article: https://doi.org/10.3758%2Fs13428-022-01792-w
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35212937
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Integrating%20web%20applications%20into%20popular%20survey%20platforms%20for%20online%20experiments&journal=Behav%20Res%20Methods&doi=10.3758%2Fs13428-022-01792-w&volume=54&issue=6&pages=3093-3099&publication_year=2022&author=Carter%2CB&author=Ponte%2CA
+https://selflearning.cfpc.ca/#/lng-en/about/the-program: https://selflearning.cfpc.ca/#/lng-en/about/the-program
+https://www.ebmedicine.net: https://www.ebmedicine.net
+https://www.acponline.org/cme-moc30: https://www.acponline.org/cme-moc30
+https://www.cihi.ca/en/patient-experience: https://www.cihi.ca/en/patient-experience
+Article: https://link.springer.com/article/10.1186/1471-2296-9-13
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18289385
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2277420
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=The%20General%20Practice%20Assessment%20Questionnaire%20%28GPAQ%29%20%E2%80%93%20development%20and%20psychometric%20characteristics&journal=BMC%20Fam%20Pract&doi=10.1186%2F1471-2296-9-13&volume=9&publication_year=2008&author=Mead%2CN&author=Bower%2CP&author=Roland%2CM
+Article: https://doi.org/10.1136%2Fbmjqs-2012-001072
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22942399
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=The%20accident%20and%20emergency%20department%20questionnaire%3A%20a%20measure%20for%20patients%E2%80%99%20experiences%20in%20the%20accident%20and%20emergency%20department&journal=BMJ%20Qual%20Saf&doi=10.1136%2Fbmjqs-2012-001072&volume=22&issue=2&pages=139-146&publication_year=2013&author=Bos%2CN&author=Sizmur%2CS&author=Graham%2CC&author=Stel%2CHF
+Article: https://doi.org/10.1136%2Fbmjopen-2020-038168
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32994245
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7526316
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Conceptualising%20cultural%20safety%20at%20an%20Indigenous-focused%20midwifery%20practice%20in%20Toronto%2C%20Canada%3A%20qualitative%20interviews%20with%20Indigenous%20and%20non-Indigenous%20clients&journal=BMJ%20Open&doi=10.1136%2Fbmjopen-2020-038168&volume=10&issue=9&publication_year=2020&author=Churchill%2CME&author=Smylie%2CJK&author=Wolfe%2CSH&author=Bourgeois%2CC&author=Moeller%2CH&author=Firestone%2CM
+Article: https://doi.org/10.1016%2Fj.ssmph.2017.01.005
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29349217
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768993
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=The%20Mothers%20on%20Respect%20%28MOR%29%20index%3A%20measuring%20quality%2C%20safety%2C%20and%20human%20rights%20in%20childbirth&journal=SSM%20-%20Popul%20Health&doi=10.1016%2Fj.ssmph.2017.01.005&volume=3&pages=201-210&publication_year=2017&author=Vedam%2CS&author=Stoll%2CK&author=Rubashkin%2CN&author=Martin%2CK&author=Miller-Vedam%2CZ&author=Hayes-Klein%2CH
+Article: https://doi.org/10.1016%2Fj.amjsurg.2009.10.002
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20103071
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Can%20professionalism%20be%20taught%3F%20Encouraging%20evidence&journal=Am%20J%20Surg&doi=10.1016%2Fj.amjsurg.2009.10.002&volume=199&issue=1&pages=86-93&publication_year=2010&author=Hochberg%2CMS&author=Kalet%2CA&author=Zabar%2CS&author=Kachur%2CE&author=Gillespie%2CC&author=Berman%2CRS
+https://www.nice.org.uk/advice/ktt13: https://www.nice.org.uk/advice/ktt13
+Article: https://doi.org/10.1197%2Fjamia.M1961
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16357350
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447547
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Improving%20ambulatory%20prescribing%20safety%20with%20a%20handheld%20decision%20support%20system%3A%20a%20randomized%20controlled%20trial&journal=J%20Am%20Med%20Inform%20Assoc&doi=10.1197%2Fjamia.M1961&volume=13&issue=2&pages=171-179&publication_year=2006&author=Berner%2CE&author=Houston%2CT&author=Ray%2CM&author=Allison%2CJ&author=Heudebert%2CG&author=Chatham%2CW&author=Kennedy%2CJ&author=Glandon%2CG&author=Norton%2CP&author=Crawford%2CM&author=Maisiak%2CR
+https://www.ncbi.nlm.nih.gov/books/NBK2658/: https://www.ncbi.nlm.nih.gov/books/NBK2658/
+Article: https://doi.org/10.1503%2Fcmaj.170363
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28483845
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5422149
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Guideline%20for%20opiod%20therapy%20and%20chronic%20noncancer%20pain%3A%20appendix%201&journal=CMAJ&doi=10.1503%2Fcmaj.170363&volume=189&issue=18&pages=E659-E666&publication_year=2017&author=Busse%2CJ&author=Craigie%2CS&author=Juurlink%2CD
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Old-fashioned%20and%20modern%20prejudice%20toward%20aboriginals%20in%20Canada&pages=277-305&publication_year=2008&author=Morrison%2CMA&author=Morrison%2CTG&author=Harriman%2CRL&author=Jewell%2CLM
+Article: https://doi.org/10.1037%2F0022-3514.75.3.811
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Internal%20and%20external%20motivation%20to%20respond%20without%20prejudice&journal=J%20Pers%20Soc%20Psychol&doi=10.1037%2F0022-3514.75.3.811&volume=75&issue=3&pages=811-832&publication_year=1998&author=Plant%2CEA&author=Devine%2CPG
+https://search.proquest.com/docview/2426159053?pq-origsite=primo: https://search.proquest.com/docview/2426159053?pq-origsite=primo
+Article: https://doi.org/10.1136%2Fbmjopen-2022-063178
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Prevalence%20and%20characteristics%20of%20anti-Indigenous%20bias%20among%20Albertan%20physicians%3A%20a%20cross-sectional%20survey%20and%20framework%20analysis&journal=BMJ%20Open&doi=10.1136%2Fbmjopen-2022-063178&volume=2&publication_year=2023&author=Roach%2CP&author=Ruzycki%2CS&author=Hernandez%2CS&author=Carbert%2CA&author=Holroyd-Leduc%2CJ&author=Ahmed%2CS&author=Barnabe%2CC
+https://www.r-project.org/: https://www.r-project.org/
+Article: https://doi.org/10.1097%2FCEH.0000000000000190
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29517612
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Systematic%20review%20of%20standardized%20patient%20use%20in%20continuing%20medical%20education&journal=J%20Contin%20Educ%20Health%20Prof&doi=10.1097%2FCEH.0000000000000190&volume=38&issue=1&publication_year=2018&author=Wilbur%2CK&author=Elmubark%2CA&author=Shabana%2CS
+Article: https://doi.org/10.1111%2Fjocn.15320
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=COVID-19%20and%20Indigenous%20peoples%3A%20an%20imperative%20for%20action&journal=J%20Clin%20Nurs&doi=10.1111%2Fjocn.15320&volume=15%E2%80%9316&pages=2737-2741&publication_year=2020&author=Power%2CT&author=Wilson%2CD&author=Best%2CO&author=Brockie%2CT&author=Bourque%20Bearskin%2CL&author=Millender%2CE&author=Lowe%2CJ
+https://www150.statcan.gc.ca/n1/pub/45-28-0001/2022001/article/00008-eng.htm: https://www150.statcan.gc.ca/n1/pub/45-28-0001/2022001/article/00008-eng.htm
+Article: https://doi.org/10.3390%2Fijerph16040606
+PubMed: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30791452
+PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6406315
+Google Scholar: http://scholar.google.com/scholar_lookup?&title=Reducing%20racial%20inequities%20in%20health%3A%20using%20what%20we%20already%20know%20to%20take%20action&journal=Int%20J%20Environ%20Res%20Public%20Health&doi=10.3390%2Fijerph16040606&volume=16&issue=4&publication_year=2019&author=Williams%2CDR&author=Cooper%2CLA
+Download references: https://citation-needed.springer.com/v2/references/10.1186/s12916-023-03193-y?format=refman&flavour=references
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Janet%20Smylie
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Janet%20Smylie
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Janet%20Smylie%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Michael%20A.%20Rotondi
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Michael%20A.%20Rotondi
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Michael%20A.%20Rotondi%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Sam%20Filipenko
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Sam%20Filipenko
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Sam%20Filipenko%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=William%20T.%20L.%20Cox
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=William%20T.%20L.%20Cox
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22William%20T.%20L.%20Cox%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Diane%20Smylie
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Diane%20Smylie
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Diane%20Smylie%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Cheryl%20Ward
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Cheryl%20Ward
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Cheryl%20Ward%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Kristina%20Klopfer
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Kristina%20Klopfer
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Kristina%20Klopfer%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Aisha%20K.%20Lofters
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Aisha%20K.%20Lofters
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Aisha%20K.%20Lofters%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Braden%20O%E2%80%99Neill
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Braden%20O%E2%80%99Neill
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Braden%20O%E2%80%99Neill%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Melissa%20Graham
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Melissa%20Graham
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Melissa%20Graham%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Linda%20Weber
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Linda%20Weber
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Linda%20Weber%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Ali%20N.%20Damji
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Ali%20N.%20Damji
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Ali%20N.%20Damji%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Patricia%20G.%20Devine
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Patricia%20G.%20Devine
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Patricia%20G.%20Devine%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Jane%20Collins
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Jane%20Collins
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jane%20Collins%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+View author publications: https://link.springer.com/search?sortBy=newestFirst&contributor=Billie-Jo%20Hardy
+PubMed: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Billie-Jo%20Hardy
+Google Scholar: https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Billie-Jo%20Hardy%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en
+Additional file 1. (download DOCX ): https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12916-023-03193-y/MediaObjects/12916_2023_3193_MOESM1_ESM.docx
+Additional file 2. (download DOCX ): https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12916-023-03193-y/MediaObjects/12916_2023_3193_MOESM2_ESM.docx
+Additional file 3. (download DOCX ): https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12916-023-03193-y/MediaObjects/12916_2023_3193_MOESM3_ESM.docx
+Additional file 4. (download DOCX ): https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12916-023-03193-y/MediaObjects/12916_2023_3193_MOESM4_ESM.docx
+Additional file 5. (download DOCX ): https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12916-023-03193-y/MediaObjects/12916_2023_3193_MOESM5_ESM.docx
+Additional file 6. (download PDF ): https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12916-023-03193-y/MediaObjects/12916_2023_3193_MOESM6_ESM.pdf
+Additional file 7. (download DOCX ): https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12916-023-03193-y/MediaObjects/12916_2023_3193_MOESM7_ESM.docx
+http://creativecommons.org/licenses/by/4.0/: http://creativecommons.org/licenses/by/4.0/
+http://creativecommons.org/publicdomain/zero/1.0/: http://creativecommons.org/publicdomain/zero/1.0/
+Reprints and permissions: https://s100.copyright.com/AppDispatchServlet?title=Randomized%20controlled%20trial%20demonstrates%20novel%20tools%20to%20assess%20patient%20outcomes%20of%20Indigenous%20cultural%20safety%20training&author=Janet%20Smylie%20et%20al&contentID=10.1186%2Fs12916-023-03193-y&copyright=The%20Author%28s%29&publication=1741-7015&publicationDate=2024-01-09&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY%20%2B%20CC0

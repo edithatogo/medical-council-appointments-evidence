@@ -1,0 +1,12 @@
+{
+  "catalogued_source_groups": 120,
+  "exported_public_source_groups": 119,
+  "excluded_categories": [
+    {
+      "category": "private correspondence",
+      "source_group_count": 1,
+      "reason": "Confidential material is outside this public archive."
+    }
+  ],
+  "metadata_only_without_recovered_url": 3
+}

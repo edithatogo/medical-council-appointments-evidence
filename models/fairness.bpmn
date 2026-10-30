@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" id="Definitions_fairness" targetNamespace="https://research.local/nzmj2026202" exporter="Case-local descriptive process exporter" exporterVersion="1">
+  <bpmn:process id="fairness" name="Conditional fairness assessment" isExecutable="false">
+    <bpmn:documentation>Normative assessment, not a finding that these events occurred or that every step is legally mandatory in every non-renewal. Renewal is not automatic. Missing released evidence does not prove absence of a hearing.</bpmn:documentation>
+    <bpmn:startEvent id="fairness_start"/>
+    <bpmn:subProcess id="fairness_status" name="Establish legal position">
+      <bpmn:startEvent id="status_start"/>
+      <bpmn:task id="f1" name="Identify appointment instrument, term and holdover">
+        <bpmn:documentation>HPCAA ss120-122</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="f2" name="Identify actual grounds and personal interests affected">
+        <bpmn:documentation>Wyeth paras40-42</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:endEvent id="status_end"/>
+      <bpmn:sequenceFlow id="fairness_status_flow0" sourceRef="status_start" targetRef="f1"/>
+      <bpmn:sequenceFlow id="fairness_status_flow1" sourceRef="f1" targetRef="f2"/>
+      <bpmn:sequenceFlow id="fairness_status_flow2" sourceRef="f2" targetRef="status_end"/>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="fairness_response" name="Where fairness requires a response">
+      <bpmn:startEvent id="response_start"/>
+      <bpmn:task id="f3" name="Communicate substance of material adverse concerns">
+        <bpmn:documentation>Conditional natural justice</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="f4" name="Allow a meaningful opportunity to respond">
+        <bpmn:documentation>Conditional natural justice</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="f5" name="Genuinely consider the response before deciding">
+        <bpmn:documentation>Conditional natural justice</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:endEvent id="response_end"/>
+      <bpmn:sequenceFlow id="fairness_response_flow0" sourceRef="response_start" targetRef="f3"/>
+      <bpmn:sequenceFlow id="fairness_response_flow1" sourceRef="f3" targetRef="f4"/>
+      <bpmn:sequenceFlow id="fairness_response_flow2" sourceRef="f4" targetRef="f5"/>
+      <bpmn:sequenceFlow id="fairness_response_flow3" sourceRef="f5" targetRef="response_end"/>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="fairness_record" name="Decision and accountability">
+      <bpmn:startEvent id="record_start"/>
+      <bpmn:task id="f6" name="Give the applicable statutory notification">
+        <bpmn:documentation>HPCAA ss121-122</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="f7" name="Record reasons and explain the change appropriately">
+        <bpmn:documentation>Proposed transparency safeguard</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:endEvent id="record_end"/>
+      <bpmn:sequenceFlow id="fairness_record_flow0" sourceRef="record_start" targetRef="f6"/>
+      <bpmn:sequenceFlow id="fairness_record_flow1" sourceRef="f6" targetRef="f7"/>
+      <bpmn:sequenceFlow id="fairness_record_flow2" sourceRef="f7" targetRef="record_end"/>
+    </bpmn:subProcess>
+    <bpmn:endEvent id="fairness_end"/>
+    <bpmn:sequenceFlow id="fairness_flow0" sourceRef="fairness_start" targetRef="fairness_status"/>
+    <bpmn:sequenceFlow id="fairness_flow2" sourceRef="fairness_response" targetRef="fairness_record"/>
+    <bpmn:sequenceFlow id="fairness_flow3" sourceRef="fairness_record" targetRef="fairness_end"/>
+    <bpmn:exclusiveGateway id="fairness_condition" name="Does the legal context require a response opportunity?"/>
+    <bpmn:sequenceFlow id="f_condition" sourceRef="fairness_status" targetRef="fairness_condition" name="Assess applicable duty"/>
+    <bpmn:sequenceFlow id="f_yes" sourceRef="fairness_condition" targetRef="fairness_response" name="Where required"/>
+    <bpmn:sequenceFlow id="f_no" sourceRef="fairness_condition" targetRef="fairness_record" name="No such duty established"/>
+    <bpmn:textAnnotation id="fairness_limit">
+      <bpmn:text>Normative assessment, not a finding that these events occurred or that every step is legally mandatory in every non-renewal. Renewal is not automatic. Missing released evidence does not prove absence of a hearing.</bpmn:text>
+    </bpmn:textAnnotation>
+  </bpmn:process>
+</bpmn:definitions>

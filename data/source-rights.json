@@ -1,0 +1,1424 @@
+{
+  "date": "2026-10-30",
+  "scope": "Individual source-group rights decisions; no blanket licence over source documents.",
+  "rows": [
+    {
+      "id": "S001",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/@/file/pPDrLx6qyvibZuRL",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "04aafb63e390dffd749cf7294434edef28c50e6b738c5fe8f6b81a98cde46cb8"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S002",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/contribute",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "67375368465b9cc82a907ca67a6965f27e1975bb8aad704f237ccdf3adbc0ec2"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S003",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://paperspast.natlib.govt.nz/newspapers/NENZC18490421.2.10",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S004",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.legislation.qld.gov.au/view/html/asmade/act-2022-022",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "fbd5cecb1a6955ac6644db96f948a1076905c7fd11032c9254cc3f89f7b62e7a"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S005",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.legislation.qld.gov.au/view/pdf/asmade/act-2022-022",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "0695669d948b83be73556d3acf2244367f05b039d46c3334b93971a5f912fce6"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S006",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.medicalboard.gov.au/Codes-Guidelines-Policies/Code-of-conduct.aspx",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "1b3967eae5f45cda6bb8f05a6bcb026190bde7c85a3653f3567d042401624ae4"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S007",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.legislation.qld.gov.au/view/whole/pdf/inforce/current/act-2009-hprnlq",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "135b09019dea96251ff36d6c0676a438c6c20b034c3cea68e2f37d716351120c"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S008",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/22043",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "66f997eedcc4d1c6ba563c33cf7d442c1c73940cb2c6473fdd51767e274cc05e"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S009",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.cpsbc.ca/news/publications/college-connector/2026-V14-02/01",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "92015cda8104eb59b2440dda7827e0c2a9fe4c97031ba80cfbdcae26e152fc0d"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S010",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.cpsbc.ca/files/pdf/CPSBC-PS-Indigenous-Cultural-Safety-Cultural-Humility-Anti-racism.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "aafc84bc1f7cdd19ea116a9947b06470f97c74e007089dbe19078660bea6856c"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S011",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://dcnz.org.nz/assets/Uploads/Competency-standards/Competencies-for-dental-specialists/Competencies-for-Endodontics-Jan23.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "a2d0c2029072cf132bcfe257b73c26a36bba17b4cc948cd48447250da683af6c"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S012",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://fyi.org.nz/request/34918",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "249f22e6dae6134c7f80ed01dd2753dbaf1b7ece9d37d55a0a75b333df01e409",
+        "e7c0110b022444fb12ba036af5cb70356a9fecfe20aeefd68295e23a92973c95"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S013",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://fyi.org.nz/request/34919",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "c162edb1b0be92a64a8b2ab50054e5f0cef32a092825f9afd6c445acdcfa0cf9",
+        "fe8b3b2835ba66b009c994e655562c483e0f093f5f732cb17f05906819d408d5"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S014",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "dc8d9e75b3e05095a709f7fd8be8c25282f44f0b22840e1d7783e0ac1dcb2a82"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S015",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "bbe274a1ce0a38c937a1cae8273dc4906c7403837a750590097ba17e6dcf3f9b"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S016",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.legislation.gov.uk/uksi/2008/2554/pdfs/uksi_20082554_en.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "655da8e975e31374bc95321b856e209cdf43c407087832e19c9716cc8b372637"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S017",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.legislation.gov.uk/uksi/2012/1654/pdfs/uksi_20121654_en.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "dcb30c8da1401a828e76550edf40366be7b6dc3be1d7d551b8c5a7a06fdab8ef"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S018",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "e50ad144d6489e1d22941d3c20977d9e9f812b9079c8bfd2c46b84ccdee4aaf1"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S019",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.irishstatutebook.ie/eli/2007/act/25/enacted/en/html",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "a27f2a99f342cf6f330bd75070f3662a6062410720e831ff7492a63721d8a549"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S020",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.irishstatutebook.ie/eli/2007/act/25/enacted/en/print.html",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "cb0f06519d0ce422aa5865a04f08ad357c40409ddbd8dd83a45bf3f2f1e26741"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S021",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.medicalcouncil.ie/news-and-publications/publications/guide-to-professional-conduct-and-ethics-for-registered-medical-practitioners-2024.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "ef5dc845cf9d8d5ab29cc1215c159dbb6b8ac8a2835355358f8500c8de313353"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S022",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.beehive.govt.nz/release/health-professionals-competency-assurance",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S023",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/assets/Archive/Statements/Good-Medical-Practice/1995-Medical-Practice-in-New-Zealand_.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "2ad021597251c2ca232ef4b7f2249343a207ea6b7ad1afe820ab48f4e4c1316a"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S024",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "component_review_required",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [
+        "147c11cc6a64f29e3917f74d9c49128a84e84f4e767dbcac583f08cfd283d14e"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S025",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "component_review_required",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [
+        "54472fe127400849ecac28b8d3b7b32deaa8470426e4a2b22cd42a1d1ef421db"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S026",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "ecad89ade1761d76182bd050fb9f43925027f6c5d32ac7b512873e58363ddecc"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S027",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "927e9f321b6eec7fd60a56f2737733baab9c7fd31feed6a25c82f3f9dc5ce393"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S028",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "84a1a71314279e460496f9e7ed5de3559c4201874ae1b0ec4385487e5870c000"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S029",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "a891f2d8f178584c9d1fd81a80f95471f98d29f333e8c8b42492fd5ab4b0e9dc"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S030",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "eaa14ef4b7b2a60bd418210ebba65cd295690fb9227598700fc1f74b5f66a357"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S031",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "0d56c3b4465a66d2d71f3d8c3790df72f63f7671f0a1679f349fd528599d74bd"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S032",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "a900d586ae9f651849d022268846d71895cb0321b6110a220abef0f824879ac4"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S033",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "98c3c329bee949b40e68bc7473adbbf8d99532940c6b0fafd0087690ed870bd9"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S034",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "5ef286016b1d79791897ec4116f421a9329f609cf64b3d7e1a84890f907e0241"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S035",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mja.com.au/system/files/issues/222_08/mja252617.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "f4522993f37718bef3b48fa467949745dd108b410b58ad37eda185ed51a3f08c"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S036",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "1d39431d5ed8036f5cce1d283b3e70faa789704b08a78ff3af1723c45e18409a",
+        "90d0b8a9e5337465da42dfff984663866a7f300dbce072439bfc898c3905a36d"
+      ],
+      "actual_archive_availability": "qualified_text_derivative"
+    },
+    {
+      "id": "S037",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "490d64ef66048ced48c1dd571ef8f3c96f459d4a1dea34e1b311c5654dab6d91"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S038",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "7c87b9c7e1544215a3a615c17ada04df166e7821fbdadd2134f3f1cb0fe799b4"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S039",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "7d1fb9aeba3a0abfe00d3bc8df8784c1a008564218ebedee4989cc81bb835268"
+      ],
+      "actual_archive_availability": "qualified_text_derivative"
+    },
+    {
+      "id": "S040",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "not recovered from retained provenance",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "c2f5009ffa721d6f69152f052db934720db6a6388b774c5a7b8e2bfc1cbd7a93"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S041",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://jcpc.uk/uploads/jcpc_2015_0056_judgment_3c54ea7834.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "3d15bc28d8b6e17e918ca0913a3eb2b5ea895bbc373df6100274141fcca4eb4a"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S042",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "67aefb13bafb33e01daa01427851a641295bff857de99222cc24c6ceaf88808d"
+      ],
+      "actual_archive_availability": "qualified_text_derivative"
+    },
+    {
+      "id": "S043",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.publicservice.govt.nz/guidance/guide-board-appointment-and-induction-guidelines/appointing-candidates",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "2b33e80ed31607bebc591f0c9dbf9f0c8f36dca9639fdd7400a4ff2bf16d3947"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S044",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "5a33ee9ef3f4a3656da48059db0b42521671c161403f44925127b816a12320c5"
+      ],
+      "actual_archive_availability": "exact_judgment_pdf"
+    },
+    {
+      "id": "S045",
+      "rights_basis": "CC BY-NC-ND 4.0 reported in retained rapid review",
+      "rights_evidence_url": "https://www.safetyandquality.gov.au/sites/default/files/2026-09/rapid-literature-review-and-environmental-scan-national-cultural-safety-standard-report.pdf",
+      "rights_evidence_text": "NonCommercial and NoDerivatives conditions; third-party exclusions must be preserved.",
+      "recommendation": "conditional_restricted_licence",
+      "uncertainty": "Destination reuse model and full document credit lines must be reconciled with NC/ND before upload.",
+      "retained_file_hashes": [
+        "51c08329cdbd865226192c9cc198290f43dbc34970cd28e567190eb8df42ee69"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S046",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://m.scoop.co.nz/stories/PA2606/S00112/act-welcomes-medical-council-reset.htm",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "ef4d0e4b85fb9a735a52faa872a75b6e181c347229687ace87659974be15a5ae"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S047",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.scoop.co.nz/stories/GE2606/S00050/ministers-attack-on-medical-council-sets-dangerous-precedent.htm",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "a430d1946a7cc8b72782d20fed35d42140fc70a1e97317272782bc616f7d75a9"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S048",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.nzdoctor.co.nz/article/opinion/letters/when-professional-regulation-becomes-political",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "2a1311020eac7f102ee2eef5f41b7f3c17dc4bba727948d6b3e91e15fd919fbd"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S049",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.democracyaction.org.nz/ensure_doctors_focus_on_patients_not_politics_have_your_say",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "662278870a78470f81742c0cd66f6f333fd385c815a48bfd299edfc79d8340a9"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S050",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://alittlesunlight.substack.com/p/when-appointments-become-warnings",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "295fa59cbbafeffb727159292010d48b761858d3aa1da32f2fbe8694ae8b7ecd"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S051",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1629/balancing-rights-and-governance-comparative-analysis-of-open-disclosure-frameworks-in-australia-and-new-zealand",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "c68e004c570a9bbabc137f089df75fd6ead421e5df53ec590777224aac9df8db"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S052",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1636",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "946709c5855c77440d9f0bc12f3f460756e2f59c9c388c54159cdc3b4a62befc"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S053",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1637",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "49a0a9579b4e12c84a7df2d55f86a7df6c92a0a9ab54be787914341c32c778ba"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S054",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1638",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "b0a93d801083024b1e1e5172499fc3dd3b70057c73501b728874f48d51bba637"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S055",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1639",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "65cc4b3cefe85b0b190fc21a610348158c973de0cc8ee49a5dd2ae6d072f2cae"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S056",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1640",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "83fdd67289aa49fffafe333a1798960ad5a370d3b228f6ead14b63d7d3c326dc"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S057",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1641",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "262d36865e140bfb245d75df67326c7aec98ff3d543da5176fc42bcf2f00edd1"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S058",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1642",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "c72477971a176572a16c8059921addb19d6d836519ea493b132d3c957b36f4b8"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S059",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1643",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "c0adef2f3f70fa980f6c01a5498f31e7861d6b00993d6c644bf3faaee6043851"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S060",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1644",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "de375f676af99c8b4c3db762cfc0cd1e3585bb45d3d46957893a93e5c64a64a8"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S061",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.linkedin.com/pulse/mr-brown-does-again-frances-matthews-14x3f",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "c52cedfb87a844b29e0064b7cde29d8a8c09519d8e147244262837dafcd09a41"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S062",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.nzdoctor.co.nz/article/opinion/letters/memo-minister-legislation-sets-medical-councils-responsibilities-including",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "e3022f9d91a1aca960860ede4d3325d10c1fd5be5d6f4e8ade6e9fad17fedcfc"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S063",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/about-us/news-and-updates/what-doctors-and-patients-told-us-about-the-core-ethical-standards-good-medical-practice/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "45ef8bdc79659576e2cedad6ddce1bb587359eb5a4f72f51fa236b6c4c712bfc"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S064",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1638/discrediting-science-as-ideology-when-evidence-becomes-politically-inconvenient",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "a6b821ce235d6c10565eb09fd841748ecaad4373fe5330c1ae42287ed37dc8d7"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S065",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1637/implementing-a-cultural-safety-training-plan-across-medical-colleges-in-aotearoa-new-zealand-looking-back-and-looking-forward",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "090ad97cacb6f60b6de4956fd8ae582b61565006eb0d409f594bf222a4efe3eb"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S066",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1636/listening-to-patients-and-doctors-how-voice-strengthens-good-medical-practice",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "ee874bf7b0bdd0247fe207411fb1164f75777744e1f5de9ecf1db144f16a8347"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S067",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1644/the-minister-of-health-and-the-medical-profession",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "903b94a0bb899042bbed68d7f955e521b66c33ed56e26e1074de160e190a811d"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S068",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://nzmj.org.nz/journal/vol-139-no-1640/whitia-kia-ora-a-culturally-responsive-model-of-bicillin-l-a-delivery-for-people-with-rheumatic-fever-in-the-waikato-region-of-a",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "af68c7f8dfc1e07f648a02f5bd44c4d0d50d11d1069c2576fc9aa6b026af20a3"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S069",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.nzdoctor.co.nz/article/undoctored/ministers-interference-medical-council-independence-real-political-agenda",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "a54c3ee915e2f60c65cfbafb5e62c351c5cc9e1a22eec7cd7fe39a56c5296e1c"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S070",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.nzwim.org.nz/mcnz-statement",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "bf51d99b68900a93d222d13f9a13376fa4aa716524db7cae91eb7d5c8c717e51"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S071",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.scoop.co.nz/stories/GE2606/S00053/doctors-warn-of-backwards-step-after-medical-council-leadership-shake-up-over-ideological-agenda.htm",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "c1cfc5d1fa79ac319f233906458711c1582b7fd854361ba48dc668c8fe873f9f"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S072",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.rnzcgp.org.nz/news/media-releases/college-statement-on-changes-to-medical-council-leadership/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "cd8560d0da647ef5be481836753def211d1850b151e2bbc2be326be24039ed77"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S073",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.teaonews.co.nz/2026/06/17/simeon-brown-accused-of-political-interference-over-medical-council-chair-decision/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "2c35ead2327aeebf6edde9520be869ef1be472c40e420c814f008279feccdbd8",
+        "34f76e8ef312dedbbe19463ebce23dc0716f976efdbb854c42b681f52c3a4880"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S074",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://ourarchive.otago.ac.nz/esploro/outputs/journalArticle/Cultural-safety-the-LGBTQI-community-and/9926720344101891",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "af1743206dc653d1e48304d896aa243be2755efd6ca1937752ee5f90cf72a52f"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S075",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.beehive.govt.nz/release/appointments-made-medical-council",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "cf0b5b1fe7d02ddaef1e2d0f7e135bdf8fa8bd5759dd03f6fe8a44923523e33b",
+        "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S076",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://online.flippingbook.com/view/880804364/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "no_usable_full_copy",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "70dc0451c609c94c7b4025e94eb9ed5a0bfc1b32fe3879ec9433661c2f08df04"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S077",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "conditional_ministry_text",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [
+        "1f90f48b8f5839e8a82c4e9b9bb004f5943df4413ba027b83abe72f1c0fc5aae"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S078",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "not recovered from retained provenance",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "6aa836f3b8cc072c32d44cf0947e1d9fd3f52167a9d5192e98aa44d2fc0f5b8d"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S079",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/assets/Publications/Strategic-Plans/MCNZ-Strategic-Plan-website.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "19e478c1027d37a20012ebf92d305706de1ab7d83b21eb3badb4e9eb97c71f21"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S080",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/about-us/news-and-updates/independent-review-confirms-medical-councils-strong-performance/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "8bc6091298422921e445daab0d0cb8df2ddc2e78cd64cdc5aac22549cd1fa257"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S081",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "component_review_required",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [
+        "dfe5cda7a8af4a170c6c408c49b88026bf933f9d11ccefb38744844feda2c1f9"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S082",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/about-us/consultations/consultation-draft-statements-on-cultural-competence-cultural-safety-and-hauora-maori/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "1247b2a731670fe8de51fbd403734d405cba4c5fcafcdd8558ffd0b8257d4ce2"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S083",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/assets/Publications/Reports/Medical-Council-RA-Review-Report.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "793562c95d5c7c063483d7ce0deeeb1be6806a7e1b1b0fb55568859a4c9716bf"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S084",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/about-us/publications/newsletters/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "5b84a8361735d5ee17415e675b7ee851d04f92c8831b0f0a5234fe6f69446eae"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S085",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "component_review_required",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [
+        "0045feb3ff1fe71ac00e90f54af51a1a7ff9fb03149c6438b5afabb9c86f514d"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S086",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "component_review_required",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [
+        "3875e8448824ae083ff6d63a07b21e5c7884e5cb1b68a4473d3c639225ea4334"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S087",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.nursingcouncil.org.nz/NCNZ/News-section/news-item/2026/10/Performance-Review-finds-the-Council-s-core-regulatory-work-is-operating-well.aspx",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "53326d0c3cee390efd926941c27d288d6ce5ef328dfc694764c2c1b526b263dc"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S088",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/about-us/publications/strategic-plans/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "6fc23fb3369c0e3fef5b1289eed07875c26fd2d49b89f468bcfd5472af0adcd8"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S089",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "conditional_ministry_text",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [
+        "c2b7f8045dce2528319874621f3a877df3702b943e6faa36303bacdcbf42ce58"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S090",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "component_review_required",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [
+        "1b4f2efff04b1ee3a74e85bc0822600b365b8ccca022c2107c2378e14170efb9"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S091",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "component_review_required",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [
+        "8d4859cca8ef0d4aa47e009aae080de975b1b0e53ab241e4f16ee793d8020b90"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S092",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "5b5de178e37075bdd4ce05cd20f758f3e74a5b23fc91b51b6185482a3657e38e"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S093",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "f69e26a9d89bfb0072e8fa71b6ac6c6a9cd19f7a46ccadd2b02c590d0b76f7a3"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S094",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "7f70a77868a0ab508d77ccaf11a76a251d4eb174a64b6cd46b0354587fc201b1"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S095",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/about-us/news-and-updates/new-chair-and-deputy-chair-appointed/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "e5f6fe5817f0682d93f29c76bf897568e9f9fcaf41aa9ebfc60fde621ac62a28"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S096",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://pubmed.ncbi.nlm.nih.gov/20048271/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "37f4401380887e7bc793cae0a00c4a90504302551e70e9194ac901460dcaca63"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S097",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://pubmed.ncbi.nlm.nih.gov/38191406/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "309df4368541193b11aa2bca91c73e68b24a8904c30d327c71d1eb66756719ff"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S098",
+      "rights_basis": "Article-specific CC BY 4.0",
+      "rights_evidence_url": "https://link.springer.com/article/10.1186/s12916-023-03193-y",
+      "rights_evidence_text": "Article permits distribution with author/source attribution, licence link and changes indicated; third-party credit-line exceptions apply.",
+      "recommendation": "eligible_article_text_not_site_wrapper",
+      "uncertainty": "Stored HTML includes Springer website wrapper; article licence does not necessarily license that wrapper or separately credited material.",
+      "retained_file_hashes": [
+        "3ec0f81382f3993f025627109266e144ba172d0e1caae62abe1326d2558ad141"
+      ],
+      "actual_archive_availability": "qualified_text_derivative"
+    },
+    {
+      "id": "S099",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "cf3afe07370017e147da0410faa9bad1ae7e7d0025f260eea024b9e1f8dade57"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S100",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "0d8a841b86ad479c59dc355b3ed3d20cb50418788722a580c3abf42c0dcf0f5d"
+      ],
+      "actual_archive_availability": "qualified_text_derivative"
+    },
+    {
+      "id": "S101",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/about-us/publications/gazette-notices/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "1fb706cabf4beb580547974ddab06a37fba456fa82be82e63d34312c671ff81f"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S102",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.mcnz.org.nz/about-us/news-and-updates/",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "96a0c153122928d79b879dfe59e68dc1fa3342bc3f5c1824ad0d9ef8eaea542d"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S103",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://bills.parliament.nz/v/6/766996e2-c88d-4adc-ccf1-08deb47e5457?Tab=history&lang=en",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "50945b8fa3c3f647f61e981c690cb5a2d932e91678bffa0228d7518f7e7a0a11"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S104",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.rnz.co.nz/news/health/598355/concerns-raised-over-minister-s-replacement-of-medical-council-leadership",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "no_usable_full_copy",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S105",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.odt.co.nz/news/national/senior-doctor-slams-replacement-medical-councils-leadership-rnz",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "no_usable_full_copy",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S106",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.stuff.co.nz/politics/360993290/simeon-brown-removes-medical-council-leaders-over-idealogical-agenda",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "no_usable_full_copy",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S107",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.thepost.co.nz/politics/361024008/simeon-brown-ousts-medical-council-leadership-over-ideological-agenda",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "no_usable_full_copy",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S108",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.dpmc.govt.nz/publications/co-26-4-management-parliamentary-business-after-dissolution-parliament",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "67edad2397597404cba9c4db21c4fb0e58b62934347604edba1a5072082a75ba"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S109",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "conditional_ministry_text",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S110",
+      "rights_basis": "Ministry of Health website CC BY 4.0 with exceptions",
+      "rights_evidence_url": "https://www.health.govt.nz/about-this-site/copyright",
+      "rights_evidence_text": "Default Creative Commons Attribution 4.0; exceptions include third-party content, logos and photographic/graphic work.",
+      "recommendation": "conditional_ministry_text",
+      "uncertainty": "Website licence does not settle ownership of every embedded email, CV, commissioned report, signature, logo or attachment.",
+      "retained_file_hashes": [],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S111",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://assets.ctfassets.net/49ei4dhxj2cb/3bbeMLW8VS5oOEr8mlUA26/0f49c6c2c8a976001e0bf46d9a3530b3/Interim_Secondary_Legislation_Web_Specifications_V_1.11_-_March_2026.pdf",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "a8cea10bcf2b7257d4812363218e1a4c51ebadd2b5cc1cc91f809a74c322e5cd"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S112",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "c587a15d6564daeb97625899324f3428f0fe3eb7d93dcc6bdd25b42d686fad59"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S114",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://www.dpmc.govt.nz/publications/appointments-process",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "link_metadata_only",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "cf0b5b1fe7d02ddaef1e2d0f7e135bdf8fa8bd5759dd03f6fe8a44923523e33b"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S115",
+      "rights_basis": "No source-specific redistribution permission established",
+      "rights_evidence_url": "https://gazette.govt.nz/home/Search?keyword=Rachelle%20Love",
+      "rights_evidence_text": "No positive licence evidence recorded in this bounded review.",
+      "recommendation": "no_usable_full_copy",
+      "uncertainty": "Rights not established, not a finding that reproduction is necessarily prohibited.",
+      "retained_file_hashes": [
+        "d84f41ca3d9cb800177463f0afeb387d95969c91b973ab55eb53bd63d103bdfc"
+      ],
+      "actual_archive_availability": "metadata_and_available_source_link"
+    },
+    {
+      "id": "S116",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "9d3d18c72408873a3ae8ecf9b000a246527eb9f78a8ce59212aae813fd53487f"
+      ],
+      "actual_archive_availability": "exact_judgment_pdf"
+    },
+    {
+      "id": "S117",
+      "rights_basis": "Copyright Act 1994 section 27",
+      "rights_evidence_url": "https://www.mbie.govt.nz/business-and-employment/business/intellectual-property/copyright/copyright-protection-in-new-zealand",
+      "rights_evidence_text": "No copyright in the specified NZ legislative, parliamentary and judicial texts; separate reprint typography and website assets are not covered.",
+      "recommendation": "eligible_legislative_or_judicial_text",
+      "uncertainty": "Check exact file is official text, not privately typeset reprint; suppression/privacy restrictions are independent.",
+      "retained_file_hashes": [
+        "d1d3e713c4e06589a62a754af3b783fbcfa6b9b9bf31bebfe154cbee739b7ee8"
+      ],
+      "actual_archive_availability": "exact_judgment_pdf"
+    },
+    {
+      "id": "S118",
+      "rights_basis": "Specified judicial or legislative text within Copyright Act 1994 section 27; exact file not separately allowlisted here.",
+      "rights_evidence_url": "https://www.legislation.govt.nz/act/public/1994/143/en/latest/",
+      "recommendation": "metadata_and_source_link_only",
+      "actual_archive_availability": "metadata_and_source_link_only",
+      "retained_file_hashes": [
+        "2c54cc6693084e5937d36f3367312e49f3775f20d72af9f6a41546470bf2ad63"
+      ],
+      "uncertainty": "Website wrappers and any independent publication restrictions require separate consideration."
+    },
+    {
+      "id": "S119",
+      "rights_basis": "Specified judicial or legislative text within Copyright Act 1994 section 27; exact file not separately allowlisted here.",
+      "rights_evidence_url": "https://www.legislation.govt.nz/act/public/1994/143/en/latest/",
+      "recommendation": "metadata_and_source_link_only",
+      "actual_archive_availability": "metadata_and_source_link_only",
+      "retained_file_hashes": [
+        "8e27898b013431764cd337214b2010e2ce150fb2a96934b9f8ec53d0212ad1b8"
+      ],
+      "uncertainty": "Website wrappers and any independent publication restrictions require separate consideration."
+    },
+    {
+      "id": "S120",
+      "rights_basis": "Specified judicial or legislative text within Copyright Act 1994 section 27; exact file not separately allowlisted here.",
+      "rights_evidence_url": "https://www.legislation.govt.nz/act/public/1994/143/en/latest/",
+      "recommendation": "metadata_and_source_link_only",
+      "actual_archive_availability": "metadata_and_source_link_only",
+      "retained_file_hashes": [
+        "b69af4dc88c5c625f4fdd6a6ee5b2ff623d8011f4c6345a65b01a7c324374cac"
+      ],
+      "uncertainty": "Website wrappers and any independent publication restrictions require separate consideration."
+    }
+  ]
+}

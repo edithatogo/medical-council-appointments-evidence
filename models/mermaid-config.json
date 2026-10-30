@@ -1,0 +1,1 @@
+{"theme": "base", "themeVariables": {"fontFamily": "Times New Roman", "fontSize": "20px", "primaryTextColor": "#000", "lineColor": "#222", "edgeLabelBackground": "#fff", "clusterBkg": "#fff", "clusterBorder": "#999"}, "flowchart": {"htmlLabels": true, "curve": "linear", "nodeSpacing": 30, "rankSpacing": 32, "wrappingWidth": 340}}

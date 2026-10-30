@@ -1,0 +1,207 @@
+[
+  {
+    "id": "LP-01",
+    "issue": "Was a new appointment completed?",
+    "classification": "threshold factual and legal classification",
+    "legal_rule_or_proposition": "s120(1)(a) appointment by Gazette notice; s121(1) specifies taking-office date in notice, or publication date if none specified. Ministerial selection, briefing signature and consultation are distinct steps.",
+    "source_locators": [
+      "hpcaa-may2026:ss120(1),121(1)",
+      "appointments:Documents 7–10; email1May at text2045–2085"
+    ],
+    "documented_process": "Released email1May reports signature the previous night and consultation. Selection/reversal chronology is separately being reconciled.",
+    "missing_facts": "Love-specific completed Gazette appointment, instrument, letter communicated to her, exact effect and any acceptance. Other candidates’ acceptance cannot establish hers.",
+    "claim_boundary": "Do not equate signature with completed appointment or declare there was none solely from missing located instrument. If completed appointment established, reopen removal/revocation analysis before alleging unlawful reversal.",
+    "proposed_safeguard": "Record each legal and administrative stage separately, with actor, evidence and event status."
+  },
+  {
+    "id": "LP-02",
+    "issue": "Consideration of candidacy",
+    "classification": "express statutory duty",
+    "legal_rule_or_proposition": "Before appointing a member, Minister must publish nomination invitation and consider every nomination received by deadline.",
+    "source_locators": [
+      "hpcaa-may2026:s120(3)"
+    ],
+    "documented_process": "Shortlist records Love seeking reappointment and positively describes experience (appointments PDFpp8,12).",
+    "missing_facts": "Formal nomination status, assessment, actual final decision record and reason for changing course.",
+    "claim_boundary": "Positive assessment is relevant contrary evidence, not entitlement to selection or evidence every statutory step was satisfied.",
+    "proposed_safeguard": "Record criteria, assessment and why a proposed selection changed."
+  },
+  {
+    "id": "LP-03",
+    "issue": "Expiry and holdover",
+    "classification": "express statutory rule",
+    "legal_rule_or_proposition": "Term may be up to3years; reappointment permitted subject to9consecutive-year limit. After expiry continues until reappointed, successor appointed or Minister informs incumbent in writing of non-renewal.",
+    "source_locators": [
+      "hpcaa-may2026:s121(2)"
+    ],
+    "documented_process": "27May email sends non-reappointment letter (Document12,PDFpp71–72).",
+    "missing_facts": "Original instrument and preceding expiry; receipt/effect of written notice; possible completed new appointment.",
+    "claim_boundary": "No automatic renewal entitlement. Do not conflate expiry with cessation while holdover applies.",
+    "proposed_safeguard": "Provide clear written status and effective date, distinct from future chair election."
+  },
+  {
+    "id": "LP-04",
+    "issue": "Removal versus non-renewal",
+    "classification": "express statutory distinction",
+    "legal_rule_or_proposition": "s122(3) removal for inability, neglect or misconduct proved to Minister; s122(4) inadequate-performance removal requires authority concurrence.",
+    "source_locators": [
+      "hpcaa-may2026:s122(3)–(4)"
+    ],
+    "documented_process": "Current evidence is described as non-reappointment; threshold remains subject to completed-appointment check.",
+    "missing_facts": "Whether a fresh legally effective term had begun, and legal basis of any purported revocation.",
+    "claim_boundary": "Do not import removal grounds into every non-renewal; do not infer a device to evade removal protection without evidence.",
+    "proposed_safeguard": "Identify legal route in decision record and apply its actual prerequisites."
+  },
+  {
+    "id": "LP-05",
+    "issue": "Notice of adverse grounds and response",
+    "classification": "conditional natural-justice obligation",
+    "legal_rule_or_proposition": "NZBORA s27(1) and common law require contextual assessment of protected/recognised interests, statutory power and circumstances. Adverse allegations may require meaningful opportunity to answer; not necessarily oral hearing or all documents.",
+    "source_locators": [
+      "nzbora:s27(1)–(2)",
+      "wyeth:[40]–[43],[55]–[58]",
+      "maharaj:comparative judicial non-reappointment case; not NZ controlling authority"
+    ],
+    "documented_process": "Released non-adverse-contribution assurance conflicts with a simple account of personal performance punishment. Public criticism of Council work is not necessarily a personal allegation relied upon.",
+    "missing_facts": "Adverse material actually relied upon, its communication, any representations and consideration, applicable representations or established practice about process.",
+    "claim_boundary": "No universal hearing entitlement established; no conclusion of breach from absent released records. Absence of renewal entitlement does not itself negate fairness.",
+    "proposed_safeguard": "Where adverse grounds inform candidacy, explain substance, allow a reasonable response and document genuine consideration."
+  },
+  {
+    "id": "LP-06",
+    "issue": "Reasons, records and redactions",
+    "classification": "proposed good practice with conditional legal obligations",
+    "legal_rule_or_proposition": "Neither reviewed HPCAA text nor Wyeth establishes an automatic public full-reasons or all-documents rule for every non-renewal. Disclosure and reasons duties require their own applicable basis.",
+    "source_locators": [
+      "hpcaa-may2026:ss120–122",
+      "wyeth:[40]–[43],[55]–[58]",
+      "ministry-final-response:text210–220"
+    ],
+    "documented_process": "Substantial request portions refused under18(f); published records include redactions and proposed-process documents.",
+    "missing_facts": "Unreleased actual APH minute, final reasons and communications.",
+    "claim_boundary": "“Not located in the released record” is not “did not exist”. OIA request completeness is not procedural-fairness completeness.",
+    "proposed_safeguard": "Retain clear contemporaneous reasons and release an appropriate explanation subject to lawful privacy/confidentiality limits."
+  },
+  {
+    "id": "LP-07",
+    "issue": "Freedom from prejudgment",
+    "classification": "conditional fairness and factual inference",
+    "legal_rule_or_proposition": "Where fairness applies, opportunity to respond must be meaningful; policy views alone do not establish unlawful bias in a political decision-maker.",
+    "source_locators": [
+      "wyeth:[40]–[43] (contextual framework)",
+      "unison:[50]–[55] (purpose, not bias ruling)"
+    ],
+    "documented_process": "Policy criticism and subsequent non-renewal are documented separately.",
+    "missing_facts": "Evidence Minister refused to consider relevant response; precise timing and relation between policy statements and individual decision.",
+    "claim_boundary": "Do not apply judicial impartiality mechanically to Ministers, or infer motive solely from event order. This is bounded application, not a new holding attributed to these cases.",
+    "proposed_safeguard": "Separate policy disagreement, institutional performance and individual conduct in the decision record."
+  },
+  {
+    "id": "LP-08",
+    "issue": "Appointment versus leadership election",
+    "classification": "express allocation of powers",
+    "legal_rule_or_proposition": "Minister appoints Council members; chair and deputy elected by authority under Schedule3.",
+    "source_locators": [
+      "hpcaa-may2026:s120 and Schedule3 clause3"
+    ],
+    "documented_process": "Council June announcement records election of new chair/deputy; appointments release PDFp82.",
+    "missing_facts": "Exact election meeting/minutes if detailed procedural claims proposed.",
+    "claim_boundary": "Do not state Minister directly appointed Council chair or dismissed that office when evidence concerns membership.",
+    "proposed_safeguard": "Diagram separate Minister/member and Council/leadership actors and decision points."
+  },
+  {
+    "id": "LP-09",
+    "issue": "Statutory standards function",
+    "classification": "existing statutory function",
+    "legal_rule_or_proposition": "s118(1)(i) assigns authority standards of clinical competence, cultural competence including effective respectful interaction with Māori, and ethical conduct.",
+    "source_locators": [
+      "hpcaa-may2026:s118(1)(i)",
+      "Historical law version, commencement provisions and transition guidance checked separately; see the corresponding catalogue entries"
+    ],
+    "documented_process": "Relevant operative text unchanged across retained May/June/current2026 versions.",
+    "missing_facts": "Evidence of an actual instruction or abandonment beyond authorised review of draft wording.",
+    "claim_boundary": "Criticising a specific draft is not necessarily rejecting statutory function. Cultural safety wording and statutory cultural competence need explicit contextual distinction.",
+    "proposed_safeguard": "Evaluate standards on evidence and statutory purpose; distinguish legitimate scrutiny from pressure to cease assigned work."
+  },
+  {
+    "id": "LP-10",
+    "issue": "Performance review chronology",
+    "classification": "express duty plus factual limit",
+    "legal_rule_or_proposition": "s122A(6) requires reviewer to give report to Minister and authority as soon as practicable; authority publishes as soon as practicable after receipt.",
+    "source_locators": [
+      "hpcaa-may2026:s122A(4)–(7)"
+    ],
+    "documented_process": "Review12–13May; final report5June in existing source record; positive core-function rating is contrary evidence to blanket failure.",
+    "missing_facts": "Delivery/receipt dates, preliminary communication, knowledge on appointment dates; performance of authority versus individual.",
+    "claim_boundary": "Statutory reporting duty does not prove date of actual receipt or Minister knew later final conclusions before decisions.",
+    "proposed_safeguard": "Identify timing, assessment subject and actual material available when deciding."
+  },
+  {
+    "id": "LP-11",
+    "issue": "Existing oversight and directions",
+    "classification": "express conditional powers",
+    "legal_rule_or_proposition": "ss123–126 provide statistical information, compliance audit, reasoned concern/response after audit and optional conciliation. ss127–129 allow narrower overlapping-scope dispute directions with preconditions, consultation, Gazette publication and tabling.",
+    "source_locators": [
+      "hpcaa-may2026:ss123–129"
+    ],
+    "documented_process": "No case-specific exercise of these procedures established in this review.",
+    "missing_facts": "Any actual audit notice, response, conciliation or direction.",
+    "claim_boundary": "Not a requirement to exhaust all routes before non-renewal; incorrect to say Minister had no direction powers at all.",
+    "proposed_safeguard": "Use appropriate statutory route for institutional dispute; show conditional subprocesses rather than invented observed events."
+  },
+  {
+    "id": "LP-12",
+    "issue": "Purpose limits",
+    "classification": "public-law principle applied conditionally",
+    "legal_rule_or_proposition": "Discretion must serve statutory scheme; concurrent objectives permissible if statutory policy not frustrated.",
+    "source_locators": [
+      "unison:[50]–[55], final outcome"
+    ],
+    "documented_process": "Institutional deterrence argument may be advanced as reasoned concern.",
+    "missing_facts": "Evidence showing decision purpose or actual suppression of statutory functions.",
+    "claim_boundary": "Unison is electricity regulation and regulator succeeded. It does not adjudicate these appointments; political disagreement alone insufficient.",
+    "proposed_safeguard": "Require explanation connecting appointment decisions to lawful governance rather than suppression of statutory work."
+  },
+  {
+    "id": "LP-13",
+    "issue": "Proposed HPCAA reforms",
+    "classification": "proposal not existing authority",
+    "legal_rule_or_proposition": "Bill287 proposes removing Māori-specific parenthesis, applying specified Crown Entities provisions and broader government-policy directions with safety/quality consideration and exclusions for particular individual/qualification.",
+    "source_locators": [
+      "hpcaa-bill-current:clauses20–23; text925–980"
+    ],
+    "documented_process": "Preserved Bill text includes proposals and stated safeguards.",
+    "missing_facts": "Latest parliamentary stage/assent/commencement must be linked to catalogue evidence before any claim of enactment.",
+    "claim_boundary": "A Bill neither grants current authority nor retrospectively validates action. New direction power is broader but not unlimited. Do not apply all Crown Entities appointment/removal provisions wholesale.",
+    "proposed_safeguard": "Keep proposed-law lane separate and date each proposed clause."
+  },
+  {
+    "id": "LP-14",
+    "issue": "Preparation versus bypassing Parliament",
+    "classification": "constitutional distinction",
+    "legal_rule_or_proposition": "Executive may develop legislation. Existing rights/powers can remain reviewable despite proposal; courts do not dictate what legislation is introduced.",
+    "source_locators": [
+      "ngati-whatua:majority[36]–[49],[67]; EliasCJ[116]–[119] separately identified",
+      "unison:[50]–[55]"
+    ],
+    "documented_process": "Sequence of reform proposals and Council changes alone does not establish unlawful anticipation.",
+    "missing_facts": "Specific decision, lawful power claimed, operative legal effect, evidence of instruction and causal connection.",
+    "claim_boundary": "Ngāti Whātua was strike-out appeal and not merits ruling on these appointments. Fitzgerald discussion belongs to EliasCJ’s reasons, not an undifferentiated majority holding.",
+    "proposed_safeguard": "Classify each action as preparation, exercise of existing power, proposed power or unresolved."
+  },
+  {
+    "id": "LP-15",
+    "issue": "Publication transition",
+    "classification": "enacted framework with staged commencement; official transition guidance",
+    "legal_rule_or_proposition": "Legislation Amendment Act2026 received assent16March. Section2 sets staged commencement: listed provisions17March; most remaining provisions default2November2026 unless commenced earlier; specified sections have later2031 backstop. PCO version1.11 explains default new publication requirements2November2026 and existing-stock transition by2November2027 unless timing varied with PCO.",
+    "source_locators": [
+      "M0205:Legislation Amendment Act2026 s2(1)–(5)",
+      "M0218:Interim Secondary Legislation Web Specifications v1.11,24March2026,Transition section PDFp1–2",
+      "hpcaa-may2026:s118(2); website explanatory notes are not Act text"
+    ],
+    "documented_process": "Enacted publication reform supplies a distinct explanation for preparatory standards-publication work. Sources independently read and exact hashes checked.",
+    "missing_facts": "Any applicable earlier commencement order or agreed agency-specific stock-transition date; exact application to each MCNZ instrument. No unqualified claim all provisions commenced2November.",
+    "claim_boundary": "Publication compliance/preparation is not proof of using unpassed HPCAA Bill powers, nor itself evidence substantive cultural-competence function was removed. Default dates are not proof of MCNZ-specific variation or substantive repeal.",
+    "proposed_safeguard": "Give publication and substantive-policy changes distinct event IDs, enabling provisions and commencement statuses."
+  }
+]

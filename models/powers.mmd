@@ -1,0 +1,19 @@
+flowchart TB
+subgraph powers_identify["Identify the governing law"]
+p1["Identify the decision date and power being exercised<br/>HPCAA decision-date version"]
+p2["Separate an enacted law from a proposed Bill<br/>HPCAA Bill287-1"]
+p1 --> p2
+end
+subgraph powers_classify["Assess the documented action"]
+p3["Identify preparation, advocacy, appointment or direction<br/>Action/source matrix"]
+p4["Check actual legal basis and statutory purpose<br/>HPCAA and Unison paras50-55"]
+p3 --> p4
+end
+subgraph powers_outcome["Evaluate Council action"]
+p5["Check standards, work programmes and explanations<br/>MCNZ consultation outcome"]
+p6["Test alternative explanations and retain contrary evidence<br/>Publication-law transition;2019statement retained"]
+p5 --> p6
+end
+p2 --> p3
+p4 --> p5
+classDef default fill:#ffffff,stroke:#343434,color:#000000,font-family:Times New Roman;

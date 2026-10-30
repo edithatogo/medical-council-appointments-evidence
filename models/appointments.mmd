@@ -1,0 +1,19 @@
+flowchart TB
+subgraph appointments_assessment["Ministry assessment and ministerial selection"]
+a1["Ministry recommends candidates<br/>APPT-02"]
+a2["Minister selects Love for assessment<br/>APPT-04"]
+a3["Ministry records 28 April selection for reappointment<br/>APPT-07"]
+a1 --> a2
+a2 --> a3
+end
+subgraph appointments_consideration["Consultation and APH consideration"]
+a4["Office reports signing and consultation<br/>APPT-09"]
+a5["Office reports Love did not progress at APH<br/>APPT-12"]
+a4 --> a5
+end
+subgraph appointments_notification["Written notification"]
+a6["Minister notifies Love of non-reappointment<br/>APPT-15"]
+end
+a3 --> a4
+a5 --> a6
+classDef default fill:#ffffff,stroke:#343434,color:#000000,font-family:Times New Roman;

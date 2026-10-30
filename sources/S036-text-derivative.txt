@@ -1,0 +1,644 @@
+TEXT DERIVATIVE, NOT ORIGINAL FILE OR COMPLETE FACSIMILE
+Source ID: S036
+Title: Health Practitioners Competence Assurance Amendment Bill
+Issuer: New Zealand Parliament / Parliamentary Counsel Office
+Source URL: https://www.legislation.govt.nz/bill/government/2026/287/en/latest/
+Retained source SHA256: 1d39431d5ed8036f5cce1d283b3e70faa789704b08a78ff3af1723c45e18409a
+Prepared: 2026-10-30
+Rights: New Zealand Copyright Act 1994, section 27: specified legislative text has no copyright. This is not an Apache-2.0 licence grant.
+Changes: HTML converted to plain text; whitespace normalised; images and website wrapper excluded. No substantive rewriting.
+Selection: Entire div#legislation, including schedules and editorial/version notes present there; website wrapper excluded.
+
+Health Practitioners Competence Assurance Amendment Bill
+Government Bill
+287—1
+Explanatory note
+General policy statement
+The Health Practitioners Competence Assurance Amendment Bill (the Bill) amends the Health Practitioners Competence Assurance Act 2003 (the Act).
+The key objectives of the Bill are to—
+better align health workforce regulation with patient needs, health system policy, and Government priorities:
+ensure that regulation is responsive to support innovative health services:
+ensure efficient recognition and registration of health practitioners.
+The Bill seeks to achieve those objectives by—
+providing that responsible authorities (regulators) under the Act will be subject to accountability and directive requirements, similar to Crown agents:
+establishing a ministerial committee that can review an authority’s decision to refuse a practitioner’s registration and certain decisions relating to scopes of practice:
+making minor and technical amendments that will support the operation of responsible authorities.
+Responsible authorities to be accountable to Minister of Health
+Occupational regulation is necessary when people cannot assess the quality and safety of services for themselves. It is particularly important in health care, where there is a high level of risk associated with the services provided by health practitioners (and the costs of adverse events are met by the public system or through ACC), and the services are essential for the public’s well-being.
+Although current regulation has been effective in ensuring high standards for practitioners, the independent and siloed nature of the regulators has been highlighted as an issue that inhibits the health system’s ability to meet future needs.
+The Bill will enable the Minister of Health to direct authorities to give effect to a Government policy that relates to their functions. As an example, directions could relate to relevant policies, administrative processes, or procedures of a responsible authority. Reasonable limitations are imposed on the directive power, as follows:
+the Minister must have considered the potential impact on the quality and safety of health care before making a direction:
+a direction cannot be about a particular person or a particular qualification. This prevents a direction being given about a responsible authority’s decision to register an individual or to recognise a particular qualification.
+The power of direction is similar to a power that allows Health Ministers in Australia to direct health workforce regulators.
+The Bill will also apply certain provisions of the Crown Entities Act 2004 to responsible authorities. Those provisions will support ongoing accountability and transparency of regulators’ activities. Responsible authorities will be required to prepare, in consultation with the Minister of Health, statements of intent and statements of performance expectations in the manner outlined in the Crown Entities Act 2004.
+Greater oversight and scrutiny of registration decisions through independent ministerial committee
+The Bill provides for the establishment of a ministerial committee that will be empowered to review and overturn regulators’ decisions when those decisions refuse or limit a practitioner’s registration or ability to practise.
+It is proposed that the committee will have a permanent chairperson and 1 or more deputy chairpersons, each of whom must be a barrister or solicitor of the High Court of not less than 7 years’ practice. The remainder of the committee will be drawn from a panel of qualified experts and lay people to review particular cases. The Minister of Health will be able to appoint to the panel any person who has the necessary skills and experience to consider the matters that are likely to come before the committee.
+The committee would be funded by the regulatory authorities, with a proportion of costs assigned to each regulatory authority based on the number of complaints expected to be heard.
+Operational and technical improvements to regulatory framework
+The Bill includes a package of amendments to improve the functioning of the Act. In relation to the key changes, the Bill—
+clarifies and strengthens offences relating to unqualified persons claiming to be health practitioners, and introduces court orders that prohibit a person from engaging or continuing to engage in conduct that would breach certain provisions:
+explicitly incorporates professional conduct (alongside competence) into decisions about registration and practising certificates:
+enables interim suspension of a practising certificate or conditions on practice to be imposed without prior notice if there is a serious risk of harm, with safeguards requiring practitioners affected to be heard as soon as practicable:
+requires responsible authorities to consult and consider the views of the public before issuing a notice that relates to a scope of practice, or a qualification required for a scope of practice:
+enables responsible authorities and professional conduct committees to refer complaints to restorative justice or conciliation processes if all parties agree:
+allows the Health Practitioners Disciplinary Tribunal to determine some matters “on the papers” if appropriate, rather than always holding full hearings.
+Commencement
+The Bill when enacted will commence on the day after Royal assent.
+Departmental disclosure statement
+The Ministry of Health is required to prepare a disclosure statement to assist with the scrutiny of this Bill. The disclosure statement provides access to information about the policy development of the Bill and identifies any significant or unusual legislative features of the Bill.
+A copy of the statement can be found at http://legislation.govt.nz/disclosure.aspx?type=bill&subtype=government&year=2026&no=287
+Regulatory impact statement
+The Ministry of Health produced a regulatory impact statement on 13 August 2025 to help inform the main policy decisions taken by the Government relating to the contents of this Bill.
+A copy of this regulatory impact statement can be found at—
+https://www.health.govt.nz/information-releases/cabinet-material-health-practitioners-competence-assurance-act-2003-policy-approval-for-amendments
+https://www.regulation.govt.nz/our-work/regulatory-impact-statements/
+Clause by clause analysis
+Clause 1 is the Title clause.
+Clause 2 is the commencement clause. It provides that the Bill comes into force on the day after Royal assent.
+Clause 3 provides that the Bill amends the Health Practitioners Competence Assurance Act 2003.
+Part 1Amendments to Parts 1 to 4 and Part 6
+Clause 4 amends section 7(2) by removing the intentional element of an offence under this provision. The element removed is that a claim by an unqualified person is calculated to suggest that the person is qualified to practise.
+Clause 5 inserts new sections 10A to 10C, which provide for banning orders that prohibit a person engaging or continuing to engage in conduct that would breach section 7, 8, or 9. New section 10C provides that contravening a banning order or an interim banning order is an offence, punishable on conviction by imprisonment for a term not exceeding 3 years, a fine not exceeding $200,000, or both.
+Clause 6 amends section 14(2) to require an authority to consult persons and organisations who the authority considers represent the views of patients before issuing a notice in relation to a scope of practice or a qualification required for a scope of practice.
+Clause 7 amends section 16(g)﻿(i) to prohibit the registration of a health practitioner who has been subject to an order of a professional disciplinary tribunal or educational institution in the past.
+Clause 8 amends section 27(1) to include an applicant’s inappropriate or otherwise unsatisfactory professional conduct as a ground requiring action under subsection (2) in relation to the issue of an annual practising certificate.
+Clause 9 replaces section 29(1) to include appropriate professional conduct as a requirement for the issue of an annual practising certificate to a health practitioner.
+Clause 10 amends section 39 to allow an interim order suspending a health practitioner’s practising certificate to be made without notice to the practitioner in certain circumstances.
+Clause 11 amends section 48 to allow action to be taken by order without notice if an authority considers a health practitioner may be unable to perform the functions of their profession because of some mental or physical condition. However, the health practitioner must be given the opportunity to be heard as soon as practicable after the order is made.
+Clause 12 amends section 67A, which sets out the action that a responsible authority must take on receiving a notice of conviction in relation to a health practitioner. The amendment requires the authority to be satisfied that it is necessary to act in the interests of public safety before taking any action under section 67A(2).
+Clause 13 amends section 70(2) to provide that the section is subject to section 69A, which deals with the interim suspension of a practising certificate.
+Clause 14 inserts new section 70A to provide that a responsible authority may refer a complaint to a restorative justice or conciliation process if all parties agree.
+Clause 15 inserts new section 79A to provide that a professional conduct committee may refer a complaint to a restorative justice or conciliation process without the committee completing an investigation and if all parties agree.
+Clause 16 amends section 80 to insert a new recommendation that may be made by a professional conduct committee: that the responsible authority review the professional conduct of the health practitioner.
+Clause 17 amends section 87 to clarify matters relating to the term of appointment of a panel member.
+Clause 18 amends section 89 to allow the Health Practitioners Disciplinary Tribunal to determine charges brought under section 91 on the papers if the Tribunal or the chairperson or a deputy chairperson considers it appropriate.
+Clause 19 inserts new sections 105A to 105O. New section 105A requires the Health Practitioners Disciplinary Tribunal to prepare annual financial statements in relation to the Tribunal. New sections 105B to 105O establish a Health Practitioners’ Review Committee to consider and determine complaints in respect of any decisions or directions of a responsible authority described in new section 105I(1). The decisions and directions include refusals to register a health practitioner and matters related to scopes of practice. New sections 105M to 105O deal with the funding of the Committee and empower the recovery of costs incurred by the Committee from responsible authorities.
+Clause 20 amends section 118. Section 118 sets the functions of authorities and includes the function of setting standards of cultural competence (including competencies that will enable effective and respectful interaction with Māori) to be observed by health practitioners. The amendment deletes the words in brackets.
+Clause 21 inserts new section 118A. New section 118A applies provisions of the Crown Entities Act 2004 to responsible authorities. The provisions applied relate to the accountability of responsible authorities and their members to the responsible Minister and include financial reporting obligations.
+Clauses 22 to 24 repeal provisions of the principal Act as a consequence of the application of provisions of the Crown Entities Act 2004 by new section 118A. Clause 23 also inserts new section 126, which gives the Minister the power to give directions that relate to the functions of responsible authorities to give effect to government policy. The Minister may only give a direction under this section if they have given consideration to the potential impact of the direction on the safety and quality of health care.
+Part 2Amendments to schedules and consequential amendments
+Clause 25 and Schedule 1 insert a new Part 2 into Schedule 1AA. The new Part sets out transitional, savings, and related provisions relating to this Bill.
+Clause 26 amends Schedule 2 to change the name of the Medical Radiation Technologists Board to the Medical Imaging and Radiation Therapy Board of New Zealand. The amendment also changes the name of the profession for which the Board is responsible from medical radiation technology to medical imaging and radiation therapy.
+Clause 27 provides for the consequential amendments set out in Schedule 2 to be made to the principal Act. The amendments are consequential on amendments made by clauses 8, 9, 18, and 26.
+Hon Simeon Brown
+Health Practitioners Competence Assurance Amendment Bill
+Government Bill
+287—1
+Contents
+Explanatory note
+1
+Title
+2
+Commencement
+3
+Principal Act
+Part 1
+Amendments to Parts 1 to 4 and Part 6
+4
+Section 7 amended (Unqualified person must not claim to be health practitioner)
+5
+New sections 10A to 10C inserted
+10A
+District Court may make banning or interim banning order
+10B
+Procedural matters
+10C
+Offence of contravening banning or interim banning order
+6
+Section 14 amended (Provisions relating to notices under sections 11 and 12)
+7
+Section 16 amended (Fitness for registration)
+8
+Section 27 amended (Restrictions on issue of annual practising certificate)
+9
+Section 29 amended (Decisions of authority as to practising certificate and scope of practice)
+10
+Section 39 amended (Interim suspension of practising certificate or inclusion of conditions in scope of practice pending review or assessment)
+11
+Section 48 amended (Interim suspension of practising certificate or inclusion of conditions in scope of practice in cases of suspected inability to perform required functions due to mental or physical condition)
+12
+Section 67A amended (Action to be taken by authority on receipt of notice of conviction)
+13
+Section 70 amended (No action to be taken while matter under investigation by Health and Disability Commissioner)
+14
+New section 70A inserted (Responsible authority may refer complaint to restorative justice or conciliation process)
+70A
+Responsible authority may refer complaint to restorative justice or conciliation process
+15
+New section 79A inserted (Professional conduct committee may refer complaint to restorative justice or conciliation process)
+79A
+Professional conduct committee may refer complaint to restorative justice or conciliation process
+16
+Section 80 amended (Recommendations and determinations of professional conduct committee)
+17
+Section 87 amended (Panel)
+18
+Section 89 amended (Hearings of Tribunal)
+19
+New sections 105A to 105O and cross-headings inserted
+Reporting by Tribunal
+105A
+Annual financial statements
+Health Practitioners’ Review Committee
+105B
+Establishment of Health Practitioners’ Review Committee
+105C
+Functions of Committee
+105D
+Membership of Committee
+105E
+Panel
+105F
+Constitution of Committee for sittings
+105G
+Sittings of Committee
+105H
+Further provisions applying to Committee
+Procedure and decisions of Committee
+105I
+Laying complaint before Committee
+105J
+Notice of complaint to be given to responsible authority
+105K
+Consideration of complaint
+105L
+Decisions of Committee
+Funding of Committee and recovery of costs
+105M
+Resourcing Committee’s administration costs
+105N
+Resourcing costs of proceedings
+105O
+Recovery of costs, fees, and expenses
+20
+Section 118 amended (Functions of authorities)
+21
+New section 118A inserted (Application of Crown Entities Act 2004 to responsible authorities)
+118A
+Application of Crown Entities Act 2004 to responsible authorities
+22
+Sections 122A to 124 and cross-heading repealed
+23
+Sections 126 to 129 replaced
+126
+Minister may give directions
+24
+Sections 134 and 134A and cross-heading repealed
+Part 2
+Amendments to schedules and consequential amendments
+25
+Schedule 1AA amended
+26
+Schedule 2 amended
+27
+Consequential amendments to principal Act
+Schedule 1
+New Part 2 inserted into Schedule 1AA
+Schedule 2
+Consequential amendments to principal Act
+The Parliament of New Zealand enacts as follows:
+1 Title
+This Act is the Health Practitioners Competence Assurance Amendment Act 2026.
+2 Commencement
+This Act comes into force on the day after Royal assent.
+3 Principal Act
+This Act amends the Health Practitioners Competence Assurance Act 2003.
+Part 1 Amendments to Parts 1 to 4 and Part 6
+4 Section 7 amended (Unqualified person must not claim to be health practitioner)
+In section 7(2), replace “is calculated to suggest” with “suggests”.
+5 New sections 10A to 10C inserted
+After section 10, insert:
+10A District Court may make banning or interim banning order
+(1)
+The District Court may, on application by the Director-General of Health, make a banning order prohibiting a person from engaging or continuing to engage in conduct that constitutes or would constitute a contravention, an attempted contravention, or an involvement in a contravention of section 7, 8, or 9 if—
+(a)
+it is satisfied that the person has engaged in conduct of that kind; or
+(b)
+it appears to the court that, if the order is not granted, it is likely that the person will engage in conduct of that kind.
+(2)
+The District Court may, on application by the Director-General of Health, make an interim banning order prohibiting a person from engaging or continuing to engage in conduct that constitutes or would constitute a contravention, an attempted contravention, or an involvement in a contravention of section 7, 8, or 9 on the grounds described in subsection (1).
+(3)
+Subsections (1)﻿(a) and (2) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
+(4)
+Subsections (1)﻿(b) and (2) apply whether or not the person has previously engaged in conduct of that kind.
+(5)
+An order made under subsection (1) has permanent effect or applies for a period specified in the order.
+(6)
+An order made under subsection (2)—
+(a)
+has effect for a period specified in the order not exceeding 3 months; and
+(b)
+must not be extended.
+(7)
+The District Court may, subject to subsection (6)﻿(b), rescind or vary an order made under this section.
+10B Procedural matters
+(1)
+The Director-General of Health may make an application under section 10A in the course of any civil or criminal proceedings or at any other time.
+(2)
+A proceeding under section 10A is a civil proceeding and the usual rules of court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
+(3)
+The Director-General may make an application under section 10A(2) without notice.
+10C Offence of contravening banning or interim banning order
+A person who contravenes a banning order or an interim banning order commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years, or to a fine not exceeding $200,000, or both.
+6 Section 14 amended (Provisions relating to notices under sections 11 and 12)
+Replace section 14(2) with:
+(2)
+Before an authority makes a notice under section 11 or 12 or under this section, the authority must—
+(a)
+consult the following about its proposal for the contents of the notice:
+(i)
+persons who the authority considers are able to represent the views of health practitioners, or of classes of health practitioners, registered with the authority; and
+(ii)
+persons who the authority considers are able to represent the views of patients; and
+(iii)
+organisations that the authority considers are able to represent the views of patients; and
+(iv)
+organisations—
+(A)
+that the authority considers will be affected by the proposal; or
+(B)
+whose members the authority considers will be affected by the proposal; and
+(b)
+take reasonable steps to obtain public views on its proposal for the contents of the notice, and take those views into account before making the notice.
+7 Section 16 amended (Fitness for registration)
+In section 16(g)﻿(i), replace “is subject” with “is, or has been, subject”.
+8 Section 27 amended (Restrictions on issue of annual practising certificate)
+After section 27(1)﻿(a), insert:
+(aa)
+the applicant’s professional conduct has been inappropriate or otherwise unsatisfactory; or
+9 Section 29 amended (Decisions of authority as to practising certificate and scope of practice)
+Replace section 29(1) with:
+(1)
+When an application for an annual practising certificate has been referred to the authority concerned by the Registrar, the authority must not decide that the certificate should be issued unless it is satisfied that—
+(a)
+the applicant meets the required standard of competence; and
+(b)
+the applicant’s professional conduct has been appropriate.
+10 Section 39 amended (Interim suspension of practising certificate or inclusion of conditions in scope of practice pending review or assessment)
+After section 39(3), insert:
+(3A)
+The authority may make an order under subsection (2)﻿(a) without complying with subsection (3) if—
+(a)
+the authority considers the risk of serious harm to the public cannot otherwise be managed; and
+(b)
+the health practitioner is given the opportunity to be heard as soon as practicable after the order is made.
+11 Section 48 amended (Interim suspension of practising certificate or inclusion of conditions in scope of practice in cases of suspected inability to perform required functions due to mental or physical condition)
+Replace section 48(4) with:
+(4)
+The authority may make an order under subsection (2) without giving notice to the health practitioner, but the authority must give the health practitioner the opportunity to be heard as soon as practicable after the order is made.
+12 Section 67A amended (Action to be taken by authority on receipt of notice of conviction)
+In section 67A(2), replace “the responsible authority” with “and the responsible authority considers it is necessary to act in the interests of public safety, it”.
+13 Section 70 amended (No action to be taken while matter under investigation by Health and Disability Commissioner)
+In section 70(2), replace “section 69” with “sections 69 and 69A”.
+14 New section 70A inserted (Responsible authority may refer complaint to restorative justice or conciliation process)
+After section 70, insert:
+70A Responsible authority may refer complaint to restorative justice or conciliation process
+Subject to sections 67A and 70, a responsible authority may refer a complaint received under section 64 to a restorative justice or conciliation process (other than the process set out in section 82) if all parties agree.
+15 New section 79A inserted (Professional conduct committee may refer complaint to restorative justice or conciliation process)
+After section 79, insert:
+79A Professional conduct committee may refer complaint to restorative justice or conciliation process
+Subject to section 79, a professional conduct committee may, without completing an investigation, refer a complaint referred to it to a restorative justice or conciliation process (other than the process set out in section 82) if all parties agree.
+16 Section 80 amended (Recommendations and determinations of professional conduct committee)
+After section 80(2)﻿(b), insert:
+(ba)
+that the authority review the professional conduct of the health practitioner:
+17 Section 87 amended (Panel)
+(1)
+After section 87(3), insert:
+(3A)
+A member of the panel—
+(a)
+is appointed for a term of 5 years or any shorter term that is specified in the notice of appointment; and
+(b)
+continues in office after the expiry of their term of office (unless the member resigns or is removed from office) until—
+(i)
+the member is reappointed; or
+(ii)
+the member’s successor is appointed; or
+(iii)
+the Minister informs the member in writing that the member is not to be reappointed.
+(2)
+Repeal section 87(4)﻿(e).
+(3)
+Replace section 87(5) with:
+(5)
+If subsection (4)﻿(d) applies, the name of the person must not be removed from the panel until any sittings in respect of which that person was appointed to the Tribunal have concluded.
+18 Section 89 amended (Hearings of Tribunal)
+After section 89(4), insert:
+(5)
+Despite anything in this Act to the contrary, the Tribunal or the chairperson or a deputy chairperson may determine a charge brought under section 91 on the papers if they consider it appropriate to do so.
+(6)
+Before doing so, the Tribunal or the chairperson or a deputy chairperson must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
+(7)
+If a matter is not determined under subsection (5), the Tribunal must convene a hearing.
+19 New sections 105A to 105O and cross-headings inserted
+After section 105, insert:
+Reporting by Tribunal
+105A Annual financial statements
+(1)
+As soon as practicable after the end of each financial year, the Tribunal must prepare financial statements in relation to the Tribunal for that financial year.
+(2)
+The financial statements must—
+(a)
+comply with generally accepted accounting practice; and
+(b)
+include information on the number of charges laid before the Tribunal in that financial year and how they were disposed of; and
+(c)
+include any other information that the Minister requires by written notice to the Tribunal.
+Compare: 2004 No 115 s 154
+Health Practitioners’ Review Committee
+105B Establishment of Health Practitioners’ Review Committee
+This section establishes a committee known as the Health Practitioners’ Review Committee (the Committee).
+105C Functions of Committee
+The functions of the Committee are—
+(a)
+to consider and determine complaints laid under section 105I:
+(b)
+to exercise and perform any other functions, powers, and duties that are conferred or imposed on it by or under this Act or any other enactment.
+105D Membership of Committee
+(1)
+The members of the Committee are—
+(a)
+a chairperson and 1 or more deputy chairpersons, each of whom must be a barrister or solicitor of the High Court of not less than 7 years’ practice, whether or not they hold or have held judicial office; and
+(b)
+the members of the panel maintained by the Minister under section 105E.
+(2)
+The chairperson and each deputy chairperson is appointed by the Minister by notice in the Gazette, after consultation by the Minister with any persons that the Minister thinks fit.
+(3)
+No person who is a member of an authority is eligible for appointment as chairperson or as a deputy chairperson or as a member of the panel.
+105E Panel
+(1)
+The Minister must maintain a panel of persons with the necessary skills and experience to consider the matters that are likely to come before the Committee.
+(2)
+The number of persons appointed under subsection (1)﻿ must be sufficient to enable the Committee to consider the matters that are likely to come before the Committee.
+(3)
+A member of the panel—
+(a)
+is appointed for a term of 5 years or any shorter term that is specified in the notice of appointment; and
+(b)
+continues in office after the expiry of their term of office (unless the member resigns or is removed from office) until—
+(i)
+the member is reappointed; or
+(ii)
+the member’s successor is appointed; or
+(iii)
+the Minister informs the member in writing that the member is not to be reappointed.
+(4)
+The name of a person must be removed from the panel if—
+(a)
+the person is convicted by any court in New Zealand or elsewhere of any offence punishable by imprisonment for a term of 3 months or longer; or
+(b)
+the person dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
+(c)
+the Minister directs that the name of the person be removed from the panel on the grounds of inability to perform the functions of the office, or for neglect of duty, or misconduct, proved to the satisfaction of the Minister; or
+(d)
+the person becomes a member of an authority; or
+(e)
+the person requests in writing addressed to the Minister that their name be removed.
+(5)
+If subsection (4)﻿(d) applies, the name of the person must not be removed from the panel until any hearings in respect of which that person was appointed to the Committee have concluded.
+105F Constitution of Committee for sittings
+For the purposes of each sitting, the Committee consists of—
+(a)
+the chairperson of the Committee or a deputy chairperson of the Committee; and
+(b)
+persons from the panel maintained by the Minister under section 105E who the chairperson or the deputy chairperson consider are suitable and sufficient in number for the matter to be considered.
+105G Sittings of Committee
+(1)
+The Committee may, as the chairperson directs, sit in 2 or more divisions, each of which—
+(a)
+has and may exercise or perform all the powers and functions of the Committee; and
+(b)
+may exercise or perform any power or function of the Committee, even though another division of the Committee is exercising or performing a power or function of the same kind at the same time.
+(2)
+Sittings of the Committee must be held at the times and places appointed by the Committee or the presiding officer for the purpose.
+(3)
+Any sitting of the Committee may be adjourned by the Committee or the presiding officer.
+(4)
+No sitting may take place unless all members of the Committee for that sitting are present, but a decision of a majority of those members is, for the purposes of the sitting, the decision of the Committee.
+105H Further provisions applying to Committee
+Clauses 1 to 7 of Schedule 1 apply to the Committee and its proceedings with all necessary modifications.
+Procedure and decisions of Committee
+105I Laying complaint before Committee
+(1)
+A person may lay a complaint with the Committee in respect of any decision or direction of an authority to—
+(a)
+decline to register the person as a health practitioner with the authority; or
+(b)
+decline to authorise a change to the person’s existing scope of practice; or
+(c)
+include conditions in the person’s scope of practice or the person’s proposed scope of practice; or
+(d)
+vary any conditions in the person’s scope of practice.
+(2)
+Every complaint laid under subsection (1) must include a statement setting out the reasons why the complainant considers the decision or direction of the authority to be unreasonable.
+105J Notice of complaint to be given to responsible authority
+(1)
+Before the Committee considers a complaint laid under section 105I, the chairperson of the Committee must ensure that the responsible authority is given a written notice that—
+(a)
+contains sufficient particulars to clearly inform the responsible authority of the substance of the complaint; and
+(b)
+specifies a date (being not less than 20 working days, and not more than 60 working days, after the date on which the responsible authority receives the notice) on which the Committee intends to consider the matter; and
+(c)
+requires the responsible authority to notify the Committee in writing, no later than a specified date (being not less than 10 working days after the date on which the notice is received by the responsible authority), whether it wishes to be heard by the Committee.
+(2)
+The chairperson of the Committee must also ensure that the complainant is promptly given a copy of the notice.
+105K Consideration of complaint
+(1)
+The Committee or the chairperson or a deputy chairperson must, as soon as reasonably practicable after giving notice under section 105J,—
+(a)
+determine the complaint on the papers, if they consider it appropriate to do so; or
+(b)
+convene a hearing of the Committee to consider the complaint.
+(2)
+Before making a determination under subsection (1)﻿(a), the Committee or the chairperson or a deputy chairperson must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
+105L Decisions of Committee
+The Committee may—
+(a)
+refuse to consider a complaint if it considers that the complaint is trivial or vexatious; or
+(b)
+take no further action on the complaint; or
+(c)
+if the Committee is satisfied that the original decision made by the responsible authority was unreasonable,—
+(i)
+refer the matter back to the responsible authority for consideration; or
+(ii)
+substitute its own decision.
+Funding of Committee and recovery of costs
+105M Resourcing Committee’s administration costs
+(1)
+The responsible authorities must pay the Committee’s general administration costs.
+(2)
+Each responsible authority must pay to the Committee at the beginning of each financial year a proportion of the Committee’s estimated general administration costs for that financial year, with the proportion being determined—
+(a)
+by the Committee; and
+(b)
+by reference to the number of complaints expected to be heard against the responsible authority in that financial year.
+(3)
+If the Committee’s estimated general administration costs for any financial year exceed the Committee’s actual general administration costs for that year, the Committee must—
+(a)
+refund to the responsible authorities, on a proportional basis, the amount of the excess; and
+(b)
+determine the proportion payable to each responsible authority by reference to the amount paid by the responsible authority toward the estimated costs.
+(4)
+If the Committee’s estimated general administration costs for any financial year are less than the Committee’s actual general administration costs for that year, the Committee may at any time (whether or not the year has ended)—
+(a)
+require the responsible authorities to pay, on a proportional basis, the shortfall in costs; and
+(b)
+determine the proportion payable by each responsible authority by reference to the amount paid by the responsible authority toward the estimated costs.
+(5)
+The Committee must provide to each responsible authority at the end of each financial year a statement showing a full breakdown of its general administration costs for that financial year.
+(6)
+In this section, general administration costs means all expenses payable by or on behalf of the Committee in connection with the administration of the Committee that are not payable in respect of any proceeding under section 105N(a) or (b) (including, without limitation, insurance costs and member training costs).
+105N Resourcing costs of proceedings
+For each proceeding against an authority, the authority must—
+(a)
+pay the fees payable in respect of the proceeding to the members of the Committee; and
+(b)
+pay any actual and reasonable expenses incurred by or on behalf of the Committee in respect of the proceeding; and
+(c)
+make available to the Committee for the purpose of the proceeding, at the authority’s expense, suitable premises and secretarial support.
+105O Recovery of costs, fees, and expenses
+The following are recoverable in any court of competent jurisdiction by the Committee from an authority as a debt due to the Committee:
+(a)
+all costs payable by an authority under section 105M; and
+(b)
+all fees and expenses payable by an authority under section 105N(a) or (b).
+20 Section 118 amended (Functions of authorities)
+In section 118(1)﻿(i), delete “(including competencies that will enable effective and respectful interaction with Māori)”.
+21 New section 118A inserted (Application of Crown Entities Act 2004 to responsible authorities)
+After section 118, insert:
+118A Application of Crown Entities Act 2004 to responsible authorities
+The following provisions of the Crown Entities Act 2004 apply, subject to this Act and with all necessary modifications, to responsible authorities and members of responsible authorities appointed by or under this Act:
+(a)
+sections 26(1)﻿(a) and (b), 49 to 60, 96 to 101, and 132 to 134:
+(b)
+Part 4.
+22 Sections 122A to 124 and cross-heading repealed
+Repeal sections 122A to 124 and the cross-heading above section 122A.
+23 Sections 126 to 129 replaced
+Replace sections 126 to 129 with:
+126 Minister may give directions
+(1)
+The Minister may, by written notice, direct 1 or more authorities to give effect to a government policy that relates to the authorities’ functions under this Act.
+(2)
+Without limiting subsection (1), a direction under this section may relate to—
+(a)
+a matter relevant to the policies of an authority; or
+(b)
+an administrative or organisational process of an authority; or
+(c)
+a procedure of an authority; or
+(d)
+a scope of practice or a proposal for a scope of practice.
+Examples
+The Minister may direct an authority to create a scope of practice for a particular health profession.
+The Minister may direct multiple authorities to create joint scopes of practice to ensure consistency across related health professions.
+The Minister may direct 1 or more authorities to streamline registration or other administration processes through the use of a shared service organisation.
+The Minister may direct 1 or more authorities to review the accreditation standards of specialist education providers to ensure that the standards reflect specified system needs.
+(3)
+The Minister may only give a direction under this section if they have given consideration to the potential impact of the direction on the safety and quality of health care.
+(4)
+A direction under this section must not be about—
+(a)
+a particular individual; or
+(b)
+a particular qualification.
+(5)
+An authority must comply with a direction given to it under this section.
+24 Sections 134 and 134A and cross-heading repealed
+Repeal sections 134 and 134A and the cross-heading above section 134A.
+Part 2 Amendments to schedules and consequential amendments
+25 Schedule 1AA amended
+In Schedule 1AA,—
+(a)
+insert the Part set out in Schedule 1 of this Act as the last Part; and
+(b)
+make all necessary consequential amendments.
+26 Schedule 2 amended
+(1)
+In Schedule 2, repeal the item relating to the Medical Radiation Technologists Board.
+(2)
+In Schedule 2, insert in its appropriate alphabetical order:
+Medical Imaging and Radiation Therapy Board of New Zealand (formerly known as the Medical Radiation Technologists Board, being the Board continued by section 4A(1) of the Medical Auxiliaries Act 1966)
+Practice of medical imaging and radiation therapy
+27 Consequential amendments to principal Act
+Amend the principal Act as set out in Schedule 2.
+Schedule 1 New Part 2 inserted into Schedule 1AA
+s 25
+Part 2 Provisions relating to Health Practitioners Competence Assurance Amendment Act 2026
+3 Interpretation
+In this Part,—
+amendment Act means the Health Practitioners Competence Assurance Amendment Act 2026
+commencement date means the date on which the amendment Act comes into force.
+4 Review of amendments made by amendment Act
+(1)
+The Director-General must review the operation and effectiveness of the amendments made by the amendment Act.
+(2)
+The Director-General must report the findings of the review to the Minister within 5 years of the commencement date.
+(3)
+The Minister must present a copy of the report on the review to the House of Representatives as soon as practicable after receiving the report.
+Schedule 2 Consequential amendments to principal Act
+s 27
+Section 4
+In section 4(3), after “improving the competence”, insert “and professional conduct”.
+In section 4(3), after “of competence”, insert “or professional conduct”.
+In section 4(3), replace “competence reviews” with “competence and professional conduct reviews”.
+In section 4(3)﻿(b), after “standard of competence”, insert “or through inappropriate professional conduct”.
+In section 4(4), replace “hear” with “consider”.
+In section 4(4), after “practitioners.”, insert “The Part establishes the Health Practitioners’ Review Committee to consider and determine complaints from health practitioners in respect of certain decisions and directions of responsible authorities.”
+Section 8
+In section 8(3)﻿(c), after “competence”, insert “or professional conduct”.
+Section 9
+In section 9(5)﻿(c), after “competence”, insert “or professional conduct”.
+Part 3 heading
+In the Part 3 heading, after “Competence,” insert “professional conduct,”.
+Section 34
+In the heading to section 34, after “competence”, insert “or professional conduct inappropriate”.
+In section 34(1) and (2), after “standard of competence”, insert “or through inappropriate professional conduct”.
+In section 34(3), after “competence” insert “or professional conduct”.
+Section 36
+In the heading to section 36, after “competence”, insert “or professional conduct”.
+In section 36(1), (2)﻿(a), (3A), (4), and (5), after “competence”, insert “or professional conduct” in each place.
+In section 36(1) and (4), after “current” insert “or suspended”.
+Section 37
+In the heading to section 37, after “competence”, insert “or professional conduct”.
+In section 37(1)﻿(b), replace “his or her competence” with “their competence or professional conduct”.
+Section 38
+In the heading to section 38, after “competence”, insert “or professional conduct”.
+In section 38(1) and (2), after “standard of competence”, insert “or professional conduct”.
+Section 39
+In section 39(1)﻿(b), after “standard of competence”, insert “or through inappropriate professional conduct”.
+Section 42
+In section 42, after “the competence”, insert “or professional conduct”.
+Section 73
+In section 73(4), replace “the hearing” with “a hearing”.
+Section 85
+In section 85(a), replace “hear” with “consider”.
+Section 88
+In the heading to section 88, replace “hearings” with “sittings”.
+In section 88, replace “hearing” with “sitting” in each place.
+Section 89
+In the heading to section 89, replace “Hearings” with “Sittings”.
+In section 89(2), replace “Hearings” with “Sittings”.
+In section 89(3) and (4), replace “hearing” with “sitting” in each place.
+Section 91
+In section 91(3) and (4), delete “at the hearing”.
+In section 91(6), replace “hearing” with “sitting”.
+Section 100
+In section 100(1), replace “conducting a hearing on” with “considering”.
+Section 101
+In section 101(1)﻿(f)﻿(iv), replace “the hearing” with “any hearing”.
+Section 163
+In section 163(2), replace “Medical Radiation Technologists Board” with “Medical Imaging and Radiation Therapy Board of New Zealand”.
+In section 163(2), replace “medical radiation technology” with “medical imaging and radiation therapy”.
+Section 182
+In section 182(2), replace “Medical Radiation Technologists Board” with “Medical Imaging and Radiation Therapy Board of New Zealand”.
+In section 182(2), replace “medical radiation technology” with “medical imaging and radiation therapy”.
+Section 199
+In section 199(1) and (3), replace “Medical Radiation Technologists Board” with “Medical Imaging and Radiation Therapy Board of New Zealand”.
+Schedule 1
+In Schedule 1, clause 5(3), replace “hearing” with “sitting”.
+In Schedule 1, clause 8(1), replace “the hearing” with “a hearing”.
+In Schedule 1, clause 15(1), replace “hearing” with “consideration”.

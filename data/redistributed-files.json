@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "S044",
+    "path": "sources/S044.pdf",
+    "sha256": "5a33ee9ef3f4a3656da48059db0b42521671c161403f44925127b816a12320c5",
+    "original_url": "https://www.courtsofnz.govt.nz/assets/cases/2007/unisonnetworkslimitedvcommercecommission_001.pdf",
+    "rights_basis": "Copyright Act 1994 section 27",
+    "conditions": "Official legislative/judicial text only; preserve provenance, any notices and independent publication restrictions; do not label Apache-2.0.",
+    "review_limit": "Identity verified against retained Supreme Court judgment header; preserve notices and provenance. No suppression notice identified in bounded text check."
+  },
+  {
+    "source_id": "S116",
+    "path": "sources/S116.pdf",
+    "sha256": "9d3d18c72408873a3ae8ecf9b000a246527eb9f78a8ce59212aae813fd53487f",
+    "original_url": "https://www.courtsofnz.govt.nz/assets/cases/2010/sc-57-2009-wyeth-nz-ltd-v-ancare-new-zealand-ltd-and-erma-civil-appeal.pdf",
+    "rights_basis": "Copyright Act 1994 section 27",
+    "conditions": "Official legislative/judicial text only; preserve provenance, any notices and independent publication restrictions; do not label Apache-2.0.",
+    "review_limit": "Identity verified against retained Supreme Court judgment header; preserve notices and provenance. No suppression notice identified in bounded text check."
+  },
+  {
+    "source_id": "S117",
+    "path": "sources/S117.pdf",
+    "sha256": "d1d3e713c4e06589a62a754af3b783fbcfa6b9b9bf31bebfe154cbee739b7ee8",
+    "original_url": "https://www.courtsofnz.govt.nz/assets/cases/2018/2018-NZSC-84.pdf",
+    "rights_basis": "Copyright Act 1994 section 27",
+    "conditions": "Official legislative/judicial text only; preserve provenance, any notices and independent publication restrictions; do not label Apache-2.0.",
+    "review_limit": "Identity verified against retained Supreme Court judgment header; preserve notices and provenance. No suppression notice identified in bounded text check."
+  }
+]

@@ -1,0 +1,22 @@
+event_id,event_date,record_date,actor,action,source_id,locator,observed_state,evidence_limit,causal_inference
+APPT-01,2025-10-14,2025-10-14,Doocey,Nomination invitation,appointments,Doc1 p1,Recruitment opened to caucus,No Love-specific selection,False
+APPT-02,2026-02-10,2026-02-10,Ministry,Shortlist sent,appointments,"Doc2 pp2,4–12",Love seeking reappointment; continuity recommended,Recommendation not approval,False
+APPT-03,2026-02-20,2026-02-20,Aldridge,Minister had not engaged,appointments,Doc2 p2,Decision not yet considered,Email report,False
+APPT-04,2026-03-05,2026-03-05,Minister office,Selected Love for due diligence,appointments,Doc4 p28; Doc5 p35,Signed briefing transmitted; Love explicitly named,Selection for assessment not appointment,False
+APPT-05,2026-03-26,2026-03-26,Ministry,Advice for planned2April meeting,premeeting,premeeting paras7–19,"Assessment, proportionality, specialties concerns",Prepared advice not evidence of words delivered,False
+APPT-06,2026-04-23,2026-04-23,Ministry,Recommend Love three-year term,appointments,"Doc5 pp34,39",Recommended appointment,Released minister decision boxes unmarked; official signature only,False
+APPT-07,2026-04-28,2026-04-30,Minister as reported by Ministry,Selected Love for reappointment,appointments,Doc8 p51 para2,Explicit earlier positive ministerial selection,Reported event date; not completed Gazette appointment,False
+APPT-08,2026-04-29,2026-04-29,Aldridge,Transmit signed candidate decision,appointments,"Doc6 p44,43",Signed briefing reported; decision unchanged after adviser recheck,Released signed attachment not authenticated as exact retained unsigned copy,False
+APPT-09,2026-04-30,2026-05-01,Minister office,Appointments briefing signed and consultation commenced,appointments,Doc8 p48,Email says signed last night and sent for consultation,Scope endorsement supported; individual signed pages absent,False
+APPT-10,,2026-04/05,Minister office draft/proposed paper,Propose Love term1June2026–31May2029,appointments,Doc9 pp59–63,Proposal explicitly includes Love,"Undated, unsigned lodgement block; no authenticated lodged version",False
+APPT-11,2026-05-06,2026-05-06,Ministry,Seek consultation confirmation before CabNet upload,appointments,Doc10 p68,Awaiting office confirmation,Does not prove upload/lodgement occurred,False
+APPT-12,2026-05-12,2026-05-13,APH stage reported by Aldridge,Love did not progress; request thank-you letter,appointments,Doc10 p68,Change from positive selection to non-progression,"No actual minute, objector or reason identified",False
+APPT-13,2026-05-18,2026-04-30,Planned Cabinet milestone,Cabinet confirmation scheduled,appointments,Doc8 p49,Planned only,Actual confirmation date/minute unlocated,False
+APPT-14,2026-05-20,2026-05-21,Minister office,Mulgan due diligence instructed,appointments,"Doc11 p70; Doc20 pp87,89",Additional candidate following APH discussions,No proof he replaced Love or caused reversal,False
+APPT-15,2026-05-27T14:03,2026-05-27,Minister office,Final non-reappointment notice to Love,appointments,Doc12 pp71–72,Minister-signed notice; non-adverse contribution assurance,No Love-signed acceptance found,False
+APPT-16,2026-06-10,2026-06-10,Minister office/Council,Check planned chair/deputy announcement,appointments,Doc18 p82,Council elected Clark and Wu,Message date not website publication or election date,False
+APPT-17,2026-06-17,2026-06-17,Brown as reported by Dunlop,Public explanation criticises political distraction,teaonews,teaonews article,Later public explanation,Not APH deliberation record or proved cause,False
+APPT-18,2026-06-25,2026-06-25,Andie Cook,Reports accepted appointment commencing1June,appointments,Doc23 p101; Doc24 pp103–104,Cook acceptance statement,Not Love; signed acceptance itself absent,False
+APPT-19,2026-07-21,2026-07-21,Minister,Sign appointment Gazette notice,appointments,Doc26 p110,Final named appointees omit Love,Signature date distinct from publication/effect,False
+APPT-20,2026-07-23,2026-07-24,Minister office,Gazette publication reported,appointments,Doc31 p125,23July due;24July described as gazetted,Actual Gazette entry/identifier unlocated,False
+APPT-21,2026-07-27,2026-07-27,Minister,Public appointments announcement,beehive-july27,beehive-july27,Four new/two reappointed; Love/Watt outgoing,Announcement not first selection or membership election,False

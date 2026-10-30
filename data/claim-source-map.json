@@ -1,0 +1,148 @@
+[
+  {
+    "claim_id": "C01",
+    "label": "Earlier selection and later non-progression",
+    "source_ids": [
+      "S091"
+    ],
+    "event_ids": [
+      "APPT-07",
+      "APPT-12",
+      "APPT-15"
+    ],
+    "interpretive_limit": "Chronology establishes a change, not its cause."
+  },
+  {
+    "claim_id": "C02",
+    "label": "No located completed Love appointment",
+    "source_ids": [
+      "S091",
+      "S039"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "Missing instrument is not proof none existed; Cook acceptance is a different person."
+  },
+  {
+    "claim_id": "C03",
+    "label": "Ministerial appointment and Council chair election are distinct",
+    "source_ids": [
+      "S039",
+      "S114"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "APH is an administrative stage, not the statutory appointing person."
+  },
+  {
+    "claim_id": "C04",
+    "label": "Practical concerns prepared before planned meeting",
+    "source_ids": [
+      "S090"
+    ],
+    "event_ids": [
+      "APPT-05"
+    ],
+    "interpretive_limit": "Briefing does not prove delivery of its contents."
+  },
+  {
+    "claim_id": "C05",
+    "label": "Later attributed public criticism",
+    "source_ids": [
+      "S073"
+    ],
+    "event_ids": [
+      "APPT-17"
+    ],
+    "interpretive_limit": "Subsequent explanation is not contemporaneous decision evidence."
+  },
+  {
+    "claim_id": "C06",
+    "label": "Favourable institutional review",
+    "source_ids": [
+      "S083"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "May assessment and June final report differ; prior ministerial receipt not established."
+  },
+  {
+    "claim_id": "C07",
+    "label": "Conditional procedural fairness",
+    "source_ids": [
+      "S039",
+      "S116",
+      "S025"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "No general entitlement to renewal or proven absence of response opportunity."
+  },
+  {
+    "claim_id": "C08",
+    "label": "Existing functions versus proposed powers",
+    "source_ids": [
+      "S039",
+      "S036",
+      "S108"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "Proposed legislation is distinct from decision-date law."
+  },
+  {
+    "claim_id": "C09",
+    "label": "Statutory purpose constrains discretion",
+    "source_ids": [
+      "S044"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "Concurrent objectives possible; regulator prevailed."
+  },
+  {
+    "claim_id": "C10",
+    "label": "Continued cultural-safety work",
+    "source_ids": [
+      "S082",
+      "S100",
+      "S111"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "Publication-law transition does not establish abandonment or use of proposed direction powers."
+  },
+  {
+    "claim_id": "C11",
+    "label": "Contrasting training evidence",
+    "source_ids": [
+      "S098",
+      "S096"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "Standardised-patient experience and clinical diabetes outcomes differ; US intervention combined training and feedback."
+  },
+  {
+    "claim_id": "C12",
+    "label": "Specific reasons and proportionate safeguards",
+    "source_ids": [
+      "S091",
+      "S039",
+      "S116"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "Normative proposals, not findings of unlawful conduct."
+  },
+  {
+    "claim_id": "C13",
+    "label": "Institutional signalling risk",
+    "source_ids": [
+      "S091",
+      "S082"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "Plausible interpretation, not demonstrated effect; contrary continuation evidence retained."
+  },
+  {
+    "claim_id": "C14",
+    "label": "Review, audit and conciliation mechanisms",
+    "source_ids": [
+      "S039"
+    ],
+    "event_ids": [],
+    "interpretive_limit": "Not asserted to be prerequisites to non-reappointment."
+  }
+]

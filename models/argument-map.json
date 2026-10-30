@@ -1,0 +1,58 @@
+{
+  "method": "Author-constructed argument map, not causal or quantitative model. Nodes distinguish public evidence, interpretations, conditional questions and proposed safeguards.",
+  "nodes": {
+    "A": [
+      "S091",
+      "APPT-07",
+      "APPT-12",
+      "APPT-15"
+    ],
+    "B": [
+      "S090",
+      "S083",
+      "S091"
+    ],
+    "C": [
+      "S039",
+      "S036",
+      "S082"
+    ],
+    "D": [
+      "A"
+    ],
+    "F": [
+      "B"
+    ],
+    "G": [
+      "C"
+    ],
+    "H": [
+      "D"
+    ],
+    "I": [
+      "F",
+      "S116"
+    ],
+    "J": [
+      "G",
+      "S082"
+    ],
+    "K": [
+      "H",
+      "I",
+      "J"
+    ]
+  },
+  "arrows": "Supports, qualifies, or identifies questions; no demonstrated causal effect inferred.",
+  "contrary_evidence": [
+    "Positive institutional review",
+    "Non-adverse assurance",
+    "Continuing2019statement"
+  ],
+  "missing": [
+    "ActualAPHminute",
+    "Authoritativelodgedpaper",
+    "Reasonsforchange",
+    "Love-specificcompletedappointment"
+  ]
+}

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" id="Definitions_appointments" targetNamespace="https://research.local/nzmj2026202" exporter="Case-local descriptive process exporter" exporterVersion="1">
+  <bpmn:process id="appointments" name="Documented appointment sequence" isExecutable="false">
+    <bpmn:documentation>Sequence reconstructed from released records. The reason for APH non-progression and the authoritative lodged version remain unlocated. Formal appointment is a ministerial statutory act; Council leadership election is separate.</bpmn:documentation>
+    <bpmn:startEvent id="appointments_start"/>
+    <bpmn:subProcess id="appointments_assessment" name="Ministry assessment and ministerial selection">
+      <bpmn:startEvent id="assessment_start"/>
+      <bpmn:task id="a1" name="Ministry recommends candidates">
+        <bpmn:documentation>APPT-02</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="a2" name="Minister selects Love for assessment">
+        <bpmn:documentation>APPT-04</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="a3" name="Ministry records 28 April selection for reappointment">
+        <bpmn:documentation>APPT-07</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:endEvent id="assessment_end"/>
+      <bpmn:sequenceFlow id="appointments_assessment_flow0" sourceRef="assessment_start" targetRef="a1"/>
+      <bpmn:sequenceFlow id="appointments_assessment_flow1" sourceRef="a1" targetRef="a2"/>
+      <bpmn:sequenceFlow id="appointments_assessment_flow2" sourceRef="a2" targetRef="a3"/>
+      <bpmn:sequenceFlow id="appointments_assessment_flow3" sourceRef="a3" targetRef="assessment_end"/>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="appointments_consideration" name="Consultation and APH consideration">
+      <bpmn:startEvent id="consideration_start"/>
+      <bpmn:task id="a4" name="Office reports signing and consultation">
+        <bpmn:documentation>APPT-09</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:task id="a5" name="Office reports Love did not progress at APH">
+        <bpmn:documentation>APPT-12</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:endEvent id="consideration_end"/>
+      <bpmn:sequenceFlow id="appointments_consideration_flow0" sourceRef="consideration_start" targetRef="a4"/>
+      <bpmn:sequenceFlow id="appointments_consideration_flow1" sourceRef="a4" targetRef="a5"/>
+      <bpmn:sequenceFlow id="appointments_consideration_flow2" sourceRef="a5" targetRef="consideration_end"/>
+    </bpmn:subProcess>
+    <bpmn:subProcess id="appointments_notification" name="Written notification">
+      <bpmn:startEvent id="notification_start"/>
+      <bpmn:task id="a6" name="Minister notifies Love of non-reappointment">
+        <bpmn:documentation>APPT-15</bpmn:documentation>
+      </bpmn:task>
+      <bpmn:endEvent id="notification_end"/>
+      <bpmn:sequenceFlow id="appointments_notification_flow0" sourceRef="notification_start" targetRef="a6"/>
+      <bpmn:sequenceFlow id="appointments_notification_flow1" sourceRef="a6" targetRef="notification_end"/>
+    </bpmn:subProcess>
+    <bpmn:endEvent id="appointments_end"/>
+    <bpmn:sequenceFlow id="appointments_flow0" sourceRef="appointments_start" targetRef="appointments_assessment"/>
+    <bpmn:sequenceFlow id="appointments_flow1" sourceRef="appointments_assessment" targetRef="appointments_consideration"/>
+    <bpmn:sequenceFlow id="appointments_flow2" sourceRef="appointments_consideration" targetRef="appointments_notification"/>
+    <bpmn:sequenceFlow id="appointments_flow3" sourceRef="appointments_notification" targetRef="appointments_end"/>
+    <bpmn:textAnnotation id="appointments_limit">
+      <bpmn:text>Sequence reconstructed from released records. The reason for APH non-progression and the authoritative lodged version remain unlocated. Formal appointment is a ministerial statutory act; Council leadership election is separate.</bpmn:text>
+    </bpmn:textAnnotation>
+  </bpmn:process>
+</bpmn:definitions>
