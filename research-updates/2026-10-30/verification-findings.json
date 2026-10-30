@@ -1,0 +1,69 @@
+[
+  {
+    "id": "GAP01",
+    "finding": "Public archive is accessible; unrelated project workflow histories do not reconstruct its contents.",
+    "status": "verified",
+    "evidence": "GitHub API confirms private=false; immutable v1.0.0 accessible."
+  },
+  {
+    "id": "GAP02",
+    "finding": "ACT release is dated16June2026 and describes a February letter to the Minister, not a July release or a letter to MCNZ.",
+    "status": "verified",
+    "sources": [
+      "G027"
+    ],
+    "implication": "Direct evidence of a party spokesperson linking appointments to desired regulatory direction; not proof of Minister motive or actual Council change."
+  },
+  {
+    "id": "GAP03",
+    "finding": "The16March message names Manoja Kalupahana and identifies Thomas Wyatt to Cristyn Aldridge. These details are not missing from the released record.",
+    "status": "verified",
+    "sources": [
+      "G045"
+    ],
+    "implication": "Assess provenance, lawful discretion and recorded reasons; do not infer irregularity or delay causation solely from an additional interview candidate.",
+    "contrary_evidence": "BLACKBOX PDFp26:18March reply says candidate already on interview list and details previously forwarded.",
+    "locators": [
+      "PDFp24:5March",
+      "PDFp25:16March",
+      "PDFp26:18March"
+    ]
+  },
+  {
+    "id": "GAP04",
+    "finding": "Pharmacy Council briefing records a requested meeting and stated purpose of meeting ministerial expectations.",
+    "status": "verified_limited",
+    "sources": [
+      "G014"
+    ],
+    "implication": "Context only. Does not establish an appointment bargain, improper alignment or ministerial election of MCNZ leaders."
+  },
+  {
+    "id": "GAP05",
+    "finding": "FSU page lists20October2026 regulator-neutrality correspondence concerning Cath Simpson and lawful political opinions.",
+    "status": "verified_limited",
+    "sources": [
+      "G026"
+    ],
+    "implication": "Retrieve underlying letters before interpreting precise legal proposals; do not equate neutral regulation with abolition of all cultural-safety duties."
+  },
+  {
+    "id": "GAP06",
+    "finding": "Gazette and Beehive direct captures returned challenge/empty content; HTTP success did not establish source retrieval.",
+    "status": "access_limit",
+    "sources": [
+      "G028",
+      "G032"
+    ],
+    "implication": "Do not adopt effective dates from inaccessible instrument. Ministerial announcement27July is independently discoverable and retained in existing appointment bundle."
+  },
+  {
+    "id": "GAP07",
+    "finding": "A shortlist or proposed timetable is not a statutory appointment or statutory deadline. Public-interest balance and judicial-review outcome cannot be assumed.",
+    "status": "reasoning_limit",
+    "sources": [
+      "G045"
+    ],
+    "implication": "Retain conditional fairness and purpose analysis; no automatic entitlement to reappointment, misconduct finding or mandatory release of personal candidate information."
+  }
+]

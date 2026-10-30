@@ -1,0 +1,43 @@
+{
+  "checked": "2026-10-30",
+  "repositories": [
+    {
+      "repository": "edithatogo/nz-hansard-source-archive",
+      "revision": "72e7f2971d07c2f8a8342a2f4396a68b6584b2b8",
+      "url": "https://huggingface.co/datasets/edithatogo/nz-hansard-source-archive/tree/72e7f2971d07c2f8a8342a2f4396a68b6584b2b8"
+    },
+    {
+      "repository": "edithatogo/nz-hansard-corpus",
+      "revision": "dc8f0937c787e51a1124ea22dd431a0e7b42e03f",
+      "url": "https://huggingface.co/datasets/edithatogo/nz-hansard-corpus/tree/dc8f0937c787e51a1124ea22dd431a0e7b42e03f"
+    },
+    {
+      "repository": "edithatogo/fyi-archive-nz",
+      "revision": "532e532deed23311f02932f8b6e81e3d9f661513",
+      "url": "https://huggingface.co/datasets/edithatogo/fyi-archive-nz/tree/532e532deed23311f02932f8b6e81e3d9f661513"
+    }
+  ],
+  "hansard_limit": "Available manifest describes2024-09-06 extract; requested later2026dates not found in retained source inventory. No proof of current comprehensivecoverage.",
+  "fyi_limit": "Index contains requests34918/34919 with capturedHTML hashes/WARC references; selected raw-package manifest does not expose those full objects. Index presence is not raw retrieval.",
+  "fallback": "Three official daily PDFs obtained privately. All carry Subject to Revision/Not to be Quoted or Distributed warning; final text requires qualification before manuscript use or public reproduction.",
+  "pdf_sources": [
+    {
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-06-30/2026-06-30-daily.pdf",
+      "sha256": "554bdf8ffacec42a678f02e86604dec8eb9429c4d061cd1e8b2ae7e68aa4920e",
+      "bytes": 5211829,
+      "pdf": true
+    },
+    {
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-07-29/2026-07-29-daily.pdf",
+      "sha256": "fcf7170862dc8612204b0f279bb67aa33fea43d987820da910d6e56ac3cff0d9",
+      "bytes": 812461,
+      "pdf": true
+    },
+    {
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-08-06/2026-08-06-daily.pdf",
+      "sha256": "f5af794810b452e7f406290d4b7172c7eac761002a8aea6a42275690a93f370f",
+      "bytes": 588560,
+      "pdf": true
+    }
+  ]
+}
