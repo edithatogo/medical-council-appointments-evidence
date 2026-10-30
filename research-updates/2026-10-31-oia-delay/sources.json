@@ -1,0 +1,33 @@
+[
+  {
+    "id": "OIA-GUIDE-202605",
+    "url": "https://www.ombudsman.parliament.nz/sites/default/files/2026-05/A%20guide%20to%20section%2018%28d%29%20of%20the%20OIA%20and%20section%2017%28d%29%20of%20the%20LGOIMA.pdf",
+    "title": "Publicly available information: section18(d) guide",
+    "date": "Updated May2026; inherited August2019footer",
+    "locator": "PDF3,5\u20137,21\u201323",
+    "sha256": "5bc8cf9369a9d3f6642f11f4e4714880aec3babf9faed6407382c2a39ca93909",
+    "access": "Full relevant text reviewed",
+    "rights": "Original source linked; retained privately; no raw public redistribution"
+  },
+  {
+    "id": "OIA-BUDGET-2026",
+    "url": "https://www.ombudsman.parliament.nz/news/treasury-able-refuse-request-2024-budget-information-ahead-proactive-release",
+    "title": "Treasury able to refuse request for2024Budget information",
+    "date": "29May2026",
+    "locator": "Full publisher summary; contrary evidence",
+    "sha256": "82227884beae74ca0f81e1d8bdcfbcb66d820f102c3238ad10f219e0849bfc53",
+    "access": "Full relevant text reviewed",
+    "rights": "Original source linked; retained privately; no raw public redistribution"
+  },
+  {
+    "id": "ELECTION-2026",
+    "url": "https://elections.nz/media-and-news/2026/voting-places-announced-for-2026-election",
+    "title": "Voting places announced for2026election",
+    "date": "7October2026",
+    "locator": "Advance26October; election7November",
+    "access": "Full publisher text accessed through web tool; CLI returned Incapsula shell. Verification receipt is derived, not raw original.",
+    "rights": "Original source linked; retained privately; no raw public redistribution",
+    "failed_cli_capture_sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+    "sha256": "f8731dbd03ee57e876dfafd418c5cdb9673e1e919db35a6279410114920c565a"
+  }
+]

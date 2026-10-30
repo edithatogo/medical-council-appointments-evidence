@@ -8,3 +8,5 @@ The immutable v1.0.0 release remains the baseline. Later entries below extend it
 Machine-readable extension index: [catalogue extensions](../data/catalogue-extensions.json). Source-specific rights apply; these records do not license external documents generally.
 
 - [APH release and OIA reconciliation,31October2026](2026-10-31-aph-release/README.md): corrects paper-status wording and separates release/refusal outcomes.
+
+- [Timely access and release completeness](2026-10-31-oia-delay/README.md).

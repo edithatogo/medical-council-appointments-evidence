@@ -13,6 +13,10 @@
     {
       "path": "research-updates/2026-10-31-aph-release/sources.json",
       "scope": "APH release identity, OIA outcomes and recordkeeping; supersedes categorical missing-paper wording"
+    },
+    {
+      "path": "research-updates/2026-10-31-oia-delay/sources.json",
+      "scope": "Timely access and release completeness"
     }
   ]
 }
